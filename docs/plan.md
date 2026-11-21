@@ -27,7 +27,7 @@ Done when: one CSV of national and regional deaths, injuries and crashes by year
 ## Phase 2 — News agent (weeks 2–4)
 Done when: 90% of fields are correct in a hand check of 50 random records.
 - [x] 2a. Check which outlets can be collected (`pipeline/news/SOURCES.md`): Citizen + Mwananchi by RSS, Daily News + HabariLeo + Chanzo by WordPress search; IPP blocked; Millard Ayo down; GDELT rate-limited
-- [ ] 2a+. Collector: fetch every 3 hours, keyword pre-filter, store candidate articles (URL, title, date, outlet)
+- [x] 2a+. Collector (`pipeline/news/collect.py`): keyword pre-filter, retries, dedup by URL → `data/news/candidates.jsonl` (local, not committed). 12-month backfill of the 3 WordPress sites: 166 candidates
 - [ ] 2b. Filter: a cheap AI call answers "is this a specific road crash in Tanzania?"
 - [ ] 2c. Extract: AI returns the crash record as JSON (English and Swahili)
 - [ ] 2d. Geocode: match place names against a region/district gazetteer
