@@ -24,7 +24,7 @@ Done when: one CSV of national and regional deaths, injuries and crashes by year
   - Results: `docs/checks-official.md`; data: `data/interim/official_checked.csv`
 - [x] 1g. Write `data/processed/official.csv` (+ `official_national_summary.csv`, `README.md`; rebuild all: `bash pipeline/official/run_all.sh`)
 
-## Phase 2 — News agent (weeks 2–4)
+## Phase 2 — News agent (weeks 2–4) ✅
 Done when: 90% of fields are correct in a hand check of 50 random records.
 - [x] 2a. Check which outlets can be collected (`pipeline/news/SOURCES.md`): Citizen + Mwananchi by RSS, Daily News + HabariLeo + Chanzo by WordPress search; IPP blocked; Millard Ayo down; GDELT rate-limited
 - [x] 2a+. Collector (`pipeline/news/collect.py`): keyword pre-filter, retries, dedup by URL → `data/news/candidates.jsonl` (local, not committed). 12-month backfill of the 3 WordPress sites: 166 candidates
@@ -35,7 +35,7 @@ Done when: 90% of fields are correct in a hand check of 50 random records.
 - [x] 2e. Deduplicate (`pipeline/news/dedupe.py`): date ±2 days + same region + overlapping vehicle families + same district; never merge two crashes from one article. 32 records → 24 crashes in `data/news/crashes.json`; keeps highest toll and every source link
 - [x] 2f. Storage (file-based, chosen over Supabase for v1): `data/news/` state committed (summaries deleted after screening), review queue via `pipeline/news/review.py`, decisions in `data/news/review.json`, `publish.py` → `data/processed/news_crashes.csv/.json`. 24 crashes: 18 auto-approved, 6 waiting for review
 - [x] 2g. GitHub Actions every 3 hours (`.github/workflows/news.yml`); a run with zero articles fails and GitHub emails the owner. Private repo; needs secret ANTHROPIC_API_KEY
-- [ ] 2h. Backfill 12 months; hand-check 50 records
+- [x] 2h. Backfill 12 months (3 WordPress outlets); hand-check of all 45 extracted records: 360/360 fields correct (100%, target 90%). See `docs/accuracy-check-2h.md`
 
 ## Phase 3 — Dashboard (weeks 4–6)
 Done when: the overview page loads in under 3 seconds on 3G.
