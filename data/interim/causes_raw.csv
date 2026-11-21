@@ -1,0 +1,205 @@
+year,area,cause_group,cause,accidents,source,source_doc,source_table,source_page
+2018,Tanzania Mainland,human,dangerous_driving,496,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 36,64
+2018,Tanzania Mainland,human,careless_driving,1046,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 36,64
+2018,Tanzania Mainland,human,careless_cyclists,103,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 36,64
+2018,Tanzania Mainland,human,careless_motorcyclists,725,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 36,64
+2018,Tanzania Mainland,human,careless_passengers,1,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 36,64
+2018,Tanzania Mainland,human,overspeeding,364,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 36,64
+2018,Tanzania Mainland,human,unattended_livestock,1,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 36,64
+2018,Tanzania Mainland,human,careless_overtaking,217,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 36,64
+2018,Tanzania Mainland,human,careless_pedestrians,259,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 36,64
+2018,Tanzania Mainland,human,careless_pushcart_operators,7,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 36,64
+2018,Tanzania Mainland,human,intoxication,61,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 36,64
+2018,Tanzania Mainland,vehicle,vehicle_defects,197,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 36,64
+2018,Tanzania Mainland,vehicle,poor_vehicle_lighting,31,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 36,64
+2018,Tanzania Mainland,environment,fire,14,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 36,64
+2018,Tanzania Mainland,environment,road_barriers,120,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 36,64
+2018,Tanzania Mainland,environment,poor_road_infrastructure,80,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 36,64
+2018,Tanzania Mainland,environment,railway_crossing,10,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 36,64
+2018,Tanzania Mainland,human,dangerous_driving,496,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 36,68
+2018,Tanzania Mainland,human,careless_driving,1046,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 36,68
+2018,Tanzania Mainland,human,careless_cyclists,103,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 36,68
+2018,Tanzania Mainland,human,careless_motorcyclists,725,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 36,68
+2018,Tanzania Mainland,human,careless_passengers,1,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 36,68
+2018,Tanzania Mainland,human,overspeeding,364,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 36,68
+2018,Tanzania Mainland,human,unattended_livestock,1,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 36,68
+2018,Tanzania Mainland,human,careless_overtaking,217,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 36,68
+2018,Tanzania Mainland,human,careless_pedestrians,259,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 36,68
+2018,Tanzania Mainland,human,careless_pushcart_operators,7,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 36,68
+2018,Tanzania Mainland,human,intoxication,61,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 36,68
+2018,Tanzania Mainland,vehicle,vehicle_defects,197,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 36,68
+2018,Tanzania Mainland,vehicle,poor_vehicle_lighting,31,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 36,68
+2018,Tanzania Mainland,environment,fire,14,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 36,68
+2018,Tanzania Mainland,environment,road_barriers,120,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 36,68
+2018,Tanzania Mainland,environment,poor_road_infrastructure,80,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 36,68
+2018,Tanzania Mainland,environment,railway_crossing,10,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 36,68
+2019,Tanzania Mainland,human,dangerous_driving,344,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 36,68
+2019,Tanzania Mainland,human,careless_driving,816,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 36,68
+2019,Tanzania Mainland,human,careless_cyclists,72,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 36,68
+2019,Tanzania Mainland,human,careless_motorcyclists,492,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 36,68
+2019,Tanzania Mainland,human,careless_passengers,6,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 36,68
+2019,Tanzania Mainland,human,overspeeding,288,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 36,68
+2019,Tanzania Mainland,human,unattended_livestock,0,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 36,68
+2019,Tanzania Mainland,human,careless_overtaking,236,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 36,68
+2019,Tanzania Mainland,human,careless_pedestrians,162,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 36,68
+2019,Tanzania Mainland,human,careless_pushcart_operators,3,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 36,68
+2019,Tanzania Mainland,human,intoxication,46,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 36,68
+2019,Tanzania Mainland,vehicle,vehicle_defects,105,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 36,68
+2019,Tanzania Mainland,vehicle,poor_vehicle_lighting,19,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 36,68
+2019,Tanzania Mainland,environment,fire,10,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 36,68
+2019,Tanzania Mainland,environment,road_barriers,32,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 36,68
+2019,Tanzania Mainland,environment,poor_road_infrastructure,65,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 36,68
+2019,Tanzania Mainland,environment,railway_crossing,8,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 36,68
+2018,Tanzania Mainland,human,dangerous_driving,496,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.9,69
+2018,Tanzania Mainland,human,careless_driving,1046,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.9,69
+2018,Tanzania Mainland,human,careless_cyclists,103,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.9,69
+2018,Tanzania Mainland,human,careless_motorcyclists,725,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.9,69
+2018,Tanzania Mainland,human,careless_passengers,1,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.9,69
+2018,Tanzania Mainland,human,overspeeding,364,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.9,69
+2018,Tanzania Mainland,human,unattended_livestock,1,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.9,69
+2018,Tanzania Mainland,human,careless_overtaking,217,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.9,69
+2018,Tanzania Mainland,human,careless_pedestrians,259,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.9,69
+2018,Tanzania Mainland,human,careless_pushcart_operators,7,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.9,69
+2018,Tanzania Mainland,human,intoxication,61,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.9,69
+2018,Tanzania Mainland,vehicle,vehicle_defects,197,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.9,69
+2018,Tanzania Mainland,vehicle,poor_vehicle_lighting,31,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.9,69
+2018,Tanzania Mainland,environment,fire,14,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.9,69
+2018,Tanzania Mainland,environment,road_barriers,120,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.9,69
+2018,Tanzania Mainland,environment,poor_road_infrastructure,80,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.9,69
+2018,Tanzania Mainland,environment,railway_crossing,10,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.9,69
+2019,Tanzania Mainland,human,dangerous_driving,344,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.9,69
+2019,Tanzania Mainland,human,careless_driving,816,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.9,69
+2019,Tanzania Mainland,human,careless_cyclists,72,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.9,69
+2019,Tanzania Mainland,human,careless_motorcyclists,492,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.9,69
+2019,Tanzania Mainland,human,careless_passengers,6,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.9,69
+2019,Tanzania Mainland,human,overspeeding,288,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.9,69
+2019,Tanzania Mainland,human,unattended_livestock,0,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.9,69
+2019,Tanzania Mainland,human,careless_overtaking,236,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.9,69
+2019,Tanzania Mainland,human,careless_pedestrians,162,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.9,69
+2019,Tanzania Mainland,human,careless_pushcart_operators,3,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.9,69
+2019,Tanzania Mainland,human,intoxication,46,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.9,69
+2019,Tanzania Mainland,vehicle,vehicle_defects,105,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.9,69
+2019,Tanzania Mainland,vehicle,poor_vehicle_lighting,19,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.9,69
+2019,Tanzania Mainland,environment,fire,10,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.9,69
+2019,Tanzania Mainland,environment,road_barriers,32,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.9,69
+2019,Tanzania Mainland,environment,poor_road_infrastructure,65,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.9,69
+2019,Tanzania Mainland,environment,railway_crossing,8,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.9,69
+2020,Tanzania Mainland,human,dangerous_driving,164,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.9,69
+2020,Tanzania Mainland,human,careless_driving,598,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.9,69
+2020,Tanzania Mainland,human,careless_cyclists,34,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.9,69
+2020,Tanzania Mainland,human,careless_motorcyclists,307,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.9,69
+2020,Tanzania Mainland,human,careless_passengers,1,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.9,69
+2020,Tanzania Mainland,human,overspeeding,272,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.9,69
+2020,Tanzania Mainland,human,unattended_livestock,0,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.9,69
+2020,Tanzania Mainland,human,careless_overtaking,97,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.9,69
+2020,Tanzania Mainland,human,careless_pedestrians,77,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.9,69
+2020,Tanzania Mainland,human,careless_pushcart_operators,5,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.9,69
+2020,Tanzania Mainland,human,intoxication,15,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.9,69
+2020,Tanzania Mainland,vehicle,vehicle_defects,83,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.9,69
+2020,Tanzania Mainland,vehicle,poor_vehicle_lighting,15,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.9,69
+2020,Tanzania Mainland,environment,fire,4,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.9,69
+2020,Tanzania Mainland,environment,road_barriers,9,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.9,69
+2020,Tanzania Mainland,environment,poor_road_infrastructure,30,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.9,69
+2020,Tanzania Mainland,environment,railway_crossing,3,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.9,69
+2022,Tanzania,human,dangerous_driving,144,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.9,51
+2022,Tanzania,human,careless_driving,624,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.9,51
+2022,Tanzania,human,careless_cyclists,36,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.9,51
+2022,Tanzania,human,careless_motorcyclists,259,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.9,51
+2022,Tanzania,human,careless_passengers,3,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.9,51
+2022,Tanzania,human,overspeeding,381,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.9,51
+2022,Tanzania,human,unattended_livestock,3,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.9,51
+2022,Tanzania,human,careless_overtaking,117,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.9,51
+2022,Tanzania,human,careless_pedestrians,29,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.9,51
+2022,Tanzania,human,careless_pushcart_operators,2,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.9,51
+2022,Tanzania,human,intoxication,26,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.9,51
+2022,Tanzania,vehicle,vehicle_defects,55,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.9,51
+2022,Tanzania,vehicle,poor_vehicle_lighting,2,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.9,51
+2022,Tanzania,environment,fire,4,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.9,51
+2022,Tanzania,environment,road_barriers,22,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.9,51
+2022,Tanzania,environment,poor_road_infrastructure,12,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.9,51
+2022,Tanzania,environment,railway_crossing,4,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.9,51
+2023,Tanzania,human,dangerous_driving,157,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.9,51
+2023,Tanzania,human,careless_driving,657,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.9,51
+2023,Tanzania,human,careless_cyclists,36,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.9,51
+2023,Tanzania,human,careless_motorcyclists,236,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.9,51
+2023,Tanzania,human,careless_passengers,11,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.9,51
+2023,Tanzania,human,overspeeding,368,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.9,51
+2023,Tanzania,human,unattended_livestock,13,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.9,51
+2023,Tanzania,human,careless_overtaking,81,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.9,51
+2023,Tanzania,human,careless_pedestrians,48,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.9,51
+2023,Tanzania,human,careless_pushcart_operators,1,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.9,51
+2023,Tanzania,human,intoxication,19,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.9,51
+2023,Tanzania,vehicle,vehicle_defects,67,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.9,51
+2023,Tanzania,vehicle,poor_vehicle_lighting,4,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.9,51
+2023,Tanzania,environment,fire,11,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.9,51
+2023,Tanzania,environment,road_barriers,5,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.9,51
+2023,Tanzania,environment,poor_road_infrastructure,15,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.9,51
+2023,Tanzania,environment,railway_crossing,4,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.9,51
+2023,Tanzania,human,dangerous_driving,157,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.9,57
+2023,Tanzania,human,careless_driving,657,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.9,57
+2023,Tanzania,human,careless_cyclists,36,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.9,57
+2023,Tanzania,human,careless_motorcyclists,236,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.9,57
+2023,Tanzania,human,careless_passengers,11,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.9,57
+2023,Tanzania,human,overspeeding,368,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.9,57
+2023,Tanzania,human,unattended_livestock,13,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.9,57
+2023,Tanzania,human,careless_overtaking,81,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.9,57
+2023,Tanzania,human,careless_pedestrians,48,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.9,57
+2023,Tanzania,human,careless_pushcart_operators,1,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.9,57
+2023,Tanzania,human,intoxication,19,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.9,57
+2023,Tanzania,vehicle,vehicle_defects,67,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.9,57
+2023,Tanzania,vehicle,poor_vehicle_lighting,4,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.9,57
+2023,Tanzania,environment,fire,11,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.9,57
+2023,Tanzania,environment,road_barriers,5,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.9,57
+2023,Tanzania,environment,poor_road_infrastructure,15,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.9,57
+2023,Tanzania,environment,railway_crossing,4,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.9,57
+2024,Tanzania,human,dangerous_driving,222,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.9,57
+2024,Tanzania,human,careless_driving,765,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.9,57
+2024,Tanzania,human,careless_cyclists,51,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.9,57
+2024,Tanzania,human,careless_motorcyclists,217,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.9,57
+2024,Tanzania,human,careless_passengers,0,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.9,57
+2024,Tanzania,human,overspeeding,291,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.9,57
+2024,Tanzania,human,unattended_livestock,1,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.9,57
+2024,Tanzania,human,careless_overtaking,81,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.9,57
+2024,Tanzania,human,careless_pedestrians,30,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.9,57
+2024,Tanzania,human,careless_pushcart_operators,0,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.9,57
+2024,Tanzania,human,intoxication,26,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.9,57
+2024,Tanzania,vehicle,vehicle_defects,39,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.9,57
+2024,Tanzania,vehicle,poor_vehicle_lighting,0,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.9,57
+2024,Tanzania,environment,fire,4,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.9,57
+2024,Tanzania,environment,road_barriers,1,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.9,57
+2024,Tanzania,environment,poor_road_infrastructure,7,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.9,57
+2024,Tanzania,environment,railway_crossing,0,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.9,57
+2024,Tanzania,human,dangerous_driving,222,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.9,61
+2024,Tanzania,human,careless_driving,765,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.9,61
+2024,Tanzania,human,careless_cyclists,51,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.9,61
+2024,Tanzania,human,careless_motorcyclists,217,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.9,61
+2024,Tanzania,human,careless_passengers,0,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.9,61
+2024,Tanzania,human,overspeeding,291,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.9,61
+2024,Tanzania,human,unattended_livestock,1,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.9,61
+2024,Tanzania,human,careless_overtaking,81,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.9,61
+2024,Tanzania,human,careless_pedestrians,30,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.9,61
+2024,Tanzania,human,careless_pushcart_operators,0,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.9,61
+2024,Tanzania,human,intoxication,26,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.9,61
+2024,Tanzania,vehicle,vehicle_defects,39,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.9,61
+2024,Tanzania,vehicle,poor_vehicle_lighting,0,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.9,61
+2024,Tanzania,environment,fire,4,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.9,61
+2024,Tanzania,environment,road_barriers,1,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.9,61
+2024,Tanzania,environment,poor_road_infrastructure,7,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.9,61
+2024,Tanzania,environment,railway_crossing,0,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.9,61
+2025,Tanzania,human,dangerous_driving,152,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.9,61
+2025,Tanzania,human,careless_driving,597,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.9,61
+2025,Tanzania,human,careless_cyclists,21,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.9,61
+2025,Tanzania,human,careless_motorcyclists,203,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.9,61
+2025,Tanzania,human,careless_passengers,226,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.9,61
+2025,Tanzania,human,overspeeding,5,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.9,61
+2025,Tanzania,human,unattended_livestock,53,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.9,61
+2025,Tanzania,human,careless_overtaking,31,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.9,61
+2025,Tanzania,human,careless_pedestrians,2,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.9,61
+2025,Tanzania,human,careless_pushcart_operators,0,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.9,61
+2025,Tanzania,human,intoxication,6,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.9,61
+2025,Tanzania,vehicle,vehicle_defects,29,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.9,61
+2025,Tanzania,vehicle,poor_vehicle_lighting,0,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.9,61
+2025,Tanzania,environment,fire,4,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.9,61
+2025,Tanzania,environment,road_barriers,2,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.9,61
+2025,Tanzania,environment,poor_road_infrastructure,13,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.9,61
+2025,Tanzania,environment,railway_crossing,3,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.9,61

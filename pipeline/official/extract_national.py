@@ -46,11 +46,13 @@ def page_text(pdf: Path, page: int, ocr: bool) -> str:
         ).stdout
 
 
-def parse_two_year_table(text: str, table_id: str) -> tuple[list[int], dict[str, tuple[float, float]]]:
-    """Find the table caption, read its year header and the next six rows of numbers."""
+def parse_two_year_table(
+    text: str, table_id: str, metrics: list[str] = METRICS
+) -> tuple[list[int], dict[str, tuple[float, float]]]:
+    """Find the table caption, read its year header and the next len(metrics) rows of numbers."""
     number = table_id.split()[-1]  # "28", "3.1"
     lines = text.splitlines()
-    cap = re.compile(rf"^\s*(Table|Jedwali)\s*(Na\.?)?\s*{re.escape(number)}\b[.:]?\s+(Number|Idadi)", re.I)
+    cap = re.compile(rf"^\s*(Table|Jedwali)\s*(Na\.?)?\s*{re.escape(number)}\b[\s.:|=]+(Number|Idadi)", re.I)  # OCR adds | or =
     start = next((i for i, l in enumerate(lines) if cap.search(l)), None)
     if start is None:
         raise ValueError(f"caption for {table_id} not found")
@@ -64,16 +66,18 @@ def parse_two_year_table(text: str, table_id: str) -> tuple[list[int], dict[str,
         nums = NUM.findall(line)
         if years is not None and len(nums) >= 4 and not re.search(r"(?i)table|jedwali|figure|mchoro", line):
             rows.append([to_number(n) for n in nums[-4:]])
-            if len(rows) == len(METRICS):
+            if len(rows) == len(metrics):
                 break
-    if years is None or len(rows) != len(METRICS):
+    if years is None or len(rows) != len(metrics):
         raise ValueError(f"{table_id}: years={years}, rows found={len(rows)}")
 
     values = {}
-    for metric, (prev, curr, diff, _pct) in zip(METRICS, rows):
+    for metric, (prev, curr, diff, _pct) in zip(metrics, rows):
         if curr - prev != diff:
             raise ValueError(f"{table_id} {metric}: {curr} - {prev} != {diff}")
         values[metric] = (prev, curr)
+    if metrics != METRICS:
+        return years, values
     # Not fatal: the reports themselves are occasionally inconsistent here (e.g. 2018 Zanzibar).
     for i in (0, 1):
         parts = sum(values[m][i] for m in ("fatal_accidents", "injury_accidents", "normal_accidents"))

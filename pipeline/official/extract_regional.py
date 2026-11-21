@@ -36,7 +36,7 @@ SUBTOTALS = {  # printed name -> canonical subtotal name
 ZANZIBAR = {"Kaskazini Pemba", "Kaskazini Unguja", "Kusini Pemba", "Kusini Unguja", "Mjini Magharibi"}
 
 
-def parse_regional(text: str) -> dict[str, dict[str, int]]:
+def parse_regional(text: str, cols: list[str] = COLS) -> dict[str, dict[str, int]]:
     """Return {printed region name: {col: value}} for every row of the table, including subtotals."""
     rows, pending = {}, None
     started = False
@@ -53,9 +53,9 @@ def parse_regional(text: str) -> dict[str, dict[str, int]]:
         # "Tarime - Rorya" keeps its dash; strip stray spaces only.
         name = re.sub(r"\s+", " ", name)
         if nums and name:
-            rows[name] = dict(zip(COLS, (int(to_number(n)) for n in nums)))
+            rows[name] = dict(zip(cols, (int(to_number(n)) for n in nums)))
         elif nums:  # 2019 layout: numbers first, name on the next line
-            pending = dict(zip(COLS, (int(to_number(n)) for n in nums)))
+            pending = dict(zip(cols, (int(to_number(n)) for n in nums)))
         elif pending is not None and name:
             rows[name] = pending
             pending = None
@@ -64,9 +64,9 @@ def parse_regional(text: str) -> dict[str, dict[str, int]]:
     return rows
 
 
-def read_manual(path: Path) -> dict[str, dict[str, int]]:
+def read_manual(path: Path, cols: list[str] = COLS) -> dict[str, dict[str, int]]:
     with path.open() as f:
-        return {r["region"]: {c: int(r[c]) for c in COLS} for r in csv.DictReader(f)}
+        return {r["region"]: {c: int(r[c]) for c in cols} for r in csv.DictReader(f)}
 
 
 def main() -> int:
