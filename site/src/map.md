@@ -18,6 +18,7 @@ toc: false
 </style>
 
 ```js
+import {shareButton} from "./components/share.js";
 const regionsGeo = FileAttachment("data/tz_regions.json").json();
 const stats = FileAttachment("data/regions_stats.json").json();
 const crashes = FileAttachment("data/news_crashes.json").json();
@@ -110,7 +111,8 @@ function mapChart(width) {
 }
 ```
 
-${resize((width) => mapChart(width))}
+<div id="map-chart">${resize((width) => mapChart(width))}</div>
+${shareButton("#map-chart", {title: `Police-recorded road deaths by region, Tanzania, ${periodLabel}: ${label.toLowerCase()}`, source: "Tanzania Police Force / NBS annual reports; 2022 census" + (showNews && period === "2023_2025" ? "; orange dots: crashes reported in the media (not a full count)" : ""), filename: `ajali-tz-map-${period}.png`})}
 
 <p class="source">${showNews && period === "2023_2025" ? html`Orange dots: crashes <span class="tag">reported in the media</span> since ${newsSince}, sized by deaths and placed at district level. They show only crashes the news covered, mostly large ones.` : showNews ? "News-reported crashes are shown with the 2023–2025 view only: the news log starts in December 2025." : ""}</p>
 
@@ -133,7 +135,7 @@ function regionPanel(s) {
       <div class="stat"><b>${avg.rate?.toFixed(1) ?? "–"}</b><span>deaths per 100,000 people a year</span></div>
       <div class="stat"><b>${avg.deaths == null ? "–" : fmt(Math.round(avg.deaths))}</b><span>deaths a year on average</span></div>
     </div>
-    ${Plot.plot({
+    <div id="region-chart">${Plot.plot({
       width: 300, height: 150, marginLeft: 36,
       x: {label: null, domain: years, tickFormat: (y) => `'${y.slice(2)}`},
       y: {label: "Deaths", grid: true, nice: true, ticks: 4},
@@ -142,8 +144,9 @@ function regionPanel(s) {
         Plot.text(bars.filter((d) => d.deaths == null), {x: "year", y: 0, text: () => "n/a", dy: -8, fill: "currentColor", fillOpacity: 0.6, fontSize: 9}),
         Plot.ruleY([0])
       ]
-    })}
+    })}</div>
     <p class="muted">Police-recorded deaths per year. No regional figures were published for 2021 or 2022.</p>
+    ${shareButton("#region-chart", {title: `${s.region}: police-recorded road deaths per year`, source: "Tanzania Police Force / NBS annual reports (no regional figures published for 2021–2022)", filename: `ajali-tz-${s.region.toLowerCase().replace(/\s+/g, "-")}.png`})}
     <h3>In the news <span class="tag">reported in the media</span></h3>
     ${local.length
       ? html`<ul>${local.map((c) => html`<li>${c.crash_date}: ${c.deaths ?? "?"} dead, ${c.injuries ?? "?"} injured${c.place ? html`, ${c.place}` : ""} · <a href="${c.sources[0].url}" target="_blank" rel="noopener">${c.sources[0].outlet}</a></li>`)}</ul>`

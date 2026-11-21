@@ -23,6 +23,7 @@ toc: false
 </style>
 
 ```js
+import {shareButton} from "./components/share.js";
 const crashes = FileAttachment("data/news_crashes.json").json();
 ```
 
@@ -118,8 +119,9 @@ function monthly(width) {
 
 <div class="card">
 <h2>Deaths in news-reported crashes, by month</h2>
-${resize((width) => monthly(width))}
+<div id="monthly-chart">${resize((width) => monthly(width))}</div>
 <p class="source">Months with no bar had no crash in the news log. More coverage in a month usually means more news reports, not necessarily more crashes.</p>
+${shareButton("#monthly-chart", {title: `Deaths in road crashes reported in the news, Tanzania, by month${filtered.length < crashes.length ? " (filtered)" : ""}`, source: "The Citizen, Mwananchi, Daily News, HabariLeo, The Chanzo, compiled by Ajali TZ. Reported in the media: not a full count", filename: "ajali-tz-news-by-month.png"})}
 </div>
 
 ```js

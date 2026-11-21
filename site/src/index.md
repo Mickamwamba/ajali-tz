@@ -26,6 +26,7 @@ toc: false
 </style>
 
 ```js
+import {shareButton} from "./components/share.js";
 const summary = FileAttachment("data/official_national_summary.csv").csv({typed: true});
 const crashes = FileAttachment("data/news_crashes.json").json();
 ```
@@ -118,7 +119,10 @@ function trendChart(width) {
 }
 ```
 
-<div class="card">${resize((width) => trendChart(width))}</div>
+<div class="card">
+<div id="trend-chart">${resize((width) => trendChart(width))}</div>
+${shareButton("#trend-chart", {title: `Road deaths in Tanzania: police records and the WHO estimate, 2018–${latest.year}`, source: "Tanzania Police Force / NBS annual reports; WHO Global Health Observatory", filename: "ajali-tz-police-vs-who.png"})}
+</div>
 
 <p class="source">Sources: Tanzania Police Force / National Bureau of Statistics, Crime and Traffic Incidents Statistics reports 2018–2025 (2021 from the NBS Statistical Abstract 2022); WHO Global Health Observatory and Global status report on road safety 2023. WHO figures other than 2021 are WHO's published rate per 100,000 people multiplied by the population.</p>
 

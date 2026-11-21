@@ -45,7 +45,7 @@ Done when: the overview page loads in under 3 seconds on 3G.
   - Follow-up: Zanzibar islands are tiny but have the highest rates; add an enlarged inset
 - [x] 3d. Recent crashes page (`site/src/crashes.md`): search + region, vehicle and date filters, monthly deaths chart, one card per crash with all source links, CSV download; checked at desktop and phone widths
 - [x] 3e. About the data page (`site/src/about.md`): three sources and what each misses, how official figures were prepared, known report problems, news method + accuracy + privacy, 3 CSV downloads, suggested citation, build date
-- [ ] 3f. Share buttons: chart images with the source line
+- [x] 3f. Share buttons (`site/src/components/share.js`) on all 4 charts: PNG with title, source line and site name, in the reader's theme; phone share sheet or download
 - [ ] 3g. Deploy as a static site and rebuild after each pipeline run
 - [ ] 3h. Speed check: overview under 3 seconds on 3G
 
