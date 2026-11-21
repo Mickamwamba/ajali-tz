@@ -1,0 +1,9 @@
+year,police_crashes,police_deaths,police_injuries,who_estimated_deaths,who_estimated_deaths_low,who_estimated_deaths_high,who_to_police_ratio,notes
+2018,3988,1912,4194,11277,9185,13312,5.9,WHO figure derived from WHO rate x population
+2019,2924,1536,3123,11379,9343,13475,7.4,WHO figure derived from WHO rate x population
+2020,1933,1384,2362,10182,8269,12033,7.4,WHO figure derived from WHO rate x population
+2021,1864,1368,2452,10052,8246,11858,7.3,Police figures from NBS Statistical Abstract 2022
+2022,1720,1545,2278,9496,5698,14408,6.1,"WHO figure derived from WHO rate x population; WHO projection, wide uncertainty"
+2023,1733,1647,2716,9034,5461,13956,5.5,"WHO figure derived from WHO rate x population; WHO projection, wide uncertainty"
+2024,1735,1715,2719,,,,,No WHO estimate yet
+2025,1347,1275,2295,,,,,No WHO estimate yet

@@ -6,7 +6,7 @@ Taken from [scope-v1.md](scope-v1.md). Work through one step at a time; tick eac
 - [x] Repo, folder layout, Python env (uv)
 - [x] Official dataset schema ([schema-official.md](schema-official.md))
 
-## Phase 1 — Official baseline (weeks 1–2)
+## Phase 1 — Official baseline (weeks 1–2) ✅
 Done when: one CSV of national and regional deaths, injuries and crashes by year, 2018–2025.
 - [x] 1a. Find and download the NBS/police reports for 2018–2025 into `data/raw/nbs/`, and record each URL in `data/raw/nbs/SOURCES.md`
 - [x] 1b. For each report, locate the road traffic tables (national totals, by region, by cause, by vehicle type)
@@ -22,7 +22,7 @@ Done when: one CSV of national and regional deaths, injuries and crashes by year
   - [x] Add deaths per 100,000 people by region (2022 census populations)
   - [x] Ratio of WHO estimate to official deaths per year
   - Results: `docs/checks-official.md`; data: `data/interim/official_checked.csv`
-- [ ] 1g. Write `data/processed/official.csv`
+- [x] 1g. Write `data/processed/official.csv` (+ `official_national_summary.csv`, `README.md`; rebuild all: `bash pipeline/official/run_all.sh`)
 
 ## Phase 2 — News agent (weeks 2–4)
 Done when: 90% of fields are correct in a hand check of 50 random records.
