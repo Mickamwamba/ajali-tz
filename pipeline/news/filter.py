@@ -113,6 +113,7 @@ def main() -> int:
                 print(f"  ERROR  {row['title'][:70]}  ({error})")
                 continue
             row["filter"] = {"category": result.category, "reason": result.reason, "model": MODEL, "at": now}
+            row["excerpt"] = None  # publisher's text is only needed for screening
             row["status"] = "relevant" if result.category == "road_crash" else "rejected"
             counts[result.category] = counts.get(result.category, 0) + 1
             mark = "✓" if row["status"] == "relevant" else " "

@@ -1,0 +1,931 @@
+[
+ {
+  "crash_id": "9fede8f8b835",
+  "crash_date": "2026-11-20",
+  "region": "Pwani",
+  "district": "Bagamoyo",
+  "district_pcode": "TZ0601",
+  "lat": -6.3077,
+  "lon": 38.4204,
+  "location_level": "district",
+  "place": "Chamakweza, Chalinze, Dar es Salaam-Morogoro highway",
+  "vehicles": [
+   "bus",
+   "bus"
+  ],
+  "deaths": null,
+  "injuries": 3,
+  "victim_types": [
+   "other",
+   "passenger"
+  ],
+  "cause": "careless_overtaking",
+  "cause_text": "Driver of one bus overtook other vehicles without taking precautions for other road users",
+  "confidence": 0.9,
+  "n_sources": 1,
+  "sources": [
+   {
+    "url": "https://habarileo.co.tz/mabasi-yagongana-chalinze-yajeruhi/",
+    "outlet": "HabariLeo",
+    "title": "Mabasi yagongana Chalinze, yajeruhi",
+    "published_at": "2026-11-20T13:05:38+00:00"
+   }
+  ],
+  "flags": [],
+  "member_keys": [
+   "7d9bd1b79ef3ec6a#0"
+  ]
+ },
+ {
+  "crash_id": "c24e3a31d228",
+  "crash_date": "2026-11-09",
+  "region": "Iringa",
+  "district": "Iringa",
+  "district_pcode": "TZ1101",
+  "lat": -7.5642,
+  "lon": 35.0737,
+  "location_level": "district",
+  "place": "Kiponzero Junction, Iringa-Njombe Highway",
+  "vehicles": [
+   "minibus",
+   "lorry"
+  ],
+  "deaths": 23,
+  "injuries": 5,
+  "victim_types": [
+   "driver",
+   "passenger"
+  ],
+  "cause": "other",
+  "cause_text": "Minibus driver allegedly entered main road from feeder road without ensuring safety",
+  "confidence": 0.9,
+  "n_sources": 4,
+  "sources": [
+   {
+    "url": "https://dailynews.co.tz/21-people-perish-in-a-road-carnage-along-iringa-mbeya-highway/",
+    "outlet": "Daily News",
+    "title": "21 people perish in a road carnage along Iringa-Mbeya highway",
+    "published_at": "2026-11-09T15:03:14+00:00"
+   },
+   {
+    "url": "https://dailynews.co.tz/dr-samia-sends-condolences-following-the-deaths-of-21-people-involved-in-road-accident/",
+    "outlet": "Daily News",
+    "title": "Dr Samia sends condolences following the deaths of 21 people involved in road accident",
+    "published_at": "2026-11-09T15:57:13+00:00"
+   },
+   {
+    "url": "https://dailynews.co.tz/samia-mourns-23-crash-victims/",
+    "outlet": "Daily News",
+    "title": "Samia mourns 23 crash victims",
+    "published_at": "2026-11-10T06:14:56+00:00"
+   },
+   {
+    "url": "https://dailynews.co.tz/iringa-mourns-23-victims-of-deadly-road-crash/",
+    "outlet": "Daily News",
+    "title": "Iringa mourns 23 victims of deadly road crash",
+    "published_at": "2026-11-13T07:10:26+00:00"
+   }
+  ],
+  "flags": [
+   "sources give different death tolls: [21, 23]"
+  ],
+  "member_keys": [
+   "5491e0d1a33c6009#0",
+   "8818364009e80ce4#0",
+   "a859fe736a1fb7db#0",
+   "c1ca47affc715e77#0"
+  ]
+ },
+ {
+  "crash_id": "13bed1e071ea",
+  "crash_date": "2026-10-10",
+  "region": "Tanga",
+  "district": "Muheza",
+  "district_pcode": "TZ0403",
+  "lat": -5.1792,
+  "lon": 38.7723,
+  "location_level": "district",
+  "place": "Muheza–Kibanda, Muheza District",
+  "vehicles": [
+   "lorry"
+  ],
+  "deaths": 1,
+  "injuries": null,
+  "victim_types": [
+   "driver"
+  ],
+  "cause": "other",
+  "cause_text": "Driver failed to control the lorry, which overturned (preliminary)",
+  "confidence": 0.85,
+  "n_sources": 1,
+  "sources": [
+   {
+    "url": "https://habarileo.co.tz/lori-lapinduka-muheza-dereva-afa/",
+    "outlet": "HabariLeo",
+    "title": "Ajali ya lori yaua dereva Tanga",
+    "published_at": "2026-10-11T13:48:58+00:00"
+   }
+  ],
+  "flags": [],
+  "member_keys": [
+   "0854488b6013fe11#0"
+  ]
+ },
+ {
+  "crash_id": "8306d1f582a4",
+  "crash_date": "2026-10-08",
+  "region": "Morogoro",
+  "district": "Kilosa",
+  "district_pcode": "TZ0501",
+  "lat": -6.9574,
+  "lon": 36.9203,
+  "location_level": "district",
+  "place": "Miti Bora, Magole Village, Morogoro–Dodoma Highway",
+  "vehicles": [
+   "pickup_or_van"
+  ],
+  "deaths": 3,
+  "injuries": 7,
+  "victim_types": [
+   "driver",
+   "passenger"
+  ],
+  "cause": "not_reported",
+  "cause_text": null,
+  "confidence": 0.85,
+  "n_sources": 2,
+  "sources": [
+   {
+    "url": "https://dailynews.co.tz/samia-mourns-32-road-accident-victims-in-morogoro/",
+    "outlet": "Daily News",
+    "title": "Samia mourns 32 road accident victims in Morogoro",
+    "published_at": "2026-10-09T15:06:21+00:00"
+   },
+   {
+    "url": "https://dailynews.co.tz/igp-mourns-officers-warns-reckless-drivers/",
+    "outlet": "Daily News",
+    "title": "IGP mourns officers, warns reckless drivers",
+    "published_at": "2026-10-12T06:16:16+00:00"
+   }
+  ],
+  "flags": [],
+  "member_keys": [
+   "11279e3af0b91992#0",
+   "f3b5308fe5ab3b25#0"
+  ]
+ },
+ {
+  "crash_id": "8306d1f582a4",
+  "crash_date": "2026-10-08",
+  "region": "Morogoro",
+  "district": null,
+  "district_pcode": null,
+  "lat": -7.861,
+  "lon": 37.312,
+  "location_level": "region",
+  "place": null,
+  "vehicles": [],
+  "deaths": null,
+  "injuries": null,
+  "victim_types": [],
+  "cause": "not_reported",
+  "cause_text": null,
+  "confidence": 0.5,
+  "n_sources": 1,
+  "sources": [
+   {
+    "url": "https://dailynews.co.tz/samia-mourns-32-road-accident-victims-in-morogoro/",
+    "outlet": "Daily News",
+    "title": "Samia mourns 32 road accident victims in Morogoro",
+    "published_at": "2026-10-09T15:06:21+00:00"
+   }
+  ],
+  "flags": [],
+  "member_keys": [
+   "11279e3af0b91992#1"
+  ]
+ },
+ {
+  "crash_id": "e60c58d02857",
+  "crash_date": "2026-09-21",
+  "region": "Singida",
+  "district": "Iramba",
+  "district_pcode": "TZ1301",
+  "lat": -4.3865,
+  "lon": 34.298,
+  "location_level": "district",
+  "place": "Sekenke escarpment, Singida-Nzega highway, Misigiri Village, Ulemo Ward",
+  "vehicles": [
+   "car",
+   "fuel_tanker"
+  ],
+  "deaths": 12,
+  "injuries": 2,
+  "victim_types": [
+   "driver",
+   "passenger"
+  ],
+  "cause": "brake_failure",
+  "cause_text": "Tanker brake failure while descending escarpment, per district commissioner",
+  "confidence": 0.9,
+  "n_sources": 2,
+  "sources": [
+   {
+    "url": "https://dailynews.co.tz/sekenke-road-crash-leaves-12-people-dead/",
+    "outlet": "Daily News",
+    "title": "Sekenke road crash leaves 12 people dead",
+    "published_at": "2026-09-22T05:37:09+00:00"
+   },
+   {
+    "url": "https://habarileo.co.tz/miili-ya-askari-watano-yaagawa-singida/",
+    "outlet": "HabariLeo",
+    "title": "Miili ya askari watano yaagawa Singida",
+    "published_at": "2026-09-22T14:03:56+00:00"
+   }
+  ],
+  "flags": [
+   "sources give different death tolls: [5, 12]"
+  ],
+  "member_keys": [
+   "5e106701c8494c49#0",
+   "7c75d017cc32cf95#0"
+  ]
+ },
+ {
+  "crash_id": "56ef3a57d2b6",
+  "crash_date": "2026-09-07",
+  "region": "Dar es Salaam",
+  "district": "Kinondoni",
+  "district_pcode": "TZ0701",
+  "lat": -6.7191,
+  "lon": 39.1466,
+  "location_level": "district",
+  "place": "Bunju Sokoni area",
+  "vehicles": [
+   "bus",
+   "car"
+  ],
+  "deaths": 4,
+  "injuries": null,
+  "victim_types": [
+   "driver",
+   "passenger"
+  ],
+  "cause": "overspeeding",
+  "cause_text": "Bus driver allegedly overtook without adequate precautions, colliding with oncoming car",
+  "confidence": 0.8,
+  "n_sources": 1,
+  "sources": [
+   {
+    "url": "https://dailynews.co.tz/four-perish-in-road-carnage-at-bunju-sokoni-area-dar-es-salaam/",
+    "outlet": "Daily News",
+    "title": "Four perish in road carnage at Bunju Sokoni area, Dar es Salaam",
+    "published_at": "2026-09-08T09:33:02+00:00"
+   }
+  ],
+  "flags": [],
+  "member_keys": [
+   "b693f3bd7440b8fd#0"
+  ]
+ },
+ {
+  "crash_id": "f0898b376921",
+  "crash_date": "2026-08-23",
+  "region": "Dar es Salaam",
+  "district": "Temeke",
+  "district_pcode": "TZ0703",
+  "lat": -6.996,
+  "lon": 39.4658,
+  "location_level": "district",
+  "place": "Mivinjeni, Kilwa Road",
+  "vehicles": [
+   "lorry",
+   "motorcycle"
+  ],
+  "deaths": 2,
+  "injuries": 1,
+  "victim_types": [
+   "motorcyclist",
+   "passenger"
+  ],
+  "cause": "other",
+  "cause_text": "Motorcycle entered Kilwa Road from a service road without adequate precautions, per preliminary police findings",
+  "confidence": 0.75,
+  "n_sources": 1,
+  "sources": [
+   {
+    "url": "https://dailynews.co.tz/police-nab-18-after-kilwa-road-truck-attack/",
+    "outlet": "Daily News",
+    "title": "Police nab 18 after Kilwa road truck attack",
+    "published_at": "2026-08-27T06:40:05+00:00"
+   }
+  ],
+  "flags": [
+   "no exact date"
+  ],
+  "member_keys": [
+   "ea67491324dd1cf4#0"
+  ]
+ },
+ {
+  "crash_id": "a6aa8bf1abe6",
+  "crash_date": "2026-08-13",
+  "region": "Mwanza",
+  "district": "Magu",
+  "district_pcode": "TZ1902",
+  "lat": -2.6091,
+  "lon": 33.3845,
+  "location_level": "district",
+  "place": "Kisesa Village, Sanjo Division, Mwanza–Musoma highway",
+  "vehicles": [
+   "lorry"
+  ],
+  "deaths": 1,
+  "injuries": 0,
+  "victim_types": [
+   "pedestrian"
+  ],
+  "cause": "dangerous_driving",
+  "cause_text": "Driver negligence and failure to take caution in a populated area, per police",
+  "confidence": 0.9,
+  "n_sources": 1,
+  "sources": [
+   {
+    "url": "https://dailynews.co.tz/residents-block-the-mwanza-musoma-highway-demanding-action-against-the-driver-whose-truck-killed-a-std-1-pupil/",
+    "outlet": "Daily News",
+    "title": "Residents block the Mwanza–Musoma highway demanding action against the driver whose truck killed a Std 1 pupil",
+    "published_at": "2026-08-13T11:15:21+00:00"
+   }
+  ],
+  "flags": [],
+  "member_keys": [
+   "0125219112f39e2c#0"
+  ]
+ },
+ {
+  "crash_id": "27ddab542e9c",
+  "crash_date": "2026-08-09",
+  "region": "Pwani",
+  "district": "Kisarawe",
+  "district_pcode": "TZ0603",
+  "lat": -7.1822,
+  "lon": 38.7168,
+  "location_level": "district",
+  "place": "Kona ya Kinyanyiko, Pugu-Kisarawe road",
+  "vehicles": [
+   "minibus"
+  ],
+  "deaths": 4,
+  "injuries": 46,
+  "victim_types": [
+   "driver",
+   "passenger"
+  ],
+  "cause": "overspeeding",
+  "cause_text": "Driver lost control on a steep downhill slope while speeding, causing the minibus to overturn",
+  "confidence": 0.9,
+  "n_sources": 2,
+  "sources": [
+   {
+    "url": "https://habarileo.co.tz/ajali-ya-daladala-yaua-4-yajeruhi-46/",
+    "outlet": "HabariLeo",
+    "title": "Ajali ya daladala yaua 4, yajeruhi 46",
+    "published_at": "2026-08-10T07:55:48+00:00"
+   },
+   {
+    "url": "https://dailynews.co.tz/four-people-die-46-wounded-in-bus-accident-along-pugu-kisarawe-road/",
+    "outlet": "Daily News",
+    "title": "Four people die, 46 wounded in bus accident along Pugu-Kisarawe road",
+    "published_at": "2026-08-10T11:19:16+00:00"
+   }
+  ],
+  "flags": [],
+  "member_keys": [
+   "7f49774a781f710b#0",
+   "fbc6e93bb494ad99#0"
+  ]
+ },
+ {
+  "crash_id": "83ed9865420a",
+  "crash_date": "2026-08-02",
+  "region": "Dodoma",
+  "district": "Bahi",
+  "district_pcode": "TZ0106",
+  "lat": -6.1666,
+  "lon": 35.3666,
+  "location_level": "district",
+  "place": "Ibihwa Village, Bahi District",
+  "vehicles": [
+   "bus",
+   "bus"
+  ],
+  "deaths": 9,
+  "injuries": null,
+  "victim_types": [],
+  "cause": "careless_overtaking",
+  "cause_text": "Reckless overtaking caused head-on collision with oncoming bus",
+  "confidence": 0.9,
+  "n_sources": 1,
+  "sources": [
+   {
+    "url": "https://dailynews.co.tz/police-arrest-bus-driver-over-dodoma-deadly-crash/",
+    "outlet": "Daily News",
+    "title": "Police arrest bus driver over Dodoma deadly crash",
+    "published_at": "2026-08-04T05:37:45+00:00"
+   }
+  ],
+  "flags": [],
+  "member_keys": [
+   "940c4c899e72c411#0"
+  ]
+ },
+ {
+  "crash_id": "66fce385225f",
+  "crash_date": "2026-06-02",
+  "region": "Singida",
+  "district": "Iramba",
+  "district_pcode": "TZ1301",
+  "lat": -4.3865,
+  "lon": 34.298,
+  "location_level": "district",
+  "place": "Senkenke area, Senkenke escarpment",
+  "vehicles": [
+   "lorry",
+   "minibus"
+  ],
+  "deaths": 7,
+  "injuries": 17,
+  "victim_types": [
+   "driver",
+   "passenger"
+  ],
+  "cause": "brake_failure",
+  "cause_text": "Lorry reportedly suffered brake failure and lost control descending escarpment",
+  "confidence": 0.85,
+  "n_sources": 1,
+  "sources": [
+   {
+    "url": "https://dailynews.co.tz/even-die-in-singida-road-accident/",
+    "outlet": "Daily News",
+    "title": "even die in Singida road accident",
+    "published_at": "2026-06-03T06:58:21+00:00"
+   }
+  ],
+  "flags": [],
+  "member_keys": [
+   "08386541bf21adce#0"
+  ]
+ },
+ {
+  "crash_id": "6c66f985da1b",
+  "crash_date": "2026-05-31",
+  "region": "Mbeya",
+  "district": null,
+  "district_pcode": null,
+  "lat": -8.2921,
+  "lon": 33.9815,
+  "location_level": "region",
+  "place": "Maji Mazuri, Mbeya-Chunya road",
+  "vehicles": [
+   "bus"
+  ],
+  "deaths": 4,
+  "injuries": 29,
+  "victim_types": [
+   "driver",
+   "passenger"
+  ],
+  "cause": "other",
+  "cause_text": "Driver failed to control bus at sharp bend, negligence; bus overturned",
+  "confidence": 0.9,
+  "n_sources": 1,
+  "sources": [
+   {
+    "url": "https://habarileo.co.tz/wanne-wafa-29-wajeruhiwa-ajali-ya-basi-mbeya/",
+    "outlet": "HabariLeo",
+    "title": "Wanne wafa, 29 wajeruhiwa ajali ya basi Mbeya",
+    "published_at": "2026-06-01T12:23:50+00:00"
+   }
+  ],
+  "flags": [],
+  "member_keys": [
+   "1fe6ac641c9b2b13#0"
+  ]
+ },
+ {
+  "crash_id": "6c66f985da1b",
+  "crash_date": "2026-05-30",
+  "region": "Mbeya",
+  "district": "Mbarali",
+  "district_pcode": "TZ1207",
+  "lat": -8.2782,
+  "lon": 34.2119,
+  "location_level": "district",
+  "place": "Mambi village",
+  "vehicles": [
+   "bus",
+   "lorry"
+  ],
+  "deaths": 3,
+  "injuries": null,
+  "victim_types": [],
+  "cause": "not_reported",
+  "cause_text": null,
+  "confidence": 0.8,
+  "n_sources": 1,
+  "sources": [
+   {
+    "url": "https://habarileo.co.tz/wanne-wafa-29-wajeruhiwa-ajali-ya-basi-mbeya/",
+    "outlet": "HabariLeo",
+    "title": "Wanne wafa, 29 wajeruhiwa ajali ya basi Mbeya",
+    "published_at": "2026-06-01T12:23:50+00:00"
+   }
+  ],
+  "flags": [],
+  "member_keys": [
+   "1fe6ac641c9b2b13#1"
+  ]
+ },
+ {
+  "crash_id": "c8d08764d1f8",
+  "crash_date": "2026-05-11",
+  "region": "Iringa",
+  "district": "Iringa",
+  "district_pcode": "TZ1101",
+  "lat": -7.5642,
+  "lon": 35.0737,
+  "location_level": "district",
+  "place": "Mseke, Iringa-Mbeya highway",
+  "vehicles": [
+   "bus",
+   "other"
+  ],
+  "deaths": 2,
+  "injuries": 13,
+  "victim_types": [],
+  "cause": "not_reported",
+  "cause_text": null,
+  "confidence": 0.85,
+  "n_sources": 1,
+  "sources": [
+   {
+    "url": "https://habarileo.co.tz/wawili-wafa-13-wajeruhiwa-ajali-ya-basi-iringa/",
+    "outlet": "HabariLeo",
+    "title": "Wawili wafa, 13 wajeruhiwa ajali ya basi Iringa",
+    "published_at": "2026-05-11T09:18:36+00:00"
+   }
+  ],
+  "flags": [],
+  "member_keys": [
+   "9426505c74f7688a#0"
+  ]
+ },
+ {
+  "crash_id": "e1962504e35e",
+  "crash_date": "2026-05-10",
+  "region": "Kagera",
+  "district": "Bukoba",
+  "district_pcode": "TZ1802",
+  "lat": -1.3531,
+  "lon": 31.6843,
+  "location_level": "district",
+  "place": "Katoma village, Bukoba–Kyaka road, a few km from Bukoba Municipality",
+  "vehicles": [
+   "fuel_tanker"
+  ],
+  "deaths": 1,
+  "injuries": 1,
+  "victim_types": [
+   "driver",
+   "passenger"
+  ],
+  "cause": "other",
+  "cause_text": "Lorry lost control while descending a steep hill, then overturned and caught fire",
+  "confidence": 0.9,
+  "n_sources": 1,
+  "sources": [
+   {
+    "url": "https://dailynews.co.tz/kenyan-driver-dies-in-kagera-fuel-tanker-crash/",
+    "outlet": "Daily News",
+    "title": "Kenyan driver dies in Kagera fuel tanker crash",
+    "published_at": "2026-05-15T09:41:23+00:00"
+   }
+  ],
+  "flags": [],
+  "member_keys": [
+   "1e920acb8c5876ef#0"
+  ]
+ },
+ {
+  "crash_id": "88cbcce7bd57",
+  "crash_date": "2026-04-30",
+  "region": "Dodoma",
+  "district": "Dodoma Urban",
+  "district_pcode": "TZ0105",
+  "lat": -6.1459,
+  "lon": 35.7789,
+  "location_level": "district",
+  "place": "Dodoma Road near Prime Minister's traffic lights, Emmaus area, Ipagala, Dodoma City",
+  "vehicles": [
+   "lorry",
+   "lorry"
+  ],
+  "deaths": 3,
+  "injuries": null,
+  "victim_types": [
+   "driver",
+   "other"
+  ],
+  "cause": "fatigue",
+  "cause_text": "Cement truck driver possibly drowsy, per preliminary police investigation",
+  "confidence": 0.8,
+  "n_sources": 1,
+  "sources": [
+   {
+    "url": "https://dailynews.co.tz/deadly-lorry-crash-claims-three-lives-in-dodoma/",
+    "outlet": "Daily News",
+    "title": "Deadly lorry crash claims three lives in Dodoma",
+    "published_at": "2026-04-30T06:59:29+00:00"
+   }
+  ],
+  "flags": [],
+  "member_keys": [
+   "d14a818267b542c9#0"
+  ]
+ },
+ {
+  "crash_id": "b343aaf2c9ea",
+  "crash_date": "2026-04-14",
+  "region": "Tabora",
+  "district": "Tabora Urban",
+  "district_pcode": "TZ1406",
+  "lat": -4.9413,
+  "lon": 32.7875,
+  "location_level": "district",
+  "place": "Miyemba Street railway crossing, Malolo Ward",
+  "vehicles": [
+   "motorcycle",
+   "motorcycle",
+   "train"
+  ],
+  "deaths": 2,
+  "injuries": null,
+  "victim_types": [
+   "motorcyclist"
+  ],
+  "cause": "other",
+  "cause_text": "Riders crossed the railway without sufficient precautions as a train approached, according to witnesses",
+  "confidence": 0.8,
+  "n_sources": 1,
+  "sources": [
+   {
+    "url": "https://dailynews.co.tz/two-motorcyclists-perish-in-a-train-accident/",
+    "outlet": "Daily News",
+    "title": "Two motorcyclists perish in a train accident",
+    "published_at": "2026-04-14T11:32:24+00:00"
+   }
+  ],
+  "flags": [],
+  "member_keys": [
+   "3bdbaf2a735f8ac9#0"
+  ]
+ },
+ {
+  "crash_id": "eef73b5bfb62",
+  "crash_date": "2026-03-24",
+  "region": "Mwanza",
+  "district": "Ilemela",
+  "district_pcode": "TZ1906",
+  "lat": -2.4672,
+  "lon": 32.9682,
+  "location_level": "district",
+  "place": "Nyamadoke area, Buswelu–Nyamhongolo road, Nyamhongolo Ward",
+  "vehicles": [
+   "bajaji",
+   "lorry"
+  ],
+  "deaths": 1,
+  "injuries": 2,
+  "victim_types": [
+   "motorcyclist",
+   "other"
+  ],
+  "cause": "overspeeding",
+  "cause_text": "Truck driver speeding in residential area; cargo motorcycle rider entered main road carelessly",
+  "confidence": 0.8,
+  "n_sources": 1,
+  "sources": [
+   {
+    "url": "https://dailynews.co.tz/truck-driver-on-the-run-after-fatal-accident/",
+    "outlet": "Daily News",
+    "title": "Truck driver on the run after fatal accident",
+    "published_at": "2026-03-26T08:10:30+00:00"
+   }
+  ],
+  "flags": [],
+  "member_keys": [
+   "956c01493a548c60#0"
+  ]
+ },
+ {
+  "crash_id": "cb4a26e6d3b6",
+  "crash_date": "2026-02-17",
+  "region": "Tabora",
+  "district": "Nzega",
+  "district_pcode": "TZ1401",
+  "lat": -4.3997,
+  "lon": 32.9811,
+  "location_level": "district",
+  "place": "Kitangili area, Nzega",
+  "vehicles": [
+   "car",
+   "car"
+  ],
+  "deaths": 2,
+  "injuries": null,
+  "victim_types": [],
+  "cause": "not_reported",
+  "cause_text": null,
+  "confidence": 0.9,
+  "n_sources": 1,
+  "sources": [
+   {
+    "url": "https://dailynews.co.tz/nzega-council-chairman-dies-after-tragic-road-accident/",
+    "outlet": "Daily News",
+    "title": "Nzega Council Chairman dies after tragic road accident",
+    "published_at": "2026-02-17T12:48:05+00:00"
+   }
+  ],
+  "flags": [],
+  "member_keys": [
+   "db34be13339bf565#0"
+  ]
+ },
+ {
+  "crash_id": "3fa511db6e32",
+  "crash_date": "2026-01-12",
+  "region": "Tanga",
+  "district": "Korogwe",
+  "district_pcode": "TZ0402",
+  "lat": -4.9311,
+  "lon": 38.1516,
+  "location_level": "district",
+  "place": "Mkumbara, Tarafa ya Mombo, Same–Korogwe highway",
+  "vehicles": [
+   "lorry",
+   "bus"
+  ],
+  "deaths": 4,
+  "injuries": 16,
+  "victim_types": [
+   "driver",
+   "passenger"
+  ],
+  "cause": "not_reported",
+  "cause_text": null,
+  "confidence": 0.85,
+  "n_sources": 1,
+  "sources": [
+   {
+    "url": "https://habarileo.co.tz/ajali-yauwa-wanne-korogwe/",
+    "outlet": "HabariLeo",
+    "title": "Ajali yauwa wanne Korogwe",
+    "published_at": "2026-01-12T10:39:50+00:00"
+   }
+  ],
+  "flags": [
+   "no exact date"
+  ],
+  "member_keys": [
+   "739b22ab7929954f#0"
+  ]
+ },
+ {
+  "crash_id": "59280a4a1463",
+  "crash_date": "2025-12-31",
+  "region": "Morogoro",
+  "district": "Morogoro",
+  "district_pcode": "TZ0502",
+  "lat": -7.0515,
+  "lon": 38.0788,
+  "location_level": "district",
+  "place": "Maseyu Village, Gwata Ward, Morogoro–Dar es Salaam highway",
+  "vehicles": [
+   "minibus",
+   "lorry"
+  ],
+  "deaths": 10,
+  "injuries": 23,
+  "victim_types": [
+   "passenger"
+  ],
+  "cause": "careless_overtaking",
+  "cause_text": "Truck driver allegedly overtook carelessly in heavy rain and poor visibility",
+  "confidence": 0.85,
+  "n_sources": 3,
+  "sources": [
+   {
+    "url": "https://dailynews.co.tz/10-killed-in-truck-minibus-crash/",
+    "outlet": "Daily News",
+    "title": "10 killed in truck-minibus crash",
+    "published_at": "2026-01-02T05:51:19+00:00"
+   },
+   {
+    "url": "https://dailynews.co.tz/president-mourns-victims-of-morogoro-road-crash/",
+    "outlet": "Daily News",
+    "title": "President mourns victims of Morogoro road crash",
+    "published_at": "2026-01-03T07:25:01+00:00"
+   },
+   {
+    "url": "https://habarileo.co.tz/dk-samizi-awatembelea-majeruhi-ajali-ya-basi-lori-moro/",
+    "outlet": "HabariLeo",
+    "title": "Dk Samizi awatembelea majeruhi ajali ya basi, lori Moro",
+    "published_at": "2026-01-03T10:25:24+00:00"
+   }
+  ],
+  "flags": [],
+  "member_keys": [
+   "28e1495cf57b2e44#0",
+   "6dede35c52f0ba63#0",
+   "791b8c9770d939c8#0"
+  ]
+ },
+ {
+  "crash_id": "8fa3f163e94d",
+  "crash_date": "2025-12-25",
+  "region": "Tanga",
+  "district": "Handeni",
+  "district_pcode": "TZ0406",
+  "lat": -5.4939,
+  "lon": 38.4066,
+  "location_level": "district",
+  "place": "Taula Village, Chalinze–Segera highway",
+  "vehicles": [
+   "car",
+   "lorry"
+  ],
+  "deaths": 5,
+  "injuries": null,
+  "victim_types": [],
+  "cause": "not_reported",
+  "cause_text": null,
+  "confidence": 0.9,
+  "n_sources": 1,
+  "sources": [
+   {
+    "url": "https://dailynews.co.tz/police-clarify-christmas-day-fatal-accident-in-tanga/",
+    "outlet": "Daily News",
+    "title": "Police clarify Christmas day fatal accident in Tanga",
+    "published_at": "2025-12-30T06:54:23+00:00"
+   }
+  ],
+  "flags": [],
+  "member_keys": [
+   "219b9d53215276c1#0"
+  ]
+ },
+ {
+  "crash_id": "6e421d2a9fb7",
+  "crash_date": "2025-12-11",
+  "region": "Dodoma",
+  "district": null,
+  "district_pcode": null,
+  "lat": -5.8448,
+  "lon": 35.9589,
+  "location_level": "region",
+  "place": "Makulu area, road connecting the University of Dodoma to the City Centre",
+  "vehicles": [
+   "lorry",
+   "motorcycle",
+   "motorcycle",
+   "motorcycle",
+   "motorcycle",
+   "motorcycle"
+  ],
+  "deaths": 5,
+  "injuries": 1,
+  "victim_types": [
+   "driver",
+   "motorcyclist",
+   "other"
+  ],
+  "cause": "brake_failure",
+  "cause_text": "Lorry driver lost control due to brake failure",
+  "confidence": 0.9,
+  "n_sources": 1,
+  "sources": [
+   {
+    "url": "https://dailynews.co.tz/five-bodaboda-riders-perish-in-road-carnage/",
+    "outlet": "Daily News",
+    "title": "Five bodaboda riders perish in road carnage",
+    "published_at": "2025-12-13T03:35:38+00:00"
+   }
+  ],
+  "flags": [
+   "ambiguous: OpenStreetMap has 'Makulu' in Bahi and Dodoma Urban"
+  ],
+  "member_keys": [
+   "fb2002ed052ab672#0"
+  ]
+ }
+]

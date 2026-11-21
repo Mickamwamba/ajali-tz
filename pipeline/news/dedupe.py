@@ -112,7 +112,7 @@ def merge(members: list[dict]) -> dict:
     if any(m["geo"].get("conflict") for m in members):
         flags.append("; ".join(sorted({m['geo']['conflict'] for m in members if m['geo'].get('conflict')})))
     return {
-        "crash_id": hashlib.sha1(f"{first}|{crash_date}".encode()).hexdigest()[:12],
+        "crash_id": hashlib.sha1(first.encode()).hexdigest()[:12],  # stable: first report's URL
         "crash_date": crash_date,
         "region": geo["region"], "district": geo["district"], "district_pcode": geo["district_pcode"],
         "lat": geo["lat"], "lon": geo["lon"], "location_level": geo["level"],

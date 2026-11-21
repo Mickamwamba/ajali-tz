@@ -3,6 +3,5 @@ __pycache__/
 *.pyc
 .env
 .DS_Store
-data/news/
 data/raw/boundaries/*.zip
 data/raw/boundaries/adm*/
