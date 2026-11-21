@@ -71,7 +71,9 @@ def screen(client: anthropic.Anthropic, row: dict) -> tuple[dict, Screening | No
     except anthropic.RateLimitError:
         return row, None, "rate limited", (0, 0)
     except anthropic.APIStatusError as e:
-        return row, None, f"API error {e.status_code}", (0, 0)
+        body = e.body if isinstance(e.body, dict) else {}
+        detail = body.get("error", {}).get("message", "") if isinstance(body.get("error"), dict) else ""
+        return row, None, f"API error {e.status_code}: {detail or e.message}"[:160], (0, 0)
     except anthropic.APIConnectionError:
         return row, None, "connection error", (0, 0)
     usage = (resp.usage.input_tokens, resp.usage.output_tokens)
