@@ -15,7 +15,7 @@ Done when: one CSV of national and regional deaths, injuries and crashes by year
   - [x] Regional tables → `data/interim/regional_raw.csv` via `extract_regional.py` (2023 hand-entered in `manual/regional-2023.csv`)
   - [x] Motorcycle tables → `data/interim/motorcycle_raw.csv` via `extract_motorcycle.py`
   - [x] Causes tables → `data/interim/causes_raw.csv` via `extract_causes.py`
-- [ ] 1d. Standardise region names; map police regions to administrative regions
+- [x] 1d. Standardise region names; map police regions to administrative regions (`region_map.csv`, `map_regions.py` → `data/interim/*_admin.csv`)
 - [ ] 1e. Add WHO/GBD estimated deaths for the years available
 - [ ] 1f. Checks: regional values sum to the national total; flag jumps from one year to the next
 - [ ] 1g. Write `data/processed/official.csv`

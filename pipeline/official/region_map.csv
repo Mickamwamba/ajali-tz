@@ -1,0 +1,45 @@
+police_region,admin_region,zone,note
+Arusha,Arusha,Mainland,
+Ilala,Dar es Salaam,Mainland,Dar es Salaam is split into 3 police regions
+Temeke,Dar es Salaam,Mainland,Includes Kigamboni district
+Kinondoni,Dar es Salaam,Mainland,Includes Ubungo district
+Dodoma,Dodoma,Mainland,
+Geita,Geita,Mainland,
+Iringa,Iringa,Mainland,
+Kagera,Kagera,Mainland,
+Katavi,Katavi,Mainland,
+Kigoma,Kigoma,Mainland,
+Kilimanjaro,Kilimanjaro,Mainland,
+Lindi,Lindi,Mainland,
+Mara,Mara,Mainland,Excludes Tarime and Rorya districts (separate police region)
+Manyara,Manyara,Mainland,
+Mbeya,Mbeya,Mainland,
+Morogoro,Morogoro,Mainland,
+Mtwara,Mtwara,Mainland,
+Mwanza,Mwanza,Mainland,
+Njombe,Njombe,Mainland,
+Pwani,Pwani,Mainland,Excludes Rufiji area (separate police region)
+Rufiji,Pwani,Mainland,Police region inside Pwani
+Rukwa,Rukwa,Mainland,
+Ruvuma,Ruvuma,Mainland,
+Shinyanga,Shinyanga,Mainland,
+Simiyu,Simiyu,Mainland,
+Singida,Singida,Mainland,
+Songwe,Songwe,Mainland,
+Tabora,Tabora,Mainland,
+Tanga,Tanga,Mainland,
+Tarime - Rorya,Mara,Mainland,Police region covering Tarime and Rorya districts of Mara
+Kaskazini Pemba,Kaskazini Pemba,Zanzibar,North Pemba
+Kaskazini Unguja,Kaskazini Unguja,Zanzibar,North Unguja
+Kusini Pemba,Kusini Pemba,Zanzibar,South Pemba
+Kusini Unguja,Kusini Unguja,Zanzibar,South Unguja
+Mjini Magharibi,Mjini Magharibi,Zanzibar,Urban West
+Marine,,Mainland,"Specialised police unit, no region; counted in national totals only"
+Wanamaji,,Mainland,"Marine police (Swahili name)"
+Railway,,Mainland,"Railway police"
+Reli,,Mainland,"Railway police (Swahili name)"
+TAZARA,,Mainland,"TAZARA railway police"
+Tazara,,Mainland,"TAZARA railway police"
+Airports,,Mainland,"Airport police; 2025 has 4 injuries here"
+Viwanja vya Ndege,,Mainland,"Airport police (Swahili name)"
+V/Ndege,,Mainland,"Airport police (Swahili abbreviation)"

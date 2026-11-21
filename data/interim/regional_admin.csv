@@ -1,0 +1,1123 @@
+year,admin_region,zone,metric,value,source,source_doc,source_table,source_page
+2018,Arusha,Mainland,accidents,60,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Arusha,Mainland,deaths,59,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Arusha,Mainland,fatal_accidents,45,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Arusha,Mainland,injuries,62,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Arusha,Mainland,injury_accidents,11,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Arusha,Mainland,normal_accidents,4,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Dar es Salaam,Mainland,accidents,2049,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Dar es Salaam,Mainland,deaths,153,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Dar es Salaam,Mainland,fatal_accidents,163,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Dar es Salaam,Mainland,injuries,1714,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Dar es Salaam,Mainland,injury_accidents,987,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Dar es Salaam,Mainland,normal_accidents,899,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Dodoma,Mainland,accidents,121,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Dodoma,Mainland,deaths,80,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Dodoma,Mainland,fatal_accidents,55,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Dodoma,Mainland,injuries,113,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Dodoma,Mainland,injury_accidents,37,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Dodoma,Mainland,normal_accidents,29,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Geita,Mainland,accidents,67,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Geita,Mainland,deaths,72,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Geita,Mainland,fatal_accidents,54,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Geita,Mainland,injuries,118,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Geita,Mainland,injury_accidents,12,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Geita,Mainland,normal_accidents,1,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Iringa,Mainland,accidents,52,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Iringa,Mainland,deaths,63,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Iringa,Mainland,fatal_accidents,37,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Iringa,Mainland,injuries,75,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Iringa,Mainland,injury_accidents,12,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Iringa,Mainland,normal_accidents,3,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Kagera,Mainland,accidents,28,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Kagera,Mainland,deaths,43,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Kagera,Mainland,fatal_accidents,21,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Kagera,Mainland,injuries,94,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Kagera,Mainland,injury_accidents,6,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Kagera,Mainland,normal_accidents,1,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Kaskazini Pemba,Zanzibar,accidents,21,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Kaskazini Pemba,Zanzibar,deaths,10,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Kaskazini Pemba,Zanzibar,fatal_accidents,14,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Kaskazini Pemba,Zanzibar,injuries,31,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Kaskazini Pemba,Zanzibar,injury_accidents,7,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Kaskazini Pemba,Zanzibar,normal_accidents,0,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Kaskazini Unguja,Zanzibar,accidents,35,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Kaskazini Unguja,Zanzibar,deaths,17,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Kaskazini Unguja,Zanzibar,fatal_accidents,10,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Kaskazini Unguja,Zanzibar,injuries,76,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Kaskazini Unguja,Zanzibar,injury_accidents,15,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Kaskazini Unguja,Zanzibar,normal_accidents,3,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Katavi,Mainland,accidents,33,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Katavi,Mainland,deaths,24,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Katavi,Mainland,fatal_accidents,22,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Katavi,Mainland,injuries,20,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Katavi,Mainland,injury_accidents,5,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Katavi,Mainland,normal_accidents,6,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Kigoma,Mainland,accidents,37,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Kigoma,Mainland,deaths,46,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Kigoma,Mainland,fatal_accidents,31,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Kigoma,Mainland,injuries,44,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Kigoma,Mainland,injury_accidents,6,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Kigoma,Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Kilimanjaro,Mainland,accidents,70,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Kilimanjaro,Mainland,deaths,67,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Kilimanjaro,Mainland,fatal_accidents,55,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Kilimanjaro,Mainland,injuries,54,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Kilimanjaro,Mainland,injury_accidents,15,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Kilimanjaro,Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Kusini Pemba,Zanzibar,accidents,16,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Kusini Pemba,Zanzibar,deaths,11,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Kusini Pemba,Zanzibar,fatal_accidents,10,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Kusini Pemba,Zanzibar,injuries,31,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Kusini Pemba,Zanzibar,injury_accidents,6,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Kusini Pemba,Zanzibar,normal_accidents,3,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Kusini Unguja,Zanzibar,accidents,37,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Kusini Unguja,Zanzibar,deaths,38,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Kusini Unguja,Zanzibar,fatal_accidents,26,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Kusini Unguja,Zanzibar,injuries,137,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Kusini Unguja,Zanzibar,injury_accidents,11,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Kusini Unguja,Zanzibar,normal_accidents,0,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Lindi,Mainland,accidents,94,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Lindi,Mainland,deaths,77,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Lindi,Mainland,fatal_accidents,66,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Lindi,Mainland,injuries,86,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Lindi,Mainland,injury_accidents,26,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Lindi,Mainland,normal_accidents,2,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Manyara,Mainland,accidents,75,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Manyara,Mainland,deaths,60,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Manyara,Mainland,fatal_accidents,46,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Manyara,Mainland,injuries,67,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Manyara,Mainland,injury_accidents,28,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Manyara,Mainland,normal_accidents,1,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Mara,Mainland,accidents,110,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Mara,Mainland,deaths,92,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Mara,Mainland,fatal_accidents,73,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Mara,Mainland,injuries,121,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Mara,Mainland,injury_accidents,37,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Mara,Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Mbeya,Mainland,accidents,60,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Mbeya,Mainland,deaths,103,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Mbeya,Mainland,fatal_accidents,43,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Mbeya,Mainland,injuries,153,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Mbeya,Mainland,injury_accidents,17,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Mbeya,Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Mjini Magharibi,Zanzibar,accidents,147,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Mjini Magharibi,Zanzibar,deaths,48,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Mjini Magharibi,Zanzibar,fatal_accidents,49,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Mjini Magharibi,Zanzibar,injuries,173,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Mjini Magharibi,Zanzibar,injury_accidents,81,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Mjini Magharibi,Zanzibar,normal_accidents,19,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Morogoro,Mainland,accidents,65,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Morogoro,Mainland,deaths,80,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Morogoro,Mainland,fatal_accidents,42,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Morogoro,Mainland,injuries,127,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Morogoro,Mainland,injury_accidents,18,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Morogoro,Mainland,normal_accidents,5,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Mtwara,Mainland,accidents,49,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Mtwara,Mainland,deaths,34,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Mtwara,Mainland,fatal_accidents,27,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Mtwara,Mainland,injuries,56,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Mtwara,Mainland,injury_accidents,22,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Mtwara,Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Mwanza,Mainland,accidents,124,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Mwanza,Mainland,deaths,103,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Mwanza,Mainland,fatal_accidents,95,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Mwanza,Mainland,injuries,92,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Mwanza,Mainland,injury_accidents,26,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Mwanza,Mainland,normal_accidents,3,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Njombe,Mainland,accidents,67,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Njombe,Mainland,deaths,69,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Njombe,Mainland,fatal_accidents,66,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Njombe,Mainland,injuries,33,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Njombe,Mainland,injury_accidents,1,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Njombe,Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Pwani,Mainland,accidents,114,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Pwani,Mainland,deaths,140,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Pwani,Mainland,fatal_accidents,74,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Pwani,Mainland,injuries,156,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Pwani,Mainland,injury_accidents,35,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Pwani,Mainland,normal_accidents,5,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Rukwa,Mainland,accidents,22,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Rukwa,Mainland,deaths,21,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Rukwa,Mainland,fatal_accidents,19,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Rukwa,Mainland,injuries,9,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Rukwa,Mainland,injury_accidents,2,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Rukwa,Mainland,normal_accidents,1,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Ruvuma,Mainland,accidents,67,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Ruvuma,Mainland,deaths,67,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Ruvuma,Mainland,fatal_accidents,53,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Ruvuma,Mainland,injuries,73,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Ruvuma,Mainland,injury_accidents,14,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Ruvuma,Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Shinyanga,Mainland,accidents,77,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Shinyanga,Mainland,deaths,53,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Shinyanga,Mainland,fatal_accidents,45,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Shinyanga,Mainland,injuries,88,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Shinyanga,Mainland,injury_accidents,32,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Shinyanga,Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Simiyu,Mainland,accidents,37,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Simiyu,Mainland,deaths,27,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Simiyu,Mainland,fatal_accidents,27,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Simiyu,Mainland,injuries,36,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Simiyu,Mainland,injury_accidents,10,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Simiyu,Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Singida,Mainland,accidents,51,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Singida,Mainland,deaths,59,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Singida,Mainland,fatal_accidents,37,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Singida,Mainland,injuries,71,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Singida,Mainland,injury_accidents,11,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Singida,Mainland,normal_accidents,3,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Songwe,Mainland,accidents,67,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Songwe,Mainland,deaths,63,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Songwe,Mainland,fatal_accidents,54,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Songwe,Mainland,injuries,50,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Songwe,Mainland,injury_accidents,13,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Songwe,Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Tabora,Mainland,accidents,77,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Tabora,Mainland,deaths,68,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Tabora,Mainland,fatal_accidents,49,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Tabora,Mainland,injuries,115,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Tabora,Mainland,injury_accidents,23,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Tabora,Mainland,normal_accidents,5,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Tanga,Mainland,accidents,59,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Tanga,Mainland,deaths,65,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Tanga,Mainland,fatal_accidents,41,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Tanga,Mainland,injuries,119,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Tanga,Mainland,injury_accidents,15,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2018,Tanga,Mainland,normal_accidents,3,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58
+2019,Arusha,Mainland,accidents,56,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Arusha,Mainland,deaths,56,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Arusha,Mainland,fatal_accidents,39,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Arusha,Mainland,injuries,95,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Arusha,Mainland,injury_accidents,14,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Arusha,Mainland,normal_accidents,3,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Dar es Salaam,Mainland,accidents,1284,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Dar es Salaam,Mainland,deaths,101,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Dar es Salaam,Mainland,fatal_accidents,88,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Dar es Salaam,Mainland,injuries,1127,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Dar es Salaam,Mainland,injury_accidents,592,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Dar es Salaam,Mainland,normal_accidents,604,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Dodoma,Mainland,accidents,61,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Dodoma,Mainland,deaths,54,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Dodoma,Mainland,fatal_accidents,39,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Dodoma,Mainland,injuries,73,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Dodoma,Mainland,injury_accidents,18,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Dodoma,Mainland,normal_accidents,4,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Geita,Mainland,accidents,79,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Geita,Mainland,deaths,67,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Geita,Mainland,fatal_accidents,59,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Geita,Mainland,injuries,74,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Geita,Mainland,injury_accidents,18,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Geita,Mainland,normal_accidents,2,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Iringa,Mainland,accidents,64,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Iringa,Mainland,deaths,76,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Iringa,Mainland,fatal_accidents,52,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Iringa,Mainland,injuries,82,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Iringa,Mainland,injury_accidents,12,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Iringa,Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Kagera,Mainland,accidents,39,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Kagera,Mainland,deaths,42,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Kagera,Mainland,fatal_accidents,28,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Kagera,Mainland,injuries,54,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Kagera,Mainland,injury_accidents,6,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Kagera,Mainland,normal_accidents,5,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Kaskazini Pemba,Zanzibar,accidents,21,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Kaskazini Pemba,Zanzibar,deaths,9,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Kaskazini Pemba,Zanzibar,fatal_accidents,8,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Kaskazini Pemba,Zanzibar,injuries,73,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Kaskazini Pemba,Zanzibar,injury_accidents,11,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Kaskazini Pemba,Zanzibar,normal_accidents,2,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Kaskazini Unguja,Zanzibar,accidents,26,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Kaskazini Unguja,Zanzibar,deaths,20,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Kaskazini Unguja,Zanzibar,fatal_accidents,17,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Kaskazini Unguja,Zanzibar,injuries,17,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Kaskazini Unguja,Zanzibar,injury_accidents,9,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Kaskazini Unguja,Zanzibar,normal_accidents,0,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Katavi,Mainland,accidents,36,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Katavi,Mainland,deaths,29,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Katavi,Mainland,fatal_accidents,22,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Katavi,Mainland,injuries,79,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Katavi,Mainland,injury_accidents,11,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Katavi,Mainland,normal_accidents,3,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Kigoma,Mainland,accidents,26,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Kigoma,Mainland,deaths,33,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Kigoma,Mainland,fatal_accidents,20,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Kigoma,Mainland,injuries,79,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Kigoma,Mainland,injury_accidents,6,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Kigoma,Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Kilimanjaro,Mainland,accidents,90,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Kilimanjaro,Mainland,deaths,83,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Kilimanjaro,Mainland,fatal_accidents,68,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Kilimanjaro,Mainland,injuries,94,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Kilimanjaro,Mainland,injury_accidents,21,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Kilimanjaro,Mainland,normal_accidents,1,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Kusini Pemba,Zanzibar,accidents,13,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Kusini Pemba,Zanzibar,deaths,8,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Kusini Pemba,Zanzibar,fatal_accidents,8,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Kusini Pemba,Zanzibar,injuries,12,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Kusini Pemba,Zanzibar,injury_accidents,4,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Kusini Pemba,Zanzibar,normal_accidents,1,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Kusini Unguja,Zanzibar,accidents,36,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Kusini Unguja,Zanzibar,deaths,25,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Kusini Unguja,Zanzibar,fatal_accidents,16,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Kusini Unguja,Zanzibar,injuries,45,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Kusini Unguja,Zanzibar,injury_accidents,20,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Kusini Unguja,Zanzibar,normal_accidents,0,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Lindi,Mainland,accidents,72,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Lindi,Mainland,deaths,69,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Lindi,Mainland,fatal_accidents,59,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Lindi,Mainland,injuries,56,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Lindi,Mainland,injury_accidents,11,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Lindi,Mainland,normal_accidents,2,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Manyara,Mainland,accidents,26,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Manyara,Mainland,deaths,31,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Manyara,Mainland,fatal_accidents,21,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Manyara,Mainland,injuries,24,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Manyara,Mainland,injury_accidents,5,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Manyara,Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Mara,Mainland,accidents,71,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Mara,Mainland,deaths,73,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Mara,Mainland,fatal_accidents,59,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Mara,Mainland,injuries,59,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Mara,Mainland,injury_accidents,9,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Mara,Mainland,normal_accidents,3,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Mbeya,Mainland,accidents,48,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Mbeya,Mainland,deaths,38,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Mbeya,Mainland,fatal_accidents,32,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Mbeya,Mainland,injuries,79,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Mbeya,Mainland,injury_accidents,15,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Mbeya,Mainland,normal_accidents,1,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Mjini Magharibi,Zanzibar,accidents,124,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Mjini Magharibi,Zanzibar,deaths,42,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Mjini Magharibi,Zanzibar,fatal_accidents,37,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Mjini Magharibi,Zanzibar,injuries,143,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Mjini Magharibi,Zanzibar,injury_accidents,64,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Mjini Magharibi,Zanzibar,normal_accidents,23,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Morogoro,Mainland,accidents,75,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Morogoro,Mainland,deaths,90,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Morogoro,Mainland,fatal_accidents,64,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Morogoro,Mainland,injuries,79,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Morogoro,Mainland,injury_accidents,10,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Morogoro,Mainland,normal_accidents,1,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Mtwara,Mainland,accidents,32,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Mtwara,Mainland,deaths,32,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Mtwara,Mainland,fatal_accidents,23,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Mtwara,Mainland,injuries,31,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Mtwara,Mainland,injury_accidents,8,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Mtwara,Mainland,normal_accidents,1,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Mwanza,Mainland,accidents,90,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Mwanza,Mainland,deaths,81,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Mwanza,Mainland,fatal_accidents,72,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Mwanza,Mainland,injuries,98,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Mwanza,Mainland,injury_accidents,15,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Mwanza,Mainland,normal_accidents,3,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Njombe,Mainland,accidents,60,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Njombe,Mainland,deaths,53,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Njombe,Mainland,fatal_accidents,50,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Njombe,Mainland,injuries,51,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Njombe,Mainland,injury_accidents,9,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Njombe,Mainland,normal_accidents,1,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Pwani,Mainland,accidents,100,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Pwani,Mainland,deaths,96,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Pwani,Mainland,fatal_accidents,75,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Pwani,Mainland,injuries,88,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Pwani,Mainland,injury_accidents,20,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Pwani,Mainland,normal_accidents,5,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Rukwa,Mainland,accidents,21,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Rukwa,Mainland,deaths,22,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Rukwa,Mainland,fatal_accidents,18,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Rukwa,Mainland,injuries,9,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Rukwa,Mainland,injury_accidents,3,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Rukwa,Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Ruvuma,Mainland,accidents,48,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Ruvuma,Mainland,deaths,31,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Ruvuma,Mainland,fatal_accidents,28,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Ruvuma,Mainland,injuries,66,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Ruvuma,Mainland,injury_accidents,15,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Ruvuma,Mainland,normal_accidents,5,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Shinyanga,Mainland,accidents,72,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Shinyanga,Mainland,deaths,38,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Shinyanga,Mainland,fatal_accidents,32,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Shinyanga,Mainland,injuries,94,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Shinyanga,Mainland,injury_accidents,39,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Shinyanga,Mainland,normal_accidents,1,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Simiyu,Mainland,accidents,26,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Simiyu,Mainland,deaths,21,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Simiyu,Mainland,fatal_accidents,20,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Simiyu,Mainland,injuries,17,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Simiyu,Mainland,injury_accidents,6,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Simiyu,Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Singida,Mainland,accidents,46,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Singida,Mainland,deaths,32,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Singida,Mainland,fatal_accidents,26,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Singida,Mainland,injuries,48,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Singida,Mainland,injury_accidents,15,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Singida,Mainland,normal_accidents,5,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Songwe,Mainland,accidents,41,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Songwe,Mainland,deaths,57,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Songwe,Mainland,fatal_accidents,35,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Songwe,Mainland,injuries,56,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Songwe,Mainland,injury_accidents,5,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Songwe,Mainland,normal_accidents,1,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Tabora,Mainland,accidents,45,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Tabora,Mainland,deaths,38,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Tabora,Mainland,fatal_accidents,30,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Tabora,Mainland,injuries,48,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Tabora,Mainland,injury_accidents,12,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Tabora,Mainland,normal_accidents,3,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Tanga,Mainland,accidents,96,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Tanga,Mainland,deaths,89,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Tanga,Mainland,fatal_accidents,63,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Tanga,Mainland,injuries,173,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Tanga,Mainland,injury_accidents,23,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2019,Tanga,Mainland,normal_accidents,10,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61
+2020,Arusha,Mainland,accidents,62,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Arusha,Mainland,deaths,58,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Arusha,Mainland,fatal_accidents,38,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Arusha,Mainland,injuries,113,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Arusha,Mainland,injury_accidents,23,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Arusha,Mainland,normal_accidents,1,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Dar es Salaam,Mainland,accidents,530,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Dar es Salaam,Mainland,deaths,77,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Dar es Salaam,Mainland,fatal_accidents,61,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Dar es Salaam,Mainland,injuries,573,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Dar es Salaam,Mainland,injury_accidents,269,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Dar es Salaam,Mainland,normal_accidents,200,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Dodoma,Mainland,accidents,16,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Dodoma,Mainland,deaths,24,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Dodoma,Mainland,fatal_accidents,11,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Dodoma,Mainland,injuries,33,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Dodoma,Mainland,injury_accidents,4,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Dodoma,Mainland,normal_accidents,1,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Geita,Mainland,accidents,71,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Geita,Mainland,deaths,63,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Geita,Mainland,fatal_accidents,54,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Geita,Mainland,injuries,61,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Geita,Mainland,injury_accidents,12,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Geita,Mainland,normal_accidents,5,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Iringa,Mainland,accidents,32,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Iringa,Mainland,deaths,52,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Iringa,Mainland,fatal_accidents,25,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Iringa,Mainland,injuries,71,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Iringa,Mainland,injury_accidents,4,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Iringa,Mainland,normal_accidents,3,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Kagera,Mainland,accidents,36,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Kagera,Mainland,deaths,63,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Kagera,Mainland,fatal_accidents,27,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Kagera,Mainland,injuries,66,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Kagera,Mainland,injury_accidents,8,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Kagera,Mainland,normal_accidents,1,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Kaskazini Pemba,Zanzibar,accidents,15,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Kaskazini Pemba,Zanzibar,deaths,10,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Kaskazini Pemba,Zanzibar,fatal_accidents,10,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Kaskazini Pemba,Zanzibar,injuries,38,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Kaskazini Pemba,Zanzibar,injury_accidents,5,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Kaskazini Pemba,Zanzibar,normal_accidents,0,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Kaskazini Unguja,Zanzibar,accidents,35,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Kaskazini Unguja,Zanzibar,deaths,24,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Kaskazini Unguja,Zanzibar,fatal_accidents,20,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Kaskazini Unguja,Zanzibar,injuries,51,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Kaskazini Unguja,Zanzibar,injury_accidents,13,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Kaskazini Unguja,Zanzibar,normal_accidents,2,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Katavi,Mainland,accidents,49,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Katavi,Mainland,deaths,37,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Katavi,Mainland,fatal_accidents,31,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Katavi,Mainland,injuries,79,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Katavi,Mainland,injury_accidents,16,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Katavi,Mainland,normal_accidents,2,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Kigoma,Mainland,accidents,34,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Kigoma,Mainland,deaths,32,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Kigoma,Mainland,fatal_accidents,28,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Kigoma,Mainland,injuries,36,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Kigoma,Mainland,injury_accidents,6,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Kigoma,Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Kilimanjaro,Mainland,accidents,81,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Kilimanjaro,Mainland,deaths,65,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Kilimanjaro,Mainland,fatal_accidents,58,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Kilimanjaro,Mainland,injuries,71,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Kilimanjaro,Mainland,injury_accidents,22,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Kilimanjaro,Mainland,normal_accidents,1,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Kusini Pemba,Zanzibar,accidents,11,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Kusini Pemba,Zanzibar,deaths,5,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Kusini Pemba,Zanzibar,fatal_accidents,5,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Kusini Pemba,Zanzibar,injuries,16,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Kusini Pemba,Zanzibar,injury_accidents,5,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Kusini Pemba,Zanzibar,normal_accidents,1,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Kusini Unguja,Zanzibar,accidents,39,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Kusini Unguja,Zanzibar,deaths,23,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Kusini Unguja,Zanzibar,fatal_accidents,22,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Kusini Unguja,Zanzibar,injuries,78,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Kusini Unguja,Zanzibar,injury_accidents,15,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Kusini Unguja,Zanzibar,normal_accidents,2,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Lindi,Mainland,accidents,65,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Lindi,Mainland,deaths,59,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Lindi,Mainland,fatal_accidents,48,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Lindi,Mainland,injuries,67,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Lindi,Mainland,injury_accidents,17,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Lindi,Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Manyara,Mainland,accidents,24,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Manyara,Mainland,deaths,22,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Manyara,Mainland,fatal_accidents,18,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Manyara,Mainland,injuries,32,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Manyara,Mainland,injury_accidents,4,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Manyara,Mainland,normal_accidents,2,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Mara,Mainland,accidents,77,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Mara,Mainland,deaths,64,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Mara,Mainland,fatal_accidents,62,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Mara,Mainland,injuries,58,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Mara,Mainland,injury_accidents,12,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Mara,Mainland,normal_accidents,3,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Mbeya,Mainland,accidents,49,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Mbeya,Mainland,deaths,41,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Mbeya,Mainland,fatal_accidents,32,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Mbeya,Mainland,injuries,57,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Mbeya,Mainland,injury_accidents,14,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Mbeya,Mainland,normal_accidents,3,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Mjini Magharibi,Zanzibar,accidents,119,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Mjini Magharibi,Zanzibar,deaths,62,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Mjini Magharibi,Zanzibar,fatal_accidents,59,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Mjini Magharibi,Zanzibar,injuries,109,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Mjini Magharibi,Zanzibar,injury_accidents,44,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Mjini Magharibi,Zanzibar,normal_accidents,16,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Morogoro,Mainland,accidents,50,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Morogoro,Mainland,deaths,51,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Morogoro,Mainland,fatal_accidents,32,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Morogoro,Mainland,injuries,66,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Morogoro,Mainland,injury_accidents,15,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Morogoro,Mainland,normal_accidents,3,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Mtwara,Mainland,accidents,43,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Mtwara,Mainland,deaths,40,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Mtwara,Mainland,fatal_accidents,30,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Mtwara,Mainland,injuries,51,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Mtwara,Mainland,injury_accidents,11,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Mtwara,Mainland,normal_accidents,2,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Mwanza,Mainland,accidents,63,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Mwanza,Mainland,deaths,66,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Mwanza,Mainland,fatal_accidents,48,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Mwanza,Mainland,injuries,67,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Mwanza,Mainland,injury_accidents,14,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Mwanza,Mainland,normal_accidents,1,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Njombe,Mainland,accidents,49,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Njombe,Mainland,deaths,41,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Njombe,Mainland,fatal_accidents,34,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Njombe,Mainland,injuries,70,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Njombe,Mainland,injury_accidents,15,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Njombe,Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Pwani,Mainland,accidents,95,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Pwani,Mainland,deaths,106,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Pwani,Mainland,fatal_accidents,67,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Pwani,Mainland,injuries,133,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Pwani,Mainland,injury_accidents,25,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Pwani,Mainland,normal_accidents,3,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Rukwa,Mainland,accidents,21,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Rukwa,Mainland,deaths,23,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Rukwa,Mainland,fatal_accidents,17,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Rukwa,Mainland,injuries,20,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Rukwa,Mainland,injury_accidents,4,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Rukwa,Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Ruvuma,Mainland,accidents,40,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Ruvuma,Mainland,deaths,45,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Ruvuma,Mainland,fatal_accidents,28,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Ruvuma,Mainland,injuries,57,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Ruvuma,Mainland,injury_accidents,10,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Ruvuma,Mainland,normal_accidents,2,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Shinyanga,Mainland,accidents,47,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Shinyanga,Mainland,deaths,39,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Shinyanga,Mainland,fatal_accidents,28,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Shinyanga,Mainland,injuries,54,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Shinyanga,Mainland,injury_accidents,19,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Shinyanga,Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Simiyu,Mainland,accidents,25,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Simiyu,Mainland,deaths,21,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Simiyu,Mainland,fatal_accidents,20,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Simiyu,Mainland,injuries,28,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Simiyu,Mainland,injury_accidents,5,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Simiyu,Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Singida,Mainland,accidents,45,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Singida,Mainland,deaths,57,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Singida,Mainland,fatal_accidents,30,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Singida,Mainland,injuries,66,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Singida,Mainland,injury_accidents,14,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Singida,Mainland,normal_accidents,1,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Songwe,Mainland,accidents,33,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Songwe,Mainland,deaths,35,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Songwe,Mainland,fatal_accidents,30,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Songwe,Mainland,injuries,84,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Songwe,Mainland,injury_accidents,3,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Songwe,Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Tabora,Mainland,accidents,39,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Tabora,Mainland,deaths,28,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Tabora,Mainland,fatal_accidents,25,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Tabora,Mainland,injuries,30,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Tabora,Mainland,injury_accidents,13,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Tabora,Mainland,normal_accidents,1,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Tanga,Mainland,accidents,38,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Tanga,Mainland,deaths,51,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Tanga,Mainland,fatal_accidents,33,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Tanga,Mainland,injuries,27,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Tanga,Mainland,injury_accidents,5,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2020,Tanga,Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63
+2023,Arusha,Mainland,accidents,88,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Arusha,Mainland,deaths,67,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Arusha,Mainland,fatal_accidents,53,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Arusha,Mainland,injuries,106,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Arusha,Mainland,injury_accidents,20,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Arusha,Mainland,normal_accidents,15,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Dar es Salaam,Mainland,accidents,221,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Dar es Salaam,Mainland,deaths,116,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Dar es Salaam,Mainland,fatal_accidents,90,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Dar es Salaam,Mainland,injuries,356,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Dar es Salaam,Mainland,injury_accidents,105,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Dar es Salaam,Mainland,normal_accidents,26,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Dodoma,Mainland,accidents,25,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Dodoma,Mainland,deaths,40,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Dodoma,Mainland,fatal_accidents,22,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Dodoma,Mainland,injuries,121,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Dodoma,Mainland,injury_accidents,0,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Dodoma,Mainland,normal_accidents,3,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Geita,Mainland,accidents,51,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Geita,Mainland,deaths,57,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Geita,Mainland,fatal_accidents,33,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Geita,Mainland,injuries,95,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Geita,Mainland,injury_accidents,11,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Geita,Mainland,normal_accidents,7,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Iringa,Mainland,accidents,43,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Iringa,Mainland,deaths,38,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Iringa,Mainland,fatal_accidents,26,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Iringa,Mainland,injuries,67,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Iringa,Mainland,injury_accidents,15,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Iringa,Mainland,normal_accidents,2,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Kagera,Mainland,accidents,56,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Kagera,Mainland,deaths,64,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Kagera,Mainland,fatal_accidents,41,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Kagera,Mainland,injuries,64,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Kagera,Mainland,injury_accidents,11,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Kagera,Mainland,normal_accidents,4,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Kaskazini Pemba,Zanzibar,accidents,30,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Kaskazini Pemba,Zanzibar,deaths,12,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Kaskazini Pemba,Zanzibar,fatal_accidents,14,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Kaskazini Pemba,Zanzibar,injuries,34,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Kaskazini Pemba,Zanzibar,injury_accidents,16,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Kaskazini Pemba,Zanzibar,normal_accidents,0,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Kaskazini Unguja,Zanzibar,accidents,38,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Kaskazini Unguja,Zanzibar,deaths,27,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Kaskazini Unguja,Zanzibar,fatal_accidents,27,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Kaskazini Unguja,Zanzibar,injuries,25,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Kaskazini Unguja,Zanzibar,injury_accidents,9,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Kaskazini Unguja,Zanzibar,normal_accidents,2,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Katavi,Mainland,accidents,32,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Katavi,Mainland,deaths,39,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Katavi,Mainland,fatal_accidents,25,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Katavi,Mainland,injuries,65,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Katavi,Mainland,injury_accidents,6,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Katavi,Mainland,normal_accidents,1,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Kigoma,Mainland,accidents,61,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Kigoma,Mainland,deaths,52,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Kigoma,Mainland,fatal_accidents,40,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Kigoma,Mainland,injuries,78,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Kigoma,Mainland,injury_accidents,19,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Kigoma,Mainland,normal_accidents,2,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Kilimanjaro,Mainland,accidents,57,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Kilimanjaro,Mainland,deaths,60,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Kilimanjaro,Mainland,fatal_accidents,33,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Kilimanjaro,Mainland,injuries,106,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Kilimanjaro,Mainland,injury_accidents,20,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Kilimanjaro,Mainland,normal_accidents,4,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Kusini Pemba,Zanzibar,accidents,21,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Kusini Pemba,Zanzibar,deaths,28,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Kusini Pemba,Zanzibar,fatal_accidents,11,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Kusini Pemba,Zanzibar,injuries,54,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Kusini Pemba,Zanzibar,injury_accidents,7,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Kusini Pemba,Zanzibar,normal_accidents,3,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Kusini Unguja,Zanzibar,accidents,44,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Kusini Unguja,Zanzibar,deaths,37,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Kusini Unguja,Zanzibar,fatal_accidents,29,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Kusini Unguja,Zanzibar,injuries,35,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Kusini Unguja,Zanzibar,injury_accidents,12,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Kusini Unguja,Zanzibar,normal_accidents,3,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Lindi,Mainland,accidents,48,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Lindi,Mainland,deaths,63,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Lindi,Mainland,fatal_accidents,35,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Lindi,Mainland,injuries,110,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Lindi,Mainland,injury_accidents,12,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Lindi,Mainland,normal_accidents,1,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Manyara,Mainland,accidents,74,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Manyara,Mainland,deaths,59,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Manyara,Mainland,fatal_accidents,50,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Manyara,Mainland,injuries,59,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Manyara,Mainland,injury_accidents,20,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Manyara,Mainland,normal_accidents,4,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Mara,Mainland,accidents,62,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Mara,Mainland,deaths,48,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Mara,Mainland,fatal_accidents,43,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Mara,Mainland,injuries,105,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Mara,Mainland,injury_accidents,11,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Mara,Mainland,normal_accidents,8,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Mbeya,Mainland,accidents,109,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Mbeya,Mainland,deaths,98,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Mbeya,Mainland,fatal_accidents,64,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Mbeya,Mainland,injuries,167,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Mbeya,Mainland,injury_accidents,29,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Mbeya,Mainland,normal_accidents,16,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Mjini Magharibi,Zanzibar,accidents,59,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Mjini Magharibi,Zanzibar,deaths,56,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Mjini Magharibi,Zanzibar,fatal_accidents,50,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Mjini Magharibi,Zanzibar,injuries,56,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Mjini Magharibi,Zanzibar,injury_accidents,9,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Mjini Magharibi,Zanzibar,normal_accidents,2,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Morogoro,Mainland,accidents,74,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Morogoro,Mainland,deaths,72,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Morogoro,Mainland,fatal_accidents,50,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Morogoro,Mainland,injuries,129,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Morogoro,Mainland,injury_accidents,21,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Morogoro,Mainland,normal_accidents,3,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Mtwara,Mainland,accidents,52,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Mtwara,Mainland,deaths,38,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Mtwara,Mainland,fatal_accidents,28,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Mtwara,Mainland,injuries,105,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Mtwara,Mainland,injury_accidents,21,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Mtwara,Mainland,normal_accidents,3,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Mwanza,Mainland,accidents,69,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Mwanza,Mainland,deaths,82,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Mwanza,Mainland,fatal_accidents,55,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Mwanza,Mainland,injuries,66,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Mwanza,Mainland,injury_accidents,7,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Mwanza,Mainland,normal_accidents,7,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Njombe,Mainland,accidents,54,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Njombe,Mainland,deaths,64,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Njombe,Mainland,fatal_accidents,43,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Njombe,Mainland,injuries,121,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Njombe,Mainland,injury_accidents,10,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Njombe,Mainland,normal_accidents,1,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Pwani,Mainland,accidents,73,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Pwani,Mainland,deaths,99,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Pwani,Mainland,fatal_accidents,54,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Pwani,Mainland,injuries,96,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Pwani,Mainland,injury_accidents,14,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Pwani,Mainland,normal_accidents,5,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Rukwa,Mainland,accidents,27,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Rukwa,Mainland,deaths,20,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Rukwa,Mainland,fatal_accidents,20,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Rukwa,Mainland,injuries,25,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Rukwa,Mainland,injury_accidents,5,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Rukwa,Mainland,normal_accidents,2,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Ruvuma,Mainland,accidents,35,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Ruvuma,Mainland,deaths,45,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Ruvuma,Mainland,fatal_accidents,20,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Ruvuma,Mainland,injuries,80,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Ruvuma,Mainland,injury_accidents,11,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Ruvuma,Mainland,normal_accidents,4,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Shinyanga,Mainland,accidents,50,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Shinyanga,Mainland,deaths,52,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Shinyanga,Mainland,fatal_accidents,42,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Shinyanga,Mainland,injuries,40,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Shinyanga,Mainland,injury_accidents,6,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Shinyanga,Mainland,normal_accidents,2,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Simiyu,Mainland,accidents,19,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Simiyu,Mainland,deaths,17,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Simiyu,Mainland,fatal_accidents,17,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Simiyu,Mainland,injuries,22,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Simiyu,Mainland,injury_accidents,2,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Simiyu,Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Singida,Mainland,accidents,40,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Singida,Mainland,deaths,47,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Singida,Mainland,fatal_accidents,22,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Singida,Mainland,injuries,79,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Singida,Mainland,injury_accidents,11,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Singida,Mainland,normal_accidents,7,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Songwe,Mainland,accidents,32,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Songwe,Mainland,deaths,39,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Songwe,Mainland,fatal_accidents,25,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Songwe,Mainland,injuries,39,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Songwe,Mainland,injury_accidents,4,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Songwe,Mainland,normal_accidents,3,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Tabora,Mainland,accidents,40,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Tabora,Mainland,deaths,47,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Tabora,Mainland,fatal_accidents,25,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Tabora,Mainland,injuries,123,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Tabora,Mainland,injury_accidents,14,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Tabora,Mainland,normal_accidents,1,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Tanga,Mainland,accidents,49,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Tanga,Mainland,deaths,64,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Tanga,Mainland,fatal_accidents,31,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Tanga,Mainland,injuries,88,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Tanga,Mainland,injury_accidents,13,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2023,Tanga,Mainland,normal_accidents,5,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47
+2024,Arusha,Mainland,accidents,50,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Arusha,Mainland,deaths,76,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Arusha,Mainland,fatal_accidents,30,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Arusha,Mainland,injuries,130,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Arusha,Mainland,injury_accidents,18,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Arusha,Mainland,normal_accidents,2,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Dar es Salaam,Mainland,accidents,232,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Dar es Salaam,Mainland,deaths,145,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Dar es Salaam,Mainland,fatal_accidents,121,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Dar es Salaam,Mainland,injuries,243,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Dar es Salaam,Mainland,injury_accidents,94,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Dar es Salaam,Mainland,normal_accidents,17,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Dodoma,Mainland,accidents,74,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Dodoma,Mainland,deaths,56,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Dodoma,Mainland,fatal_accidents,59,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Dodoma,Mainland,injuries,108,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Dodoma,Mainland,injury_accidents,15,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Dodoma,Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Geita,Mainland,accidents,46,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Geita,Mainland,deaths,42,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Geita,Mainland,fatal_accidents,30,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Geita,Mainland,injuries,48,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Geita,Mainland,injury_accidents,14,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Geita,Mainland,normal_accidents,2,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Iringa,Mainland,accidents,45,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Iringa,Mainland,deaths,33,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Iringa,Mainland,fatal_accidents,24,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Iringa,Mainland,injuries,84,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Iringa,Mainland,injury_accidents,19,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Iringa,Mainland,normal_accidents,2,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Kagera,Mainland,accidents,45,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Kagera,Mainland,deaths,56,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Kagera,Mainland,fatal_accidents,39,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Kagera,Mainland,injuries,81,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Kagera,Mainland,injury_accidents,6,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Kagera,Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Kaskazini Pemba,Zanzibar,accidents,22,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Kaskazini Pemba,Zanzibar,deaths,17,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Kaskazini Pemba,Zanzibar,fatal_accidents,16,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Kaskazini Pemba,Zanzibar,injuries,32,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Kaskazini Pemba,Zanzibar,injury_accidents,6,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Kaskazini Pemba,Zanzibar,normal_accidents,0,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Kaskazini Unguja,Zanzibar,accidents,60,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Kaskazini Unguja,Zanzibar,deaths,46,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Kaskazini Unguja,Zanzibar,fatal_accidents,41,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Kaskazini Unguja,Zanzibar,injuries,107,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Kaskazini Unguja,Zanzibar,injury_accidents,19,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Kaskazini Unguja,Zanzibar,normal_accidents,0,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Katavi,Mainland,accidents,30,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Katavi,Mainland,deaths,31,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Katavi,Mainland,fatal_accidents,22,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Katavi,Mainland,injuries,30,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Katavi,Mainland,injury_accidents,7,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Katavi,Mainland,normal_accidents,1,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Kigoma,Mainland,accidents,67,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Kigoma,Mainland,deaths,49,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Kigoma,Mainland,fatal_accidents,37,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Kigoma,Mainland,injuries,96,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Kigoma,Mainland,injury_accidents,24,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Kigoma,Mainland,normal_accidents,6,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Kilimanjaro,Mainland,accidents,40,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Kilimanjaro,Mainland,deaths,51,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Kilimanjaro,Mainland,fatal_accidents,18,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Kilimanjaro,Mainland,injuries,114,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Kilimanjaro,Mainland,injury_accidents,22,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Kilimanjaro,Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Kusini Pemba,Zanzibar,accidents,25,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Kusini Pemba,Zanzibar,deaths,23,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Kusini Pemba,Zanzibar,fatal_accidents,19,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Kusini Pemba,Zanzibar,injuries,25,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Kusini Pemba,Zanzibar,injury_accidents,5,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Kusini Pemba,Zanzibar,normal_accidents,1,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Kusini Unguja,Zanzibar,accidents,33,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Kusini Unguja,Zanzibar,deaths,36,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Kusini Unguja,Zanzibar,fatal_accidents,25,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Kusini Unguja,Zanzibar,injuries,52,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Kusini Unguja,Zanzibar,injury_accidents,8,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Kusini Unguja,Zanzibar,normal_accidents,0,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Lindi,Mainland,accidents,96,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Lindi,Mainland,deaths,93,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Lindi,Mainland,fatal_accidents,62,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Lindi,Mainland,injuries,117,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Lindi,Mainland,injury_accidents,34,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Lindi,Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Manyara,Mainland,accidents,68,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Manyara,Mainland,deaths,53,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Manyara,Mainland,fatal_accidents,46,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Manyara,Mainland,injuries,80,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Manyara,Mainland,injury_accidents,22,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Manyara,Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Mara,Mainland,accidents,46,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Mara,Mainland,deaths,70,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Mara,Mainland,fatal_accidents,39,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Mara,Mainland,injuries,139,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Mara,Mainland,injury_accidents,7,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Mara,Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Mbeya,Mainland,accidents,78,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Mbeya,Mainland,deaths,100,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Mbeya,Mainland,fatal_accidents,44,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Mbeya,Mainland,injuries,206,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Mbeya,Mainland,injury_accidents,29,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Mbeya,Mainland,normal_accidents,5,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Mjini Magharibi,Zanzibar,accidents,75,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Mjini Magharibi,Zanzibar,deaths,72,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Mjini Magharibi,Zanzibar,fatal_accidents,64,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Mjini Magharibi,Zanzibar,injuries,52,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Mjini Magharibi,Zanzibar,injury_accidents,10,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Mjini Magharibi,Zanzibar,normal_accidents,1,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Morogoro,Mainland,accidents,69,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Morogoro,Mainland,deaths,101,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Morogoro,Mainland,fatal_accidents,58,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Morogoro,Mainland,injuries,95,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Morogoro,Mainland,injury_accidents,11,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Morogoro,Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Mtwara,Mainland,accidents,45,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Mtwara,Mainland,deaths,32,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Mtwara,Mainland,fatal_accidents,26,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Mtwara,Mainland,injuries,78,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Mtwara,Mainland,injury_accidents,19,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Mtwara,Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Mwanza,Mainland,accidents,69,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Mwanza,Mainland,deaths,71,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Mwanza,Mainland,fatal_accidents,53,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Mwanza,Mainland,injuries,96,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Mwanza,Mainland,injury_accidents,15,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Mwanza,Mainland,normal_accidents,1,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Njombe,Mainland,accidents,28,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Njombe,Mainland,deaths,30,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Njombe,Mainland,fatal_accidents,22,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Njombe,Mainland,injuries,50,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Njombe,Mainland,injury_accidents,5,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Njombe,Mainland,normal_accidents,1,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Pwani,Mainland,accidents,93,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Pwani,Mainland,deaths,81,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Pwani,Mainland,fatal_accidents,54,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Pwani,Mainland,injuries,203,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Pwani,Mainland,injury_accidents,37,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Pwani,Mainland,normal_accidents,2,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Rukwa,Mainland,accidents,31,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Rukwa,Mainland,deaths,27,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Rukwa,Mainland,fatal_accidents,24,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Rukwa,Mainland,injuries,39,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Rukwa,Mainland,injury_accidents,7,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Rukwa,Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Ruvuma,Mainland,accidents,33,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Ruvuma,Mainland,deaths,42,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Ruvuma,Mainland,fatal_accidents,21,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Ruvuma,Mainland,injuries,62,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Ruvuma,Mainland,injury_accidents,10,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Ruvuma,Mainland,normal_accidents,2,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Shinyanga,Mainland,accidents,35,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Shinyanga,Mainland,deaths,35,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Shinyanga,Mainland,fatal_accidents,20,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Shinyanga,Mainland,injuries,49,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Shinyanga,Mainland,injury_accidents,9,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Shinyanga,Mainland,normal_accidents,6,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Simiyu,Mainland,accidents,32,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Simiyu,Mainland,deaths,35,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Simiyu,Mainland,fatal_accidents,28,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Simiyu,Mainland,injuries,23,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Simiyu,Mainland,injury_accidents,4,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Simiyu,Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Singida,Mainland,accidents,55,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Singida,Mainland,deaths,66,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Singida,Mainland,fatal_accidents,42,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Singida,Mainland,injuries,96,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Singida,Mainland,injury_accidents,12,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Singida,Mainland,normal_accidents,1,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Songwe,Mainland,accidents,28,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Songwe,Mainland,deaths,34,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Songwe,Mainland,fatal_accidents,21,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Songwe,Mainland,injuries,33,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Songwe,Mainland,injury_accidents,5,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Songwe,Mainland,normal_accidents,2,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Tabora,Mainland,accidents,30,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Tabora,Mainland,deaths,46,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Tabora,Mainland,fatal_accidents,23,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Tabora,Mainland,injuries,53,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Tabora,Mainland,injury_accidents,5,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Tabora,Mainland,normal_accidents,2,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Tanga,Mainland,accidents,55,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Tanga,Mainland,deaths,66,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Tanga,Mainland,fatal_accidents,42,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Tanga,Mainland,injuries,98,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Tanga,Mainland,injury_accidents,11,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2024,Tanga,Mainland,normal_accidents,2,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53
+2025,Arusha,Mainland,accidents,33,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Arusha,Mainland,deaths,35,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Arusha,Mainland,fatal_accidents,25,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Arusha,Mainland,injuries,51,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Arusha,Mainland,injury_accidents,8,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Arusha,Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Dar es Salaam,Mainland,accidents,233,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Dar es Salaam,Mainland,deaths,147,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Dar es Salaam,Mainland,fatal_accidents,121,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Dar es Salaam,Mainland,injuries,288,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Dar es Salaam,Mainland,injury_accidents,94,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Dar es Salaam,Mainland,normal_accidents,18,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Dodoma,Mainland,accidents,59,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Dodoma,Mainland,deaths,53,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Dodoma,Mainland,fatal_accidents,59,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Dodoma,Mainland,injuries,128,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Dodoma,Mainland,injury_accidents,0,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Dodoma,Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Geita,Mainland,accidents,25,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Geita,Mainland,deaths,30,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Geita,Mainland,fatal_accidents,20,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Geita,Mainland,injuries,35,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Geita,Mainland,injury_accidents,5,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Geita,Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Iringa,Mainland,accidents,38,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Iringa,Mainland,deaths,32,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Iringa,Mainland,fatal_accidents,17,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Iringa,Mainland,injuries,84,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Iringa,Mainland,injury_accidents,20,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Iringa,Mainland,normal_accidents,1,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Kagera,Mainland,accidents,33,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Kagera,Mainland,deaths,28,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Kagera,Mainland,fatal_accidents,23,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Kagera,Mainland,injuries,59,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Kagera,Mainland,injury_accidents,10,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Kagera,Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Kaskazini Pemba,Zanzibar,accidents,24,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Kaskazini Pemba,Zanzibar,deaths,20,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Kaskazini Pemba,Zanzibar,fatal_accidents,16,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Kaskazini Pemba,Zanzibar,injuries,47,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Kaskazini Pemba,Zanzibar,injury_accidents,8,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Kaskazini Pemba,Zanzibar,normal_accidents,0,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Kaskazini Unguja,Zanzibar,accidents,73,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Kaskazini Unguja,Zanzibar,deaths,47,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Kaskazini Unguja,Zanzibar,fatal_accidents,42,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Kaskazini Unguja,Zanzibar,injuries,101,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Kaskazini Unguja,Zanzibar,injury_accidents,31,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Kaskazini Unguja,Zanzibar,normal_accidents,0,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Katavi,Mainland,accidents,13,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Katavi,Mainland,deaths,13,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Katavi,Mainland,fatal_accidents,12,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Katavi,Mainland,injuries,9,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Katavi,Mainland,injury_accidents,1,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Katavi,Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Kigoma,Mainland,accidents,53,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Kigoma,Mainland,deaths,34,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Kigoma,Mainland,fatal_accidents,30,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Kigoma,Mainland,injuries,94,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Kigoma,Mainland,injury_accidents,21,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Kigoma,Mainland,normal_accidents,2,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Kilimanjaro,Mainland,accidents,42,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Kilimanjaro,Mainland,deaths,77,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Kilimanjaro,Mainland,fatal_accidents,16,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Kilimanjaro,Mainland,injuries,245,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Kilimanjaro,Mainland,injury_accidents,24,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Kilimanjaro,Mainland,normal_accidents,2,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Kusini Pemba,Zanzibar,accidents,28,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Kusini Pemba,Zanzibar,deaths,31,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Kusini Pemba,Zanzibar,fatal_accidents,27,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Kusini Pemba,Zanzibar,injuries,23,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Kusini Pemba,Zanzibar,injury_accidents,1,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Kusini Pemba,Zanzibar,normal_accidents,0,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Kusini Unguja,Zanzibar,accidents,55,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Kusini Unguja,Zanzibar,deaths,51,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Kusini Unguja,Zanzibar,fatal_accidents,46,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Kusini Unguja,Zanzibar,injuries,52,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Kusini Unguja,Zanzibar,injury_accidents,7,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Kusini Unguja,Zanzibar,normal_accidents,2,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Lindi,Mainland,accidents,39,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Lindi,Mainland,deaths,41,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Lindi,Mainland,fatal_accidents,32,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Lindi,Mainland,injuries,47,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Lindi,Mainland,injury_accidents,7,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Lindi,Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Manyara,Mainland,accidents,22,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Manyara,Mainland,deaths,18,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Manyara,Mainland,fatal_accidents,13,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Manyara,Mainland,injuries,23,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Manyara,Mainland,injury_accidents,6,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Manyara,Mainland,normal_accidents,3,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Mara,Mainland,accidents,40,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Mara,Mainland,deaths,43,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Mara,Mainland,fatal_accidents,29,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Mara,Mainland,injuries,82,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Mara,Mainland,injury_accidents,11,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Mara,Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Mbeya,Mainland,accidents,31,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Mbeya,Mainland,deaths,56,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Mbeya,Mainland,fatal_accidents,22,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Mbeya,Mainland,injuries,78,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Mbeya,Mainland,injury_accidents,7,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Mbeya,Mainland,normal_accidents,2,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Mjini Magharibi,Zanzibar,accidents,80,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Mjini Magharibi,Zanzibar,deaths,84,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Mjini Magharibi,Zanzibar,fatal_accidents,73,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Mjini Magharibi,Zanzibar,injuries,36,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Mjini Magharibi,Zanzibar,injury_accidents,5,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Mjini Magharibi,Zanzibar,normal_accidents,2,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Morogoro,Mainland,accidents,43,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Morogoro,Mainland,deaths,70,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Morogoro,Mainland,fatal_accidents,35,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Morogoro,Mainland,injuries,137,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Morogoro,Mainland,injury_accidents,8,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Morogoro,Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Mtwara,Mainland,accidents,28,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Mtwara,Mainland,deaths,20,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Mtwara,Mainland,fatal_accidents,16,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Mtwara,Mainland,injuries,30,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Mtwara,Mainland,injury_accidents,11,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Mtwara,Mainland,normal_accidents,1,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Mwanza,Mainland,accidents,31,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Mwanza,Mainland,deaths,34,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Mwanza,Mainland,fatal_accidents,21,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Mwanza,Mainland,injuries,29,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Mwanza,Mainland,injury_accidents,7,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Mwanza,Mainland,normal_accidents,3,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Njombe,Mainland,accidents,15,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Njombe,Mainland,deaths,12,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Njombe,Mainland,fatal_accidents,8,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Njombe,Mainland,injuries,10,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Njombe,Mainland,injury_accidents,2,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Njombe,Mainland,normal_accidents,5,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Pwani,Mainland,accidents,83,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Pwani,Mainland,deaths,54,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Pwani,Mainland,fatal_accidents,41,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Pwani,Mainland,injuries,195,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Pwani,Mainland,injury_accidents,41,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Pwani,Mainland,normal_accidents,1,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Rukwa,Mainland,accidents,11,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Rukwa,Mainland,deaths,14,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Rukwa,Mainland,fatal_accidents,7,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Rukwa,Mainland,injuries,23,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Rukwa,Mainland,injury_accidents,2,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Rukwa,Mainland,normal_accidents,2,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Ruvuma,Mainland,accidents,31,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Ruvuma,Mainland,deaths,31,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Ruvuma,Mainland,fatal_accidents,20,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Ruvuma,Mainland,injuries,37,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Ruvuma,Mainland,injury_accidents,9,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Ruvuma,Mainland,normal_accidents,2,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Shinyanga,Mainland,accidents,9,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Shinyanga,Mainland,deaths,12,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Shinyanga,Mainland,fatal_accidents,7,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Shinyanga,Mainland,injuries,13,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Shinyanga,Mainland,injury_accidents,2,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Shinyanga,Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Simiyu,Mainland,accidents,47,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Simiyu,Mainland,deaths,44,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Simiyu,Mainland,fatal_accidents,38,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Simiyu,Mainland,injuries,43,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Simiyu,Mainland,injury_accidents,6,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Simiyu,Mainland,normal_accidents,3,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Singida,Mainland,accidents,59,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Singida,Mainland,deaths,45,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Singida,Mainland,fatal_accidents,38,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Singida,Mainland,injuries,113,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Singida,Mainland,injury_accidents,18,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Singida,Mainland,normal_accidents,3,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Songwe,Mainland,accidents,22,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Songwe,Mainland,deaths,38,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Songwe,Mainland,fatal_accidents,21,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Songwe,Mainland,injuries,37,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Songwe,Mainland,injury_accidents,1,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Songwe,Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Tabora,Mainland,accidents,18,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Tabora,Mainland,deaths,20,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Tabora,Mainland,fatal_accidents,12,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Tabora,Mainland,injuries,59,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Tabora,Mainland,injury_accidents,6,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Tabora,Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Tanga,Mainland,accidents,29,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Tanga,Mainland,deaths,41,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Tanga,Mainland,fatal_accidents,24,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Tanga,Mainland,injuries,83,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Tanga,Mainland,injury_accidents,5,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,Tanga,Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,unallocated,Mainland,accidents,0,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,unallocated,Mainland,deaths,0,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,unallocated,Mainland,fatal_accidents,0,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,unallocated,Mainland,injuries,4,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,unallocated,Mainland,injury_accidents,0,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
+2025,unallocated,Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57
