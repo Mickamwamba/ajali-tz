@@ -1,0 +1,171 @@
+district,region,pcode,lat,lon
+Arusha,Arusha,TZ0206,-3.5215,36.7996
+Arusha Urban,Arusha,TZ0203,-3.4478,36.6753
+Karatu,Arusha,TZ0204,-3.4878,35.5675
+Longido,Arusha,TZ0207,-2.6414,36.4244
+Meru,Arusha,TZ0202,-3.3232,36.9035
+Monduli,Arusha,TZ0201,-3.4525,36.236
+Ngorongoro,Arusha,TZ0205,-2.654,35.5444
+Ilala,Dar es Salaam,TZ0702,-6.9414,39.1464
+Kinondoni,Dar es Salaam,TZ0701,-6.7191,39.1466
+Temeke,Dar es Salaam,TZ0703,-6.996,39.4658
+Bahi,Dodoma,TZ0106,-6.1666,35.3666
+Chamwino,Dodoma,TZ0104,-6.2321,36.1443
+Chemba,Dodoma,TZ0107,-5.2701,35.6872
+Dodoma Urban,Dodoma,TZ0105,-6.1459,35.7789
+Kondoa,Dodoma,TZ0101,-4.78,35.9105
+Kongwa,Dodoma,TZ0103,-5.9745,36.6096
+Mpwapwa,Dodoma,TZ0102,-6.7635,36.3388
+Bukombe,Geita,TZ2504,-3.7887,31.5959
+Chato,Geita,TZ2505,-2.8449,31.7387
+Geita,Geita,TZ2501,-2.8968,32.2453
+Mbogwe,Geita,TZ2503,-3.4714,32.2306
+Nyang'hwale,Geita,TZ2502,-3.1786,32.6164
+Iringa,Iringa,TZ1101,-7.5642,35.0737
+Iringa Urban,Iringa,TZ1103,-7.7475,35.6996
+Kilolo,Iringa,TZ1104,-7.7839,36.3126
+Mafinga Township Authority,Iringa,TZ1105,-8.3626,35.2404
+Mufindi,Iringa,TZ1102,-8.57,35.2796
+Biharamulo,Kagera,TZ1804,-2.7722,31.2805
+Bukoba,Kagera,TZ1802,-1.3531,31.6843
+Bukoba Urban,Kagera,TZ1806,-1.3214,31.8082
+Karagwe,Kagera,TZ1801,-1.7211,31.0521
+Kyerwa,Kagera,TZ1808,-1.2989,30.7701
+Missenyi,Kagera,TZ1807,-1.2047,31.4905
+Muleba,Kagera,TZ1803,-1.949,31.5018
+Ngara,Kagera,TZ1805,-2.626,30.6348
+Micheweni,Kaskazini Pemba,TZ5402,-4.9566,39.743
+Wete,Kaskazini Pemba,TZ5401,-5.0917,39.7607
+Kaskazini A,Kaskazini Unguja,TZ5101,-5.8564,39.317
+Kaskazini B,Kaskazini Unguja,TZ5102,-5.9661,39.2435
+Mlele,Katavi,TZ2303,-6.6089,31.8597
+Mpanda,Katavi,TZ2302,-6.0397,30.5995
+Mpanda Urban,Katavi,TZ2301,-6.4088,30.9811
+Buhigwe,Kigoma,TZ1606,-4.4772,29.886
+Kakonko,Kigoma,TZ1607,-3.2099,30.9188
+Kasulu,Kigoma,TZ1602,-4.434,30.3957
+Kasulu Township Authority,Kigoma,TZ1608,-4.5822,30.091
+Kibondo,Kigoma,TZ1601,-4.184,31.0355
+Kigoma,Kigoma,TZ1603,-4.7008,29.7167
+Kigoma Urban,Kigoma,TZ1604,-4.8943,29.6587
+Uvinza,Kigoma,TZ1605,-5.7044,30.0163
+Hai,Kilimanjaro,TZ0305,-3.2401,37.1834
+Moshi,Kilimanjaro,TZ0304,-3.3697,37.4804
+Moshi Urban,Kilimanjaro,TZ0306,-3.3463,37.3459
+Mwanga,Kilimanjaro,TZ0302,-3.6834,37.6048
+Rombo,Kilimanjaro,TZ0301,-3.1255,37.5166
+Same,Kilimanjaro,TZ0303,-4.2044,37.92
+Siha,Kilimanjaro,TZ0307,-3.1083,37.0455
+Chake Chake,Kusini Pemba,TZ5501,-5.2471,39.7893
+Mkoani,Kusini Pemba,TZ5502,-5.3688,39.7218
+Kati,Kusini Unguja,TZ5201,-6.2069,39.3705
+Kusini,Kusini Unguja,TZ5202,-6.327,39.4859
+Kilwa,Lindi,TZ0801,-9.0888,38.9482
+Lindi,Lindi,TZ0802,-10.037,39.2964
+Lindi Urban,Lindi,TZ0806,-9.9606,39.5694
+Liwale,Lindi,TZ0804,-9.1867,37.913
+Nachingwea,Lindi,TZ0803,-10.3273,38.4681
+Ruangwa,Lindi,TZ0805,-10.0883,38.9555
+Babati,Manyara,TZ2101,-4.0232,35.9106
+Babati Urban,Manyara,TZ2106,-4.2131,35.7322
+Hanang,Manyara,TZ2102,-4.5596,35.3515
+Kiteto,Manyara,TZ2105,-5.194,36.8258
+Mbulu,Manyara,TZ2103,-3.9396,35.2782
+Simanjiro,Manyara,TZ2104,-4.3207,36.9007
+Bunda,Mara,TZ2004,-2.0359,33.9241
+Butiama,Mara,TZ2007,-1.7078,33.9948
+Musoma,Mara,TZ2003,-1.8486,33.5384
+Musoma Urban,Mara,TZ2005,-1.5212,33.7891
+Rorya,Mara,TZ2006,-1.2988,34.0993
+Serengeti,Mara,TZ2002,-1.9569,34.7683
+Tarime,Mara,TZ2001,-1.3959,34.4733
+Chunya,Mbeya,TZ1201,-7.8046,33.4063
+Kyela,Mbeya,TZ1203,-9.5434,33.8179
+Mbarali,Mbeya,TZ1207,-8.2782,34.2119
+Mbeya,Mbeya,TZ1202,-8.9716,33.3908
+Mbeya Urban,Mbeya,TZ1208,-8.9054,33.475
+Rungwe,Mbeya,TZ1204,-9.2363,33.6669
+Magharibi,Mjini Magharibi,TZ5301,-6.1743,39.2493
+Mjini,Mjini Magharibi,TZ5302,-6.1667,39.207
+Gairo,Morogoro,TZ0507,-6.227,36.8816
+Kilombero,Morogoro,TZ0503,-8.5619,35.9983
+Kilosa,Morogoro,TZ0501,-6.9574,36.9203
+Morogoro,Morogoro,TZ0502,-7.0515,38.0788
+Morogoro Urban,Morogoro,TZ0505,-6.7869,37.668
+Mvomero,Morogoro,TZ0506,-6.5989,37.6109
+Ulanga,Morogoro,TZ0504,-9.0432,36.6341
+Masasi,Mtwara,TZ0903,-10.5767,38.7629
+Masasi Township Authority,Mtwara,TZ0907,-10.7512,38.8261
+Mtwara,Mtwara,TZ0901,-10.4765,40.0327
+Mtwara Urban,Mtwara,TZ0905,-10.3161,40.1534
+Nanyumbu,Mtwara,TZ0906,-11.0506,38.3857
+Newala,Mtwara,TZ0902,-10.701,39.2749
+Tandahimba,Mtwara,TZ0904,-10.6632,39.5708
+Ilemela,Mwanza,TZ1906,-2.4672,32.9682
+Kwimba,Mwanza,TZ1904,-3.0377,33.337
+Magu,Mwanza,TZ1902,-2.6091,33.3845
+Misungwi,Mwanza,TZ1907,-2.9539,33.0291
+Nyamagana,Mwanza,TZ1903,-2.5755,32.9528
+Sengerema,Mwanza,TZ1905,-2.6263,32.6594
+Ukerewe,Mwanza,TZ1901,-2.0292,32.9747
+Ludewa,Njombe,TZ2205,-10.0227,34.863
+Makambako Township Authority,Njombe,TZ2206,-8.9017,34.9238
+Makete,Njombe,TZ2203,-9.2735,34.1291
+Njombe,Njombe,TZ2204,-9.2843,35.1567
+Njombe Urban,Njombe,TZ2201,-9.4674,34.8839
+Wanging'ombe,Njombe,TZ2202,-9.054,34.5678
+Bagamoyo,Pwani,TZ0601,-6.3077,38.4204
+Kibaha,Pwani,TZ0602,-6.8057,38.5206
+Kibaha Urban,Pwani,TZ0607,-6.6907,38.9172
+Kisarawe,Pwani,TZ0603,-7.1822,38.7168
+Mafia,Pwani,TZ0606,-7.8271,39.7911
+Mkuranga,Pwani,TZ0604,-7.2458,39.1583
+Rufiji,Pwani,TZ0605,-7.9914,38.5462
+Kalambo,Rukwa,TZ1501,-8.5381,31.5291
+Nkasi,Rukwa,TZ1503,-7.5873,31.0449
+Sumbawanga,Rukwa,TZ1502,-8.0853,31.8918
+Sumbawanga Urban,Rukwa,TZ1504,-7.9761,31.6222
+Mbinga,Ruvuma,TZ1003,-10.7031,34.9549
+Namtumbo,Ruvuma,TZ1005,-10.6742,36.1905
+Nyasa,Ruvuma,TZ1006,-11.0069,34.6593
+Songea,Ruvuma,TZ1002,-10.4149,35.4398
+Songea Urban,Ruvuma,TZ1004,-10.6362,35.6239
+Tunduru,Ruvuma,TZ1001,-10.8949,37.3856
+Kahama,Shinyanga,TZ1704,-4.0271,32.1281
+Kahama Township Authority,Shinyanga,TZ1705,-3.8388,32.5808
+Kishapu,Shinyanga,TZ1702,-3.6804,33.8172
+Shinyanga,Shinyanga,TZ1703,-3.5976,33.0853
+Shinyanga Urban,Shinyanga,TZ1701,-3.6237,33.4592
+Bariadi,Simiyu,TZ2401,-2.5974,34.4169
+Busega,Simiyu,TZ2405,-2.3769,33.7342
+Itilima,Simiyu,TZ2402,-2.8878,34.609
+Maswa,Simiyu,TZ2404,-3.2017,33.7632
+Meatu,Simiyu,TZ2403,-3.5065,34.4794
+Ikungi,Singida,TZ1305,-5.1238,34.5027
+Iramba,Singida,TZ1301,-4.3865,34.298
+Manyoni,Singida,TZ1303,-6.4044,34.5144
+Mkalama,Singida,TZ1306,-4.2118,34.743
+Singida,Singida,TZ1302,-4.7233,34.9736
+Singida Urban,Singida,TZ1304,-4.8127,34.7484
+Ileje,Songwe,TZ2605,-9.3897,33.3108
+Mbozi,Songwe,TZ2606,-8.9722,32.9509
+Momba,Songwe,TZ2609,-8.7885,32.3007
+Songwe,Songwe,TZ2601,-7.8254,32.6183
+Tunduma,Songwe,TZ2610,-9.3035,32.8052
+Igunga,Tabora,TZ1402,-4.3794,33.7143
+Kaliua,Tabora,TZ1407,-4.9453,31.6074
+Nzega,Tabora,TZ1401,-4.3997,32.9811
+Sikonge,Tabora,TZ1405,-6.0875,33.0715
+Tabora Urban,Tabora,TZ1406,-4.9413,32.7875
+Urambo,Tabora,TZ1404,-5.2321,32.1544
+Uyui,Tabora,TZ1403,-4.9403,33.4252
+Handeni,Tanga,TZ0406,-5.4939,38.4066
+Handeni Mji,Tanga,TZ0410,-5.4409,38.0454
+Kilindi,Tanga,TZ0407,-5.5022,37.6123
+Korogwe,Tanga,TZ0402,-4.9311,38.1516
+Korogwe Township Authority,Tanga,TZ0409,-5.1452,38.4612
+Lushoto,Tanga,TZ0401,-4.5465,38.3898
+Mkinga,Tanga,TZ0408,-4.6969,38.9628
+Muheza,Tanga,TZ0403,-5.1792,38.7723
+Pangani,Tanga,TZ0405,-5.6153,38.8201
+Tanga Urban,Tanga,TZ0404,-5.1262,39.0191
