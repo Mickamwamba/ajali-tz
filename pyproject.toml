@@ -1,0 +1,6 @@
+[project]
+name = "ajali-tz"
+version = "0.1.0"
+description = "Tanzania road crash dashboard: official figures, estimated toll, and news-reported crashes"
+requires-python = ">=3.13"
+dependencies = []
