@@ -4,5 +4,7 @@ version = "0.1.0"
 description = "Tanzania road crash dashboard: official figures, estimated toll, and news-reported crashes"
 requires-python = ">=3.13"
 dependencies = [
+    "feedparser>=6.0.14",
     "pdfplumber>=0.11.11",
+    "requests>=2.34.2",
 ]
