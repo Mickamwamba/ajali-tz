@@ -8,7 +8,7 @@ Taken from [scope-v1.md](scope-v1.md). Work through one step at a time; tick eac
 
 ## Phase 1 — Official baseline (weeks 1–2)
 Done when: one CSV of national and regional deaths, injuries and crashes by year, 2018–2025.
-- [ ] 1a. Find and download the NBS/police reports for 2018–2025 into `data/raw/nbs/`, and record each URL in `data/raw/nbs/SOURCES.md`
+- [x] 1a. Find and download the NBS/police reports for 2018–2025 into `data/raw/nbs/`, and record each URL in `data/raw/nbs/SOURCES.md`
 - [ ] 1b. For each report, locate the road traffic tables (national totals, by region, by cause, by vehicle type)
 - [ ] 1c. Extract the tables to CSV (pdfplumber; enter by hand if a table won't parse)
 - [ ] 1d. Standardise region names; map police regions to administrative regions
