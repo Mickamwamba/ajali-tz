@@ -1,0 +1,63 @@
+# Step 3g: build the dashboard (Observable Framework, site/) and publish it to GitHub Pages:
+#   https://mickamwamba.github.io/ajali-tz/
+# Runs when site code or published data changes, after every successful news pipeline run
+# (commits made by a workflow do not trigger other workflows, hence workflow_run), or by hand.
+name: Deploy site
+
+on:
+  push:
+    branches: [main]
+    paths: ["site/**", "data/processed/**", "data/reference/**", ".github/workflows/site.yml"]
+  workflow_run:
+    workflows: ["News pipeline"]
+    types: [completed]
+    branches: [main]
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true   # only the newest build matters
+
+jobs:
+  build:
+    # After the news pipeline, deploy only if it succeeded (a failed run changed no data).
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main          # the latest data, including the pipeline's newest commit
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: site/package-lock.json
+
+      - name: Install
+        working-directory: site
+        run: npm ci
+
+      - name: Build
+        working-directory: site
+        run: npm run build
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site/dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
