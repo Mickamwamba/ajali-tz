@@ -1,0 +1,63 @@
+# Step 2g: collect and process news reports of road crashes every 3 hours.
+# collect -> filter (AI) -> extract (AI) -> geocode -> dedupe -> publish, then commit the results.
+# A run that fetches zero articles fails, and GitHub emails the repository owner (scope: "alert on zero articles").
+# Needs the repository secret ANTHROPIC_API_KEY.
+name: News pipeline
+
+on:
+  schedule:
+    - cron: "17 */3 * * *"   # every 3 hours at minute 17 (UTC), off the busy top of the hour
+  workflow_dispatch: {}      # also runnable by hand from the Actions tab
+
+permissions:
+  contents: write            # to commit the updated crash log
+
+concurrency:
+  group: news-pipeline       # never two runs at once (they would both edit the queue)
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
+
+      - name: Install dependencies
+        run: uv sync --frozen
+
+      - name: Collect articles
+        run: uv run python pipeline/news/collect.py
+
+      - name: Screen articles (AI filter)
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: uv run python pipeline/news/filter.py
+
+      - name: Extract crash records (AI)
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: uv run python pipeline/news/extract.py
+
+      - name: Geocode, merge duplicates, publish
+        run: |
+          uv run python pipeline/news/geocode.py | tail -1
+          uv run python pipeline/news/dedupe.py | tail -1
+          uv run python pipeline/news/publish.py
+
+      - name: Commit results
+        run: |
+          git config user.name "ajali-tz pipeline"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/news data/processed/news_crashes.csv data/processed/news_crashes.json
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "News pipeline: $(date -u +'%Y-%m-%d %H:%M') UTC"
+            git pull --rebase
+            git push
+          fi

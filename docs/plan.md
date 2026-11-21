@@ -34,7 +34,7 @@ Done when: 90% of fields are correct in a hand check of 50 random records.
 - [x] 2d. Geocode (`pipeline/news/geocode.py`): district gazetteer from OCHA boundaries (170 districts, `data/reference/`) + aliases + OpenStreetMap fallback. 28 of 32 crashes at district level, 4 at region level; ambiguous place names flagged for review
 - [x] 2e. Deduplicate (`pipeline/news/dedupe.py`): date ±2 days + same region + overlapping vehicle families + same district; never merge two crashes from one article. 32 records → 24 crashes in `data/news/crashes.json`; keeps highest toll and every source link
 - [x] 2f. Storage (file-based, chosen over Supabase for v1): `data/news/` state committed (summaries deleted after screening), review queue via `pipeline/news/review.py`, decisions in `data/news/review.json`, `publish.py` → `data/processed/news_crashes.csv/.json`. 24 crashes: 18 auto-approved, 6 waiting for review
-- [ ] 2g. Daily GitHub Actions cron; alert when a day brings zero articles
+- [x] 2g. GitHub Actions every 3 hours (`.github/workflows/news.yml`); a run with zero articles fails and GitHub emails the owner. Private repo; needs secret ANTHROPIC_API_KEY
 - [ ] 2h. Backfill 12 months; hand-check 50 records
 
 ## Phase 3 — Dashboard (weeks 4–6)

@@ -133,7 +133,7 @@ def main() -> int:
 
     QUEUE.parent.mkdir(parents=True, exist_ok=True)
     seen = load_seen()
-    new_rows, failures = [], 0
+    new_rows, failures, fetched_total = [], 0, 0
     print(f"{'source':12} {'fetched':>7} {'matched':>7} {'new':>5}")
     for src in SOURCES:
         try:
@@ -143,6 +143,7 @@ def main() -> int:
             failures += 1
             continue
         matched = new = 0
+        fetched_total += len(items)
         batch_ids = set()
         for it in items:
             terms = matches(it["title"], it["excerpt"])
@@ -167,8 +168,12 @@ def main() -> int:
     print(f"\n{len(new_rows)} new candidates -> {QUEUE.relative_to(ROOT)} ({len(seen)} total)")
     if failures:
         print(f"{failures} source(s) failed")
-    # Zero articles from every source usually means a site changed or blocked us (scope: alert on this).
-    return 1 if failures == len(SOURCES) else 0
+    # Zero articles from every source usually means sites changed or blocked us (scope: alert on this).
+    # Exiting with an error makes the scheduled GitHub job fail, and GitHub emails the repository owner.
+    if failures == len(SOURCES) or fetched_total == 0:
+        print("ALERT: no articles fetched from any source")
+        return 1
+    return 0
 
 
 if __name__ == "__main__":
