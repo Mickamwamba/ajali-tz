@@ -1,0 +1,13 @@
+year,area,metric,value,value_low,value_high,method,source,source_doc,note
+2018,Tanzania,deaths_rate_per_100k,19.4,15.8,22.9,published,who,who-gho-RS_198-tza.json,"WHO GHO RS_198, both sexes"
+2018,Tanzania,deaths,11277,9185,13312,derived,who,who-gho-RS_198-tza.json; worldbank-population-tza.json,"rate x population (WHO 2021 base, World Bank growth)"
+2019,Tanzania,deaths_rate_per_100k,19.0,15.6,22.5,published,who,who-gho-RS_198-tza.json,"WHO GHO RS_198, both sexes"
+2019,Tanzania,deaths,11379,9343,13475,derived,who,who-gho-RS_198-tza.json; worldbank-population-tza.json,"rate x population (WHO 2021 base, World Bank growth)"
+2020,Tanzania,deaths_rate_per_100k,16.5,13.4,19.5,published,who,who-gho-RS_198-tza.json,"WHO GHO RS_198, both sexes"
+2020,Tanzania,deaths,10182,8269,12033,derived,who,who-gho-RS_198-tza.json; worldbank-population-tza.json,"rate x population (WHO 2021 base, World Bank growth)"
+2021,Tanzania,deaths_rate_per_100k,15.8,12.9,18.8,published,who,who-gho-RS_198-tza.json,"WHO GHO RS_198, both sexes"
+2021,Tanzania,deaths,10052,8246,11858,published,who,who-gho-RS_196-tza.json; who-road-safety-profile-2023-tza.pdf,WHO GHO RS_196 / Global status report on road safety 2023
+2022,Tanzania,deaths_rate_per_100k,14.5,8.7,22.0,published,who,who-gho-RS_198-tza.json,"WHO GHO RS_198, both sexes"
+2022,Tanzania,deaths,9496,5698,14408,derived,who,who-gho-RS_198-tza.json; worldbank-population-tza.json,"rate x population (WHO 2021 base, World Bank growth); WHO projection beyond the 2021 report year, wide uncertainty"
+2023,Tanzania,deaths_rate_per_100k,13.4,8.1,20.7,published,who,who-gho-RS_198-tza.json,"WHO GHO RS_198, both sexes"
+2023,Tanzania,deaths,9034,5461,13956,derived,who,who-gho-RS_198-tza.json; worldbank-population-tza.json,"rate x population (WHO 2021 base, World Bank growth); WHO projection beyond the 2021 report year, wide uncertainty"
