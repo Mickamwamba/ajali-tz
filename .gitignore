@@ -5,3 +5,6 @@ __pycache__/
 .DS_Store
 data/raw/boundaries/*.zip
 data/raw/boundaries/adm*/
+site/node_modules/
+site/dist/
+site/src/.observablehq/cache/

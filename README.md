@@ -13,7 +13,7 @@ data/raw/who/        WHO/GBD source files
 data/processed/      Clean CSVs the dashboard reads
 pipeline/official/   Scripts: PDFs -> official dataset (Phase 1)
 pipeline/news/       Daily news agent (Phase 2)
-site/                Static dashboard (Phase 3)
+site/                Static dashboard (Observable Framework): cd site && npm install && npm run dev
 docs/                Scope, plan, schemas, methodology notes
 ```
 

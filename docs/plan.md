@@ -39,7 +39,14 @@ Done when: 90% of fields are correct in a hand check of 50 random records.
 
 ## Phase 3 — Dashboard (weeks 4–6)
 Done when: the overview page loads in under 3 seconds on 3G.
-- [ ] Overview · Map · Recent crashes · About + CSV download · share-image buttons
+- [x] 3a. Set up Observable Framework 1.13.4 in `site/` (`npm run dev` to preview, `npm run build` → `site/dist/`); data loaders in `site/src/data/` read `data/processed/` and `data/reference/`
+- [ ] 3b. Overview page: headline numbers, official trend, official vs WHO estimate
+- [ ] 3c. Map page: regional choropleth (deaths per 100k, 3-year averages); click a region for its trend and recent crashes
+- [ ] 3d. Recent crashes page: searchable list with region, vehicle and date filters, source links
+- [ ] 3e. About the data page: sources, limits, method, CSV downloads
+- [ ] 3f. Share buttons: chart images with the source line
+- [ ] 3g. Deploy as a static site and rebuild after each pipeline run
+- [ ] 3h. Speed check: overview under 3 seconds on 3G
 
 ## Phase 4 — Soft launch (weeks 6–7)
 - [ ] 3–5 journalists and NGOs test it; fix what confuses them
