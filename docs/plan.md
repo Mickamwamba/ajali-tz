@@ -43,7 +43,7 @@ Done when: the overview page loads in under 3 seconds on 3G.
 - [x] 3b. Overview page (`site/src/index.md`): headline sentence (official figure first, then the WHO estimate), 3 headline numbers, police vs WHO chart with uncertainty band, table view; checked at desktop and phone widths
 - [x] 3c. Map page (`site/src/map.md`): regional choropleth (per 100k or deaths/year, 2018–20 or 2023–25), news crash dots, click or choose a region for its yearly deaths and news crashes; table view
   - Follow-up: Zanzibar islands are tiny but have the highest rates; add an enlarged inset
-- [ ] 3d. Recent crashes page: searchable list with region, vehicle and date filters, source links
+- [x] 3d. Recent crashes page (`site/src/crashes.md`): search + region, vehicle and date filters, monthly deaths chart, one card per crash with all source links, CSV download; checked at desktop and phone widths
 - [ ] 3e. About the data page: sources, limits, method, CSV downloads
 - [ ] 3f. Share buttons: chart images with the source line
 - [ ] 3g. Deploy as a static site and rebuild after each pipeline run
