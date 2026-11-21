@@ -53,7 +53,7 @@
   ],
   "reported_cause": "other",
   "cause_detail": "Minibus driver allegedly entered main road from feeder road without ensuring safety",
-  "n_sources": 4,
+  "n_sources": 5,
   "sources": [
    {
     "url": "https://dailynews.co.tz/21-people-perish-in-a-road-carnage-along-iringa-mbeya-highway/",
@@ -72,6 +72,12 @@
     "outlet": "Daily News",
     "title": "Samia mourns 23 crash victims",
     "published_at": "2026-11-10T06:14:56+00:00"
+   },
+   {
+    "url": "https://thechanzo.com/2026/11/10/two-boys-among-21-killed-as-bus-and-lorry-collide-at-kiponzelo-junction-in-iringa/",
+    "outlet": "The Chanzo",
+    "title": "Two Boys Among 21 Killed as Bus and Lorry Collide at Kiponzelo Junction in Iringa",
+    "published_at": "2026-11-10T06:31:00+00:00"
    },
    {
     "url": "https://dailynews.co.tz/iringa-mourns-23-victims-of-deadly-road-crash/",
@@ -119,6 +125,79 @@
   "crash_date": "2026-10-08",
   "region": "Morogoro",
   "district": "Kilosa",
+  "place": "Magole on the Morogoro-Dodoma road",
+  "lat": -6.9574,
+  "lon": 36.9203,
+  "location_level": "district",
+  "vehicles": [
+   "other",
+   "lorry",
+   "lorry"
+  ],
+  "deaths": 4,
+  "injuries": 7,
+  "victim_types": [],
+  "reported_cause": "not_reported",
+  "cause_detail": null,
+  "n_sources": 2,
+  "sources": [
+   {
+    "url": "https://dailynews.co.tz/samia-mourns-32-road-accident-victims-in-morogoro/",
+    "outlet": "Daily News",
+    "title": "Samia mourns 32 road accident victims in Morogoro",
+    "published_at": "2026-10-09T15:06:21+00:00"
+   },
+   {
+    "url": "https://thechanzo.com/2026/10/10/mourning-in-morogoro-32-killed-in-two-crashes-as-families-wait-to-bury-the-dead/",
+    "outlet": "The Chanzo",
+    "title": "Mourning in Morogoro: 32 Killed in Two Crashes as Families Wait to Bury the Dead",
+    "published_at": "2026-10-10T07:43:19+00:00"
+   }
+  ],
+  "confidence": 0.8,
+  "review_status": "auto-approved"
+ },
+ {
+  "crash_id": "8306d1f582a4",
+  "crash_date": "2026-10-08",
+  "region": "Morogoro",
+  "district": "Morogoro",
+  "place": "Mkambarani village, Morogoro-Dar es Salaam highway",
+  "lat": -7.0515,
+  "lon": 38.0788,
+  "location_level": "district",
+  "vehicles": [
+   "bus",
+   "lorry"
+  ],
+  "deaths": 28,
+  "injuries": 30,
+  "victim_types": [],
+  "reported_cause": "careless_overtaking",
+  "cause_detail": "Timber truck driver reportedly overtook other vehicles without adequate care",
+  "n_sources": 2,
+  "sources": [
+   {
+    "url": "https://dailynews.co.tz/samia-mourns-32-road-accident-victims-in-morogoro/",
+    "outlet": "Daily News",
+    "title": "Samia mourns 32 road accident victims in Morogoro",
+    "published_at": "2026-10-09T15:06:21+00:00"
+   },
+   {
+    "url": "https://thechanzo.com/2026/10/10/mourning-in-morogoro-32-killed-in-two-crashes-as-families-wait-to-bury-the-dead/",
+    "outlet": "The Chanzo",
+    "title": "Mourning in Morogoro: 32 Killed in Two Crashes as Families Wait to Bury the Dead",
+    "published_at": "2026-10-10T07:43:19+00:00"
+   }
+  ],
+  "confidence": 0.8,
+  "review_status": "auto-approved"
+ },
+ {
+  "crash_id": "11e42e42b4b5",
+  "crash_date": "2026-10-08",
+  "region": "Morogoro",
+  "district": "Kilosa",
   "place": "Miti Bora, Magole Village, Morogoro–Dodoma Highway",
   "lat": -6.9574,
   "lon": 36.9203,
@@ -134,14 +213,8 @@
   ],
   "reported_cause": "not_reported",
   "cause_detail": null,
-  "n_sources": 2,
+  "n_sources": 1,
   "sources": [
-   {
-    "url": "https://dailynews.co.tz/samia-mourns-32-road-accident-victims-in-morogoro/",
-    "outlet": "Daily News",
-    "title": "Samia mourns 32 road accident victims in Morogoro",
-    "published_at": "2026-10-09T15:06:21+00:00"
-   },
    {
     "url": "https://dailynews.co.tz/igp-mourns-officers-warns-reckless-drivers/",
     "outlet": "Daily News",
@@ -153,43 +226,35 @@
   "review_status": "auto-approved"
  },
  {
-  "crash_id": "e60c58d02857",
-  "crash_date": "2026-09-21",
-  "region": "Singida",
-  "district": "Iramba",
-  "place": "Sekenke escarpment, Singida-Nzega highway, Misigiri Village, Ulemo Ward",
-  "lat": -4.3865,
-  "lon": 34.298,
+  "crash_id": "89146af305e9",
+  "crash_date": "2026-09-17",
+  "region": "Songwe",
+  "district": "Mbozi",
+  "place": "Kona ya Veta, Nsenya village",
+  "lat": -8.9722,
+  "lon": 32.9509,
   "location_level": "district",
   "vehicles": [
-   "car",
-   "fuel_tanker"
+   "lorry"
   ],
-  "deaths": 12,
-  "injuries": 2,
+  "deaths": 3,
+  "injuries": 44,
   "victim_types": [
-   "driver",
    "passenger"
   ],
-  "reported_cause": "brake_failure",
-  "cause_detail": "Tanker brake failure while descending escarpment, per district commissioner",
-  "n_sources": 2,
+  "reported_cause": "vehicle_defect",
+  "cause_detail": "Initial investigation points to a failed centre bolt",
+  "n_sources": 1,
   "sources": [
    {
-    "url": "https://dailynews.co.tz/sekenke-road-crash-leaves-12-people-dead/",
-    "outlet": "Daily News",
-    "title": "Sekenke road crash leaves 12 people dead",
-    "published_at": "2026-09-22T05:37:09+00:00"
-   },
-   {
-    "url": "https://habarileo.co.tz/miili-ya-askari-watano-yaagawa-singida/",
-    "outlet": "HabariLeo",
-    "title": "Miili ya askari watano yaagawa Singida",
-    "published_at": "2026-09-22T14:03:56+00:00"
+    "url": "https://thechanzo.com/2026/09/21/twelve-killed-in-singida-crash-as-fatal-collisions-renew-calls-for-safer-roads/",
+    "outlet": "The Chanzo",
+    "title": "Twelve Killed in Singida Crash as Fatal Collisions Renew Calls for Safer Roads",
+    "published_at": "2026-09-21T17:39:57+00:00"
    }
   ],
-  "confidence": 0.9,
-  "review_status": "approved"
+  "confidence": 0.85,
+  "review_status": "auto-approved"
  },
  {
   "crash_id": "56ef3a57d2b6",
@@ -327,36 +392,6 @@
   "review_status": "auto-approved"
  },
  {
-  "crash_id": "83ed9865420a",
-  "crash_date": "2026-08-02",
-  "region": "Dodoma",
-  "district": "Bahi",
-  "place": "Ibihwa Village, Bahi District",
-  "lat": -6.1666,
-  "lon": 35.3666,
-  "location_level": "district",
-  "vehicles": [
-   "bus",
-   "bus"
-  ],
-  "deaths": 9,
-  "injuries": null,
-  "victim_types": [],
-  "reported_cause": "careless_overtaking",
-  "cause_detail": "Reckless overtaking caused head-on collision with oncoming bus",
-  "n_sources": 1,
-  "sources": [
-   {
-    "url": "https://dailynews.co.tz/police-arrest-bus-driver-over-dodoma-deadly-crash/",
-    "outlet": "Daily News",
-    "title": "Police arrest bus driver over Dodoma deadly crash",
-    "published_at": "2026-08-04T05:37:45+00:00"
-   }
-  ],
-  "confidence": 0.9,
-  "review_status": "auto-approved"
- },
- {
   "crash_id": "66fce385225f",
   "crash_date": "2026-06-02",
   "region": "Singida",
@@ -377,13 +412,19 @@
   ],
   "reported_cause": "brake_failure",
   "cause_detail": "Lorry reportedly suffered brake failure and lost control descending escarpment",
-  "n_sources": 1,
+  "n_sources": 2,
   "sources": [
    {
     "url": "https://dailynews.co.tz/even-die-in-singida-road-accident/",
     "outlet": "Daily News",
     "title": "even die in Singida road accident",
     "published_at": "2026-06-03T06:58:21+00:00"
+   },
+   {
+    "url": "https://thechanzo.com/2026/09/21/twelve-killed-in-singida-crash-as-fatal-collisions-renew-calls-for-safer-roads/",
+    "outlet": "The Chanzo",
+    "title": "Twelve Killed in Singida Crash as Fatal Collisions Renew Calls for Safer Roads",
+    "published_at": "2026-09-21T17:39:57+00:00"
    }
   ],
   "confidence": 0.85,
@@ -452,6 +493,39 @@
   "review_status": "auto-approved"
  },
  {
+  "crash_id": "89146af305e9",
+  "crash_date": "2026-05-30",
+  "region": null,
+  "district": null,
+  "place": "Kimanzichana",
+  "lat": null,
+  "lon": null,
+  "location_level": "none",
+  "vehicles": [
+   "bus",
+   "minibus"
+  ],
+  "deaths": 6,
+  "injuries": 4,
+  "victim_types": [
+   "driver",
+   "passenger"
+  ],
+  "reported_cause": "not_reported",
+  "cause_detail": "Cause not reported in article",
+  "n_sources": 1,
+  "sources": [
+   {
+    "url": "https://thechanzo.com/2026/09/21/twelve-killed-in-singida-crash-as-fatal-collisions-renew-calls-for-safer-roads/",
+    "outlet": "The Chanzo",
+    "title": "Twelve Killed in Singida Crash as Fatal Collisions Renew Calls for Safer Roads",
+    "published_at": "2026-09-21T17:39:57+00:00"
+   }
+  ],
+  "confidence": 0.8,
+  "review_status": "auto-approved"
+ },
+ {
   "crash_id": "c8d08764d1f8",
   "crash_date": "2026-05-11",
   "region": "Iringa",
@@ -511,6 +585,39 @@
    }
   ],
   "confidence": 0.9,
+  "review_status": "auto-approved"
+ },
+ {
+  "crash_id": "89146af305e9",
+  "crash_date": "2026-05-08",
+  "region": "Iringa",
+  "district": "Iringa",
+  "place": "Tanangozi area",
+  "lat": -7.5642,
+  "lon": 35.0737,
+  "location_level": "district",
+  "vehicles": [
+   "bus",
+   "lorry"
+  ],
+  "deaths": 5,
+  "injuries": 28,
+  "victim_types": [
+   "driver",
+   "passenger"
+  ],
+  "reported_cause": "other",
+  "cause_detail": "Truck driver failed to control vehicle on steep slope",
+  "n_sources": 1,
+  "sources": [
+   {
+    "url": "https://thechanzo.com/2026/09/21/twelve-killed-in-singida-crash-as-fatal-collisions-renew-calls-for-safer-roads/",
+    "outlet": "The Chanzo",
+    "title": "Twelve Killed in Singida Crash as Fatal Collisions Renew Calls for Safer Roads",
+    "published_at": "2026-09-21T17:39:57+00:00"
+   }
+  ],
+  "confidence": 0.85,
   "review_status": "auto-approved"
  },
  {
@@ -577,6 +684,38 @@
    }
   ],
   "confidence": 0.8,
+  "review_status": "auto-approved"
+ },
+ {
+  "crash_id": "7c1bdb59f701",
+  "crash_date": "2026-03-27",
+  "region": "Mwanza",
+  "district": "Kwimba",
+  "place": "Maremve village",
+  "lat": -3.0377,
+  "lon": 33.337,
+  "location_level": "district",
+  "vehicles": [
+   "car"
+  ],
+  "deaths": null,
+  "injuries": 6,
+  "victim_types": [
+   "driver",
+   "passenger"
+  ],
+  "reported_cause": "other",
+  "cause_detail": "Driver swerved to avoid a cyclist who had fallen; vehicle left road and overturned",
+  "n_sources": 1,
+  "sources": [
+   {
+    "url": "https://thechanzo.com/2026/06/02/outcry-as-paediatrician-loses-leg-in-crash-that-injured-six-doctors/",
+    "outlet": "The Chanzo",
+    "title": "Outcry as Paediatrician Loses Leg in Crash That Injured Six Doctors",
+    "published_at": "2026-06-02T03:58:00+00:00"
+   }
+  ],
+  "confidence": 0.85,
   "review_status": "auto-approved"
  },
  {
