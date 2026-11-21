@@ -40,7 +40,7 @@ Done when: 90% of fields are correct in a hand check of 50 random records.
 ## Phase 3 — Dashboard (weeks 4–6)
 Done when: the overview page loads in under 3 seconds on 3G.
 - [x] 3a. Set up Observable Framework 1.13.4 in `site/` (`npm run dev` to preview, `npm run build` → `site/dist/`); data loaders in `site/src/data/` read `data/processed/` and `data/reference/`
-- [ ] 3b. Overview page: headline numbers, official trend, official vs WHO estimate
+- [x] 3b. Overview page (`site/src/index.md`): headline sentence (official figure first, then the WHO estimate), 3 headline numbers, police vs WHO chart with uncertainty band, table view; checked at desktop and phone widths
 - [ ] 3c. Map page: regional choropleth (deaths per 100k, 3-year averages); click a region for its trend and recent crashes
 - [ ] 3d. Recent crashes page: searchable list with region, vehicle and date filters, source links
 - [ ] 3e. About the data page: sources, limits, method, CSV downloads
