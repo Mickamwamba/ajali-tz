@@ -17,10 +17,11 @@ Done when: one CSV of national and regional deaths, injuries and crashes by year
   - [x] Causes tables → `data/interim/causes_raw.csv` via `extract_causes.py`
 - [x] 1d. Standardise region names; map police regions to administrative regions (`region_map.csv`, `map_regions.py` → `data/interim/*_admin.csv`)
 - [x] 1e. Add WHO/GBD estimated deaths for the years available (WHO 2018–2023 → `data/interim/estimates_raw.csv`; GBD deferred, needs an IHME account)
-- [ ] 1f. Checks: regional values sum to the national total; flag jumps from one year to the next
-  - [ ] Pick one value per year/metric from the duplicate sources
-  - [ ] Add deaths per 100,000 people by region (2022 census populations)
-  - [ ] Ratio of WHO estimate to official deaths per year
+- [x] 1f. Checks: regional values sum to the national total; flag jumps from one year to the next
+  - [x] Pick one value per year/metric from the duplicate sources
+  - [x] Add deaths per 100,000 people by region (2022 census populations)
+  - [x] Ratio of WHO estimate to official deaths per year
+  - Results: `docs/checks-official.md`; data: `data/interim/official_checked.csv`
 - [ ] 1g. Write `data/processed/official.csv`
 
 ## Phase 2 — News agent (weeks 2–4)
