@@ -16,7 +16,7 @@ import sys
 from datetime import date, datetime, timezone
 
 from geocode import Gazetteer
-from publish import load_crashes, load_review, review_reasons, save_review, status
+from publish import decision_for, load_crashes, load_review, review_reasons, save_review, status
 
 EDITABLE = {"crash_date", "region", "district", "place", "deaths", "injuries", "vehicles", "cause"}
 
@@ -94,24 +94,31 @@ def main(argv: list[str]) -> int:
         print(f"victims: {', '.join(shown['victim_types']) or '-'}   confidence: {shown['confidence']}")
         for r in review_reasons(c):
             print(f"⚠ {r}")
-        if c["crash_id"] in review:
-            print(f"your decision: {review[c['crash_id']]}")
+        if decision_for(c, review)[1]:
+            print(f"your decision: {decision_for(c, review)[1]}")
         print("sources:")
         for s in c["sources"]:
             print(f"  {(s['published_at'] or '')[:10]}  {s['outlet']}: {s['title']}\n      {s['url']}")
         return 0
     if cmd == "approve":
-        review[c["crash_id"]] = {"decision": "approved", "note": " ".join(args[1:]) or None, "at": now}
+        review.pop(decision_for(c, review)[0], None)
+        review[c["crash_id"]] = {"decision": "approved", "note": " ".join(args[1:]) or None, "at": now,
+                                 "member_keys": c["member_keys"]}
     elif cmd == "reject":
         if len(args) < 2:
             sys.exit("give a reason, e.g.: review.py reject <id> not a road crash")
-        review[c["crash_id"]] = {"decision": "rejected", "note": " ".join(args[1:]), "at": now}
+        review.pop(decision_for(c, review)[0], None)
+        review[c["crash_id"]] = {"decision": "rejected", "note": " ".join(args[1:]), "at": now,
+                                 "member_keys": c["member_keys"]}
     elif cmd == "set":
         edits = parse_edits(args[1:], c)
-        prior = review.get(c["crash_id"], {}).get("edits", {})
-        review[c["crash_id"]] = {"decision": "approved", "edits": {**prior, **edits}, "at": now}
+        old_id, old = decision_for(c, review)
+        prior = (old or {}).get("edits", {})
+        review.pop(old_id, None)
+        review[c["crash_id"]] = {"decision": "approved", "edits": {**prior, **edits}, "at": now,
+                                 "member_keys": c["member_keys"]}
     elif cmd == "undo":
-        review.pop(c["crash_id"], None)
+        review.pop(decision_for(c, review)[0], None)
     else:
         sys.exit(f"unknown command '{cmd}'\n{__doc__}")
     save_review(review)

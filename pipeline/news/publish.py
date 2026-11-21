@@ -39,6 +39,10 @@ def save_review(review: dict) -> None:
 
 def review_reasons(c: dict) -> list[str]:
     reasons = list(c.get("flags") or [])
+    if not c.get("region"):
+        reasons.append("no region")
+    if not c.get("crash_date"):
+        reasons.append("no date")
     if c.get("confidence", 0) < MIN_CONFIDENCE:
         reasons.append(f"low confidence ({c['confidence']})")
     if c.get("deaths") is None and c.get("injuries") is None:
@@ -61,9 +65,20 @@ def apply_edits(c: dict, edits: dict) -> dict:
     return c
 
 
+def decision_for(c: dict, review: dict) -> tuple[str, dict] | tuple[None, None]:
+    """Your decision for this crash: by id, or else by any report (member key) the decision covered."""
+    if c["crash_id"] in review:
+        return c["crash_id"], review[c["crash_id"]]
+    keys = set(c.get("member_keys", []))
+    for cid, r in review.items():
+        if keys & set(r.get("member_keys", [])):
+            return cid, r
+    return None, None
+
+
 def status(c: dict, review: dict) -> tuple[str, dict]:
     """Return (review_status, crash with edits applied)."""
-    r = review.get(c["crash_id"])
+    _, r = decision_for(c, review)
     if r:
         return r["decision"], apply_edits(c, r.get("edits", {}))
     return ("approved_auto" if not review_reasons(c) else "pending"), c

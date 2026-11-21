@@ -60,7 +60,7 @@ def same_crash(a: dict, b: dict) -> bool:
     if not da or not db or abs((da - db).days) > MAX_DAYS:
         return False
     fa, fb = families(a), families(b)
-    if fa and fb and not fa & fb:
+    if fa and fb and not fa & fb and "other" not in fa | fb:  # "other" is an unidentified vehicle: matches anything
         return False
     xa, xb = a["geo"]["district"], b["geo"]["district"]
     return not (xa and xb and xa != xb)
@@ -101,7 +101,10 @@ def merge(members: list[dict]) -> dict:
     cause = Counter(causes).most_common(1)[0][0] if causes else "not_reported"
     cause_text = next((m["cause_text"] for m in by_conf if m.get("cause") == cause and m.get("cause_text")), None)
     sources = sorted((m["_source"] for m in members), key=lambda s: s["published_at"] or "")
-    first = sources[0]["url"]
+    # The id comes from the earliest report of this crash (article + position in it), so it is unique even
+    # when one article describes several crashes. Review decisions also store member_keys, so they survive
+    # if a later-processed but earlier-published article joins the crash and changes this id.
+    first = min(members, key=lambda m: (m["_source"]["published_at"] or "", m["_key"]))["_key"]
     flags = []
     if len(set(deaths)) > 1:
         flags.append(f"sources give different death tolls: {sorted(set(deaths))}")

@@ -1,6 +1,6 @@
 [
  {
-  "crash_id": "9fede8f8b835",
+  "crash_id": "4b308b96d3f6",
   "crash_date": "2026-11-20",
   "region": "Pwani",
   "district": "Bagamoyo",
@@ -37,7 +37,7 @@
   ]
  },
  {
-  "crash_id": "c24e3a31d228",
+  "crash_id": "b4a399e7dfcf",
   "crash_date": "2026-11-09",
   "region": "Iringa",
   "district": "Iringa",
@@ -104,7 +104,7 @@
   ]
  },
  {
-  "crash_id": "13bed1e071ea",
+  "crash_id": "88a2c548749f",
   "crash_date": "2026-10-10",
   "region": "Tanga",
   "district": "Muheza",
@@ -139,7 +139,7 @@
   ]
  },
  {
-  "crash_id": "8306d1f582a4",
+  "crash_id": "dd2c60a7350e",
   "crash_date": "2026-10-08",
   "region": "Morogoro",
   "district": "Kilosa",
@@ -147,7 +147,7 @@
   "lat": -6.9574,
   "lon": 36.9203,
   "location_level": "district",
-  "place": "Magole on the Morogoro-Dodoma road",
+  "place": "Miti Bora, Magole Village, Morogoro–Dodoma Highway",
   "vehicles": [
    "other",
    "lorry",
@@ -155,11 +155,14 @@
   ],
   "deaths": 4,
   "injuries": 7,
-  "victim_types": [],
+  "victim_types": [
+   "driver",
+   "passenger"
+  ],
   "cause": "not_reported",
   "cause_text": null,
-  "confidence": 0.8,
-  "n_sources": 2,
+  "confidence": 0.85,
+  "n_sources": 3,
   "sources": [
    {
     "url": "https://dailynews.co.tz/samia-mourns-32-road-accident-victims-in-morogoro/",
@@ -172,16 +175,25 @@
     "outlet": "The Chanzo",
     "title": "Mourning in Morogoro: 32 Killed in Two Crashes as Families Wait to Bury the Dead",
     "published_at": "2026-10-10T07:43:19+00:00"
+   },
+   {
+    "url": "https://dailynews.co.tz/igp-mourns-officers-warns-reckless-drivers/",
+    "outlet": "Daily News",
+    "title": "IGP mourns officers, warns reckless drivers",
+    "published_at": "2026-10-12T06:16:16+00:00"
    }
   ],
-  "flags": [],
+  "flags": [
+   "sources give different death tolls: [3, 4]"
+  ],
   "member_keys": [
    "11279e3af0b91992#0",
-   "bbb6d041cc2254b2#0"
+   "bbb6d041cc2254b2#0",
+   "f3b5308fe5ab3b25#0"
   ]
  },
  {
-  "crash_id": "8306d1f582a4",
+  "crash_id": "e8dc9993d6f9",
   "crash_date": "2026-10-08",
   "region": "Morogoro",
   "district": "Morogoro",
@@ -222,43 +234,7 @@
   ]
  },
  {
-  "crash_id": "11e42e42b4b5",
-  "crash_date": "2026-10-08",
-  "region": "Morogoro",
-  "district": "Kilosa",
-  "district_pcode": "TZ0501",
-  "lat": -6.9574,
-  "lon": 36.9203,
-  "location_level": "district",
-  "place": "Miti Bora, Magole Village, Morogoro–Dodoma Highway",
-  "vehicles": [
-   "pickup_or_van"
-  ],
-  "deaths": 3,
-  "injuries": 7,
-  "victim_types": [
-   "driver",
-   "passenger"
-  ],
-  "cause": "not_reported",
-  "cause_text": null,
-  "confidence": 0.85,
-  "n_sources": 1,
-  "sources": [
-   {
-    "url": "https://dailynews.co.tz/igp-mourns-officers-warns-reckless-drivers/",
-    "outlet": "Daily News",
-    "title": "IGP mourns officers, warns reckless drivers",
-    "published_at": "2026-10-12T06:16:16+00:00"
-   }
-  ],
-  "flags": [],
-  "member_keys": [
-   "f3b5308fe5ab3b25#0"
-  ]
- },
- {
-  "crash_id": "89146af305e9",
+  "crash_id": "74925613126d",
   "crash_date": "2026-09-21",
   "region": "Singida",
   "district": "Iramba",
@@ -312,7 +288,7 @@
   ]
  },
  {
-  "crash_id": "89146af305e9",
+  "crash_id": "b0e303120f5e",
   "crash_date": "2026-09-17",
   "region": "Songwe",
   "district": "Mbozi",
@@ -347,7 +323,7 @@
   ]
  },
  {
-  "crash_id": "56ef3a57d2b6",
+  "crash_id": "f69c00e6f78c",
   "crash_date": "2026-09-07",
   "region": "Dar es Salaam",
   "district": "Kinondoni",
@@ -384,7 +360,7 @@
   ]
  },
  {
-  "crash_id": "f0898b376921",
+  "crash_id": "f2ef65193a30",
   "crash_date": "2026-08-23",
   "region": "Dar es Salaam",
   "district": "Temeke",
@@ -423,7 +399,7 @@
   ]
  },
  {
-  "crash_id": "a6aa8bf1abe6",
+  "crash_id": "533e993932fd",
   "crash_date": "2026-08-13",
   "region": "Mwanza",
   "district": "Magu",
@@ -458,7 +434,7 @@
   ]
  },
  {
-  "crash_id": "27ddab542e9c",
+  "crash_id": "e35293284dfe",
   "crash_date": "2026-08-09",
   "region": "Pwani",
   "district": "Kisarawe",
@@ -501,7 +477,7 @@
   ]
  },
  {
-  "crash_id": "83ed9865420a",
+  "crash_id": "aff2a8ab0b8c",
   "crash_date": "2026-08-02",
   "region": "Dodoma",
   "district": "Bahi",
@@ -547,7 +523,7 @@
   ]
  },
  {
-  "crash_id": "66fce385225f",
+  "crash_id": "dfd1a6738b6d",
   "crash_date": "2026-06-02",
   "region": "Singida",
   "district": "Iramba",
@@ -591,7 +567,7 @@
   ]
  },
  {
-  "crash_id": "6c66f985da1b",
+  "crash_id": "7cde42fc95fb",
   "crash_date": "2026-05-31",
   "region": "Mbeya",
   "district": null,
@@ -627,7 +603,7 @@
   ]
  },
  {
-  "crash_id": "6c66f985da1b",
+  "crash_id": "c1f185f4644f",
   "crash_date": "2026-05-30",
   "region": "Mbeya",
   "district": "Mbarali",
@@ -661,7 +637,7 @@
   ]
  },
  {
-  "crash_id": "89146af305e9",
+  "crash_id": "88c50e6efc3c",
   "crash_date": "2026-05-30",
   "region": null,
   "district": null,
@@ -698,7 +674,7 @@
   ]
  },
  {
-  "crash_id": "c8d08764d1f8",
+  "crash_id": "833922a56037",
   "crash_date": "2026-05-11",
   "region": "Iringa",
   "district": "Iringa",
@@ -732,7 +708,7 @@
   ]
  },
  {
-  "crash_id": "e1962504e35e",
+  "crash_id": "657add619b7b",
   "crash_date": "2026-05-10",
   "region": "Kagera",
   "district": "Bukoba",
@@ -768,7 +744,7 @@
   ]
  },
  {
-  "crash_id": "89146af305e9",
+  "crash_id": "8ad88461ba20",
   "crash_date": "2026-05-08",
   "region": "Iringa",
   "district": "Iringa",
@@ -805,7 +781,7 @@
   ]
  },
  {
-  "crash_id": "88cbcce7bd57",
+  "crash_id": "4160ec80723d",
   "crash_date": "2026-04-30",
   "region": "Dodoma",
   "district": "Dodoma Urban",
@@ -842,7 +818,7 @@
   ]
  },
  {
-  "crash_id": "7c1bdb59f701",
+  "crash_id": "7a81049a647d",
   "crash_date": "2026-04-22",
   "region": "Tanga",
   "district": "Korogwe",
@@ -876,7 +852,7 @@
   ]
  },
  {
-  "crash_id": "b343aaf2c9ea",
+  "crash_id": "dc12035f15a3",
   "crash_date": "2026-04-14",
   "region": "Tabora",
   "district": "Tabora Urban",
@@ -913,7 +889,7 @@
   ]
  },
  {
-  "crash_id": "7c1bdb59f701",
+  "crash_id": "095e24d1d681",
   "crash_date": "2026-03-27",
   "region": "Mwanza",
   "district": "Kwimba",
@@ -949,7 +925,7 @@
   ]
  },
  {
-  "crash_id": "eef73b5bfb62",
+  "crash_id": "8c3854b4000c",
   "crash_date": "2026-03-24",
   "region": "Mwanza",
   "district": "Ilemela",
@@ -986,7 +962,7 @@
   ]
  },
  {
-  "crash_id": "cb4a26e6d3b6",
+  "crash_id": "0ad161768374",
   "crash_date": "2026-02-17",
   "region": "Tabora",
   "district": "Nzega",
@@ -1020,7 +996,7 @@
   ]
  },
  {
-  "crash_id": "7c1bdb59f701",
+  "crash_id": "ec63988911a4",
   "crash_date": "2026-02-08",
   "region": null,
   "district": null,
@@ -1055,7 +1031,7 @@
   ]
  },
  {
-  "crash_id": "7c1bdb59f701",
+  "crash_id": "7a34d68421ac",
   "crash_date": "2026-02-07",
   "region": "Lindi",
   "district": "Kilwa",
@@ -1090,7 +1066,7 @@
   ]
  },
  {
-  "crash_id": "3fa511db6e32",
+  "crash_id": "4b5fdaff40ca",
   "crash_date": "2026-01-12",
   "region": "Tanga",
   "district": "Korogwe",
@@ -1129,7 +1105,7 @@
   ]
  },
  {
-  "crash_id": "59280a4a1463",
+  "crash_id": "390f6d802451",
   "crash_date": "2025-12-31",
   "region": "Morogoro",
   "district": "Morogoro",
@@ -1179,7 +1155,7 @@
   ]
  },
  {
-  "crash_id": "8fa3f163e94d",
+  "crash_id": "2159d8beaa6d",
   "crash_date": "2025-12-25",
   "region": "Tanga",
   "district": "Handeni",
@@ -1213,7 +1189,7 @@
   ]
  },
  {
-  "crash_id": "6e421d2a9fb7",
+  "crash_id": "77f3eb1a21b2",
   "crash_date": "2025-12-11",
   "region": "Dodoma",
   "district": null,
