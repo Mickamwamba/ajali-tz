@@ -1,1 +1,30 @@
-{}
+{
+ "3fa511db6e32": {
+  "at": "2026-11-21T18:05:10+00:00",
+  "decision": "approved",
+  "note": "date approximate"
+ },
+ "6e421d2a9fb7": {
+  "at": "2026-11-21T18:05:11+00:00",
+  "decision": "approved",
+  "edits": {
+   "district": "Dodoma Urban",
+   "region": "Dodoma"
+  }
+ },
+ "c24e3a31d228": {
+  "at": "2026-11-21T18:05:10+00:00",
+  "decision": "approved",
+  "note": "toll updated from 21 to 23, 23 is the latest"
+ },
+ "e60c58d02857": {
+  "at": "2026-11-21T18:05:10+00:00",
+  "decision": "approved",
+  "note": "5 was the police officers among the 12"
+ },
+ "f0898b376921": {
+  "at": "2026-11-21T18:05:10+00:00",
+  "decision": "approved",
+  "note": "date approximate, weekend before publication"
+ }
+}
