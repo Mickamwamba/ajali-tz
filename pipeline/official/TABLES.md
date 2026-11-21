@@ -25,6 +25,11 @@ year can be checked against two sources.
   others to be listed in step 1d.
 - **2023 needs OCR** and the regional table OCR is noisy (e.g. `Is` for 15, `™` for a number).
   Enter that table by hand from the page images, then check that rows add up to the totals.
+- **2023 regional table was entered by hand** (`manual/regional-2023.csv`) from the page image.
+  It passes every sum check: regions → Mainland/Zanzibar subtotals → Tanzania total → national tables.
+- **2025 report:** Mainland/Zanzibar injury split differs by 5 between the regional table (2,036 / 259)
+  and the national tables (2,031 / 264). The Tanzania total (2,295) agrees. "Airports" police
+  region has 4 injuries in 2025 only.
 - **2021 regional figures do not exist** in the files we have. 2021 has national totals only, from
   Statistical Abstract 2022.
 - **2025 causes table looks wrong for 2024:** "Over speeding" goes 291 → 5 and "Careless passengers"

@@ -12,7 +12,7 @@ Done when: one CSV of national and regional deaths, injuries and crashes by year
 - [x] 1b. For each report, locate the road traffic tables (national totals, by region, by cause, by vehicle type)
 - [ ] 1c. Extract the tables to CSV (pdfplumber; enter by hand if a table won't parse)
   - [x] National tables (Tanzania / Mainland / Zanzibar) → `data/interim/national_raw.csv` via `extract_national.py`
-  - [ ] Regional tables (2023 by hand)
+  - [x] Regional tables → `data/interim/regional_raw.csv` via `extract_regional.py` (2023 hand-entered in `manual/regional-2023.csv`)
   - [ ] Motorcycle tables
   - [ ] Causes tables
 - [ ] 1d. Standardise region names; map police regions to administrative regions

@@ -1,0 +1,1267 @@
+year,police_region,area_group,metric,value,source,source_doc,source_table,source_page,extraction
+2018,Arusha,Tanzania Mainland,accidents,60,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Arusha,Tanzania Mainland,fatal_accidents,45,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Arusha,Tanzania Mainland,injury_accidents,11,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Arusha,Tanzania Mainland,normal_accidents,4,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Arusha,Tanzania Mainland,deaths,59,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Arusha,Tanzania Mainland,injuries,62,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Ilala,Tanzania Mainland,accidents,969,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Ilala,Tanzania Mainland,fatal_accidents,34,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Ilala,Tanzania Mainland,injury_accidents,474,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Ilala,Tanzania Mainland,normal_accidents,461,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Ilala,Tanzania Mainland,deaths,34,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Ilala,Tanzania Mainland,injuries,750,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Temeke,Tanzania Mainland,accidents,377,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Temeke,Tanzania Mainland,fatal_accidents,39,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Temeke,Tanzania Mainland,injury_accidents,170,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Temeke,Tanzania Mainland,normal_accidents,168,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Temeke,Tanzania Mainland,deaths,22,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Temeke,Tanzania Mainland,injuries,310,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Kinondoni,Tanzania Mainland,accidents,703,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Kinondoni,Tanzania Mainland,fatal_accidents,90,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Kinondoni,Tanzania Mainland,injury_accidents,343,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Kinondoni,Tanzania Mainland,normal_accidents,270,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Kinondoni,Tanzania Mainland,deaths,97,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Kinondoni,Tanzania Mainland,injuries,654,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Dodoma,Tanzania Mainland,accidents,121,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Dodoma,Tanzania Mainland,fatal_accidents,55,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Dodoma,Tanzania Mainland,injury_accidents,37,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Dodoma,Tanzania Mainland,normal_accidents,29,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Dodoma,Tanzania Mainland,deaths,80,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Dodoma,Tanzania Mainland,injuries,113,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Geita,Tanzania Mainland,accidents,67,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Geita,Tanzania Mainland,fatal_accidents,54,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Geita,Tanzania Mainland,injury_accidents,12,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Geita,Tanzania Mainland,normal_accidents,1,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Geita,Tanzania Mainland,deaths,72,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Geita,Tanzania Mainland,injuries,118,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Iringa,Tanzania Mainland,accidents,52,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Iringa,Tanzania Mainland,fatal_accidents,37,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Iringa,Tanzania Mainland,injury_accidents,12,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Iringa,Tanzania Mainland,normal_accidents,3,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Iringa,Tanzania Mainland,deaths,63,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Iringa,Tanzania Mainland,injuries,75,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Kagera,Tanzania Mainland,accidents,28,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Kagera,Tanzania Mainland,fatal_accidents,21,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Kagera,Tanzania Mainland,injury_accidents,6,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Kagera,Tanzania Mainland,normal_accidents,1,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Kagera,Tanzania Mainland,deaths,43,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Kagera,Tanzania Mainland,injuries,94,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Katavi,Tanzania Mainland,accidents,33,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Katavi,Tanzania Mainland,fatal_accidents,22,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Katavi,Tanzania Mainland,injury_accidents,5,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Katavi,Tanzania Mainland,normal_accidents,6,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Katavi,Tanzania Mainland,deaths,24,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Katavi,Tanzania Mainland,injuries,20,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Kigoma,Tanzania Mainland,accidents,37,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Kigoma,Tanzania Mainland,fatal_accidents,31,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Kigoma,Tanzania Mainland,injury_accidents,6,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Kigoma,Tanzania Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Kigoma,Tanzania Mainland,deaths,46,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Kigoma,Tanzania Mainland,injuries,44,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Kilimanjaro,Tanzania Mainland,accidents,70,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Kilimanjaro,Tanzania Mainland,fatal_accidents,55,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Kilimanjaro,Tanzania Mainland,injury_accidents,15,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Kilimanjaro,Tanzania Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Kilimanjaro,Tanzania Mainland,deaths,67,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Kilimanjaro,Tanzania Mainland,injuries,54,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Lindi,Tanzania Mainland,accidents,94,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Lindi,Tanzania Mainland,fatal_accidents,66,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Lindi,Tanzania Mainland,injury_accidents,26,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Lindi,Tanzania Mainland,normal_accidents,2,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Lindi,Tanzania Mainland,deaths,77,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Lindi,Tanzania Mainland,injuries,86,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Mara,Tanzania Mainland,accidents,43,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Mara,Tanzania Mainland,fatal_accidents,33,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Mara,Tanzania Mainland,injury_accidents,10,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Mara,Tanzania Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Mara,Tanzania Mainland,deaths,34,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Mara,Tanzania Mainland,injuries,36,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Manyara,Tanzania Mainland,accidents,75,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Manyara,Tanzania Mainland,fatal_accidents,46,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Manyara,Tanzania Mainland,injury_accidents,28,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Manyara,Tanzania Mainland,normal_accidents,1,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Manyara,Tanzania Mainland,deaths,60,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Manyara,Tanzania Mainland,injuries,67,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Mbeya,Tanzania Mainland,accidents,60,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Mbeya,Tanzania Mainland,fatal_accidents,43,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Mbeya,Tanzania Mainland,injury_accidents,17,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Mbeya,Tanzania Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Mbeya,Tanzania Mainland,deaths,103,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Mbeya,Tanzania Mainland,injuries,153,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Morogoro,Tanzania Mainland,accidents,65,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Morogoro,Tanzania Mainland,fatal_accidents,42,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Morogoro,Tanzania Mainland,injury_accidents,18,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Morogoro,Tanzania Mainland,normal_accidents,5,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Morogoro,Tanzania Mainland,deaths,80,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Morogoro,Tanzania Mainland,injuries,127,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Mtwara,Tanzania Mainland,accidents,49,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Mtwara,Tanzania Mainland,fatal_accidents,27,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Mtwara,Tanzania Mainland,injury_accidents,22,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Mtwara,Tanzania Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Mtwara,Tanzania Mainland,deaths,34,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Mtwara,Tanzania Mainland,injuries,56,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Mwanza,Tanzania Mainland,accidents,124,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Mwanza,Tanzania Mainland,fatal_accidents,95,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Mwanza,Tanzania Mainland,injury_accidents,26,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Mwanza,Tanzania Mainland,normal_accidents,3,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Mwanza,Tanzania Mainland,deaths,103,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Mwanza,Tanzania Mainland,injuries,92,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Njombe,Tanzania Mainland,accidents,67,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Njombe,Tanzania Mainland,fatal_accidents,66,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Njombe,Tanzania Mainland,injury_accidents,1,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Njombe,Tanzania Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Njombe,Tanzania Mainland,deaths,69,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Njombe,Tanzania Mainland,injuries,33,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Pwani,Tanzania Mainland,accidents,63,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Pwani,Tanzania Mainland,fatal_accidents,41,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Pwani,Tanzania Mainland,injury_accidents,17,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Pwani,Tanzania Mainland,normal_accidents,5,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Pwani,Tanzania Mainland,deaths,64,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Pwani,Tanzania Mainland,injuries,95,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Rufiji,Tanzania Mainland,accidents,51,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Rufiji,Tanzania Mainland,fatal_accidents,33,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Rufiji,Tanzania Mainland,injury_accidents,18,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Rufiji,Tanzania Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Rufiji,Tanzania Mainland,deaths,76,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Rufiji,Tanzania Mainland,injuries,61,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Rukwa,Tanzania Mainland,accidents,22,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Rukwa,Tanzania Mainland,fatal_accidents,19,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Rukwa,Tanzania Mainland,injury_accidents,2,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Rukwa,Tanzania Mainland,normal_accidents,1,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Rukwa,Tanzania Mainland,deaths,21,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Rukwa,Tanzania Mainland,injuries,9,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Ruvuma,Tanzania Mainland,accidents,67,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Ruvuma,Tanzania Mainland,fatal_accidents,53,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Ruvuma,Tanzania Mainland,injury_accidents,14,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Ruvuma,Tanzania Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Ruvuma,Tanzania Mainland,deaths,67,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Ruvuma,Tanzania Mainland,injuries,73,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Shinyanga,Tanzania Mainland,accidents,77,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Shinyanga,Tanzania Mainland,fatal_accidents,45,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Shinyanga,Tanzania Mainland,injury_accidents,32,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Shinyanga,Tanzania Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Shinyanga,Tanzania Mainland,deaths,53,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Shinyanga,Tanzania Mainland,injuries,88,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Simiyu,Tanzania Mainland,accidents,37,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Simiyu,Tanzania Mainland,fatal_accidents,27,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Simiyu,Tanzania Mainland,injury_accidents,10,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Simiyu,Tanzania Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Simiyu,Tanzania Mainland,deaths,27,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Simiyu,Tanzania Mainland,injuries,36,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Singida,Tanzania Mainland,accidents,51,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Singida,Tanzania Mainland,fatal_accidents,37,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Singida,Tanzania Mainland,injury_accidents,11,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Singida,Tanzania Mainland,normal_accidents,3,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Singida,Tanzania Mainland,deaths,59,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Singida,Tanzania Mainland,injuries,71,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Songwe,Tanzania Mainland,accidents,67,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Songwe,Tanzania Mainland,fatal_accidents,54,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Songwe,Tanzania Mainland,injury_accidents,13,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Songwe,Tanzania Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Songwe,Tanzania Mainland,deaths,63,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Songwe,Tanzania Mainland,injuries,50,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Tabora,Tanzania Mainland,accidents,77,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Tabora,Tanzania Mainland,fatal_accidents,49,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Tabora,Tanzania Mainland,injury_accidents,23,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Tabora,Tanzania Mainland,normal_accidents,5,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Tabora,Tanzania Mainland,deaths,68,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Tabora,Tanzania Mainland,injuries,115,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Tanga,Tanzania Mainland,accidents,59,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Tanga,Tanzania Mainland,fatal_accidents,41,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Tanga,Tanzania Mainland,injury_accidents,15,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Tanga,Tanzania Mainland,normal_accidents,3,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Tanga,Tanzania Mainland,deaths,65,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Tanga,Tanzania Mainland,injuries,119,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Tarime - Rorya,Tanzania Mainland,accidents,67,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Tarime - Rorya,Tanzania Mainland,fatal_accidents,40,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Tarime - Rorya,Tanzania Mainland,injury_accidents,27,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Tarime - Rorya,Tanzania Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Tarime - Rorya,Tanzania Mainland,deaths,58,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Tarime - Rorya,Tanzania Mainland,injuries,85,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Kaskazini Pemba,Zanzibar,accidents,21,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Kaskazini Pemba,Zanzibar,fatal_accidents,14,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Kaskazini Pemba,Zanzibar,injury_accidents,7,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Kaskazini Pemba,Zanzibar,normal_accidents,0,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Kaskazini Pemba,Zanzibar,deaths,10,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Kaskazini Pemba,Zanzibar,injuries,31,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Kaskazini Unguja,Zanzibar,accidents,35,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Kaskazini Unguja,Zanzibar,fatal_accidents,10,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Kaskazini Unguja,Zanzibar,injury_accidents,15,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Kaskazini Unguja,Zanzibar,normal_accidents,3,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Kaskazini Unguja,Zanzibar,deaths,17,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Kaskazini Unguja,Zanzibar,injuries,76,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Kusini Pemba,Zanzibar,accidents,16,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Kusini Pemba,Zanzibar,fatal_accidents,10,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Kusini Pemba,Zanzibar,injury_accidents,6,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Kusini Pemba,Zanzibar,normal_accidents,3,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Kusini Pemba,Zanzibar,deaths,11,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Kusini Pemba,Zanzibar,injuries,31,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Kusini Unguja,Zanzibar,accidents,37,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Kusini Unguja,Zanzibar,fatal_accidents,26,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Kusini Unguja,Zanzibar,injury_accidents,11,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Kusini Unguja,Zanzibar,normal_accidents,0,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Kusini Unguja,Zanzibar,deaths,38,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Kusini Unguja,Zanzibar,injuries,137,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Mjini Magharibi,Zanzibar,accidents,147,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Mjini Magharibi,Zanzibar,fatal_accidents,49,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Mjini Magharibi,Zanzibar,injury_accidents,81,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Mjini Magharibi,Zanzibar,normal_accidents,19,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Mjini Magharibi,Zanzibar,deaths,48,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2018,Mjini Magharibi,Zanzibar,injuries,173,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 28,58,text
+2019,Arusha,Tanzania Mainland,accidents,56,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Arusha,Tanzania Mainland,fatal_accidents,39,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Arusha,Tanzania Mainland,injury_accidents,14,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Arusha,Tanzania Mainland,normal_accidents,3,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Arusha,Tanzania Mainland,deaths,56,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Arusha,Tanzania Mainland,injuries,95,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Ilala,Tanzania Mainland,accidents,489,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Ilala,Tanzania Mainland,fatal_accidents,39,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Ilala,Tanzania Mainland,injury_accidents,247,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Ilala,Tanzania Mainland,normal_accidents,203,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Ilala,Tanzania Mainland,deaths,40,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Ilala,Tanzania Mainland,injuries,416,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Temeke,Tanzania Mainland,accidents,98,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Temeke,Tanzania Mainland,fatal_accidents,8,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Temeke,Tanzania Mainland,injury_accidents,76,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Temeke,Tanzania Mainland,normal_accidents,14,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Temeke,Tanzania Mainland,deaths,9,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Temeke,Tanzania Mainland,injuries,122,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Kinondoni,Tanzania Mainland,accidents,697,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Kinondoni,Tanzania Mainland,fatal_accidents,41,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Kinondoni,Tanzania Mainland,injury_accidents,269,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Kinondoni,Tanzania Mainland,normal_accidents,387,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Kinondoni,Tanzania Mainland,deaths,52,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Kinondoni,Tanzania Mainland,injuries,589,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Dodoma,Tanzania Mainland,accidents,61,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Dodoma,Tanzania Mainland,fatal_accidents,39,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Dodoma,Tanzania Mainland,injury_accidents,18,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Dodoma,Tanzania Mainland,normal_accidents,4,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Dodoma,Tanzania Mainland,deaths,54,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Dodoma,Tanzania Mainland,injuries,73,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Geita,Tanzania Mainland,accidents,79,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Geita,Tanzania Mainland,fatal_accidents,59,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Geita,Tanzania Mainland,injury_accidents,18,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Geita,Tanzania Mainland,normal_accidents,2,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Geita,Tanzania Mainland,deaths,67,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Geita,Tanzania Mainland,injuries,74,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Iringa,Tanzania Mainland,accidents,64,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Iringa,Tanzania Mainland,fatal_accidents,52,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Iringa,Tanzania Mainland,injury_accidents,12,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Iringa,Tanzania Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Iringa,Tanzania Mainland,deaths,76,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Iringa,Tanzania Mainland,injuries,82,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Kagera,Tanzania Mainland,accidents,39,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Kagera,Tanzania Mainland,fatal_accidents,28,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Kagera,Tanzania Mainland,injury_accidents,6,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Kagera,Tanzania Mainland,normal_accidents,5,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Kagera,Tanzania Mainland,deaths,42,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Kagera,Tanzania Mainland,injuries,54,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Katavi,Tanzania Mainland,accidents,36,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Katavi,Tanzania Mainland,fatal_accidents,22,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Katavi,Tanzania Mainland,injury_accidents,11,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Katavi,Tanzania Mainland,normal_accidents,3,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Katavi,Tanzania Mainland,deaths,29,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Katavi,Tanzania Mainland,injuries,79,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Kigoma,Tanzania Mainland,accidents,26,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Kigoma,Tanzania Mainland,fatal_accidents,20,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Kigoma,Tanzania Mainland,injury_accidents,6,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Kigoma,Tanzania Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Kigoma,Tanzania Mainland,deaths,33,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Kigoma,Tanzania Mainland,injuries,79,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Kilimanjaro,Tanzania Mainland,accidents,90,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Kilimanjaro,Tanzania Mainland,fatal_accidents,68,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Kilimanjaro,Tanzania Mainland,injury_accidents,21,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Kilimanjaro,Tanzania Mainland,normal_accidents,1,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Kilimanjaro,Tanzania Mainland,deaths,83,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Kilimanjaro,Tanzania Mainland,injuries,94,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Lindi,Tanzania Mainland,accidents,72,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Lindi,Tanzania Mainland,fatal_accidents,59,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Lindi,Tanzania Mainland,injury_accidents,11,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Lindi,Tanzania Mainland,normal_accidents,2,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Lindi,Tanzania Mainland,deaths,69,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Lindi,Tanzania Mainland,injuries,56,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Mara,Tanzania Mainland,accidents,43,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Mara,Tanzania Mainland,fatal_accidents,37,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Mara,Tanzania Mainland,injury_accidents,6,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Mara,Tanzania Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Mara,Tanzania Mainland,deaths,40,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Mara,Tanzania Mainland,injuries,32,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Manyara,Tanzania Mainland,accidents,26,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Manyara,Tanzania Mainland,fatal_accidents,21,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Manyara,Tanzania Mainland,injury_accidents,5,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Manyara,Tanzania Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Manyara,Tanzania Mainland,deaths,31,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Manyara,Tanzania Mainland,injuries,24,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Mbeya,Tanzania Mainland,accidents,48,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Mbeya,Tanzania Mainland,fatal_accidents,32,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Mbeya,Tanzania Mainland,injury_accidents,15,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Mbeya,Tanzania Mainland,normal_accidents,1,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Mbeya,Tanzania Mainland,deaths,38,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Mbeya,Tanzania Mainland,injuries,79,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Morogoro,Tanzania Mainland,accidents,75,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Morogoro,Tanzania Mainland,fatal_accidents,64,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Morogoro,Tanzania Mainland,injury_accidents,10,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Morogoro,Tanzania Mainland,normal_accidents,1,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Morogoro,Tanzania Mainland,deaths,90,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Morogoro,Tanzania Mainland,injuries,79,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Mtwara,Tanzania Mainland,accidents,32,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Mtwara,Tanzania Mainland,fatal_accidents,23,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Mtwara,Tanzania Mainland,injury_accidents,8,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Mtwara,Tanzania Mainland,normal_accidents,1,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Mtwara,Tanzania Mainland,deaths,32,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Mtwara,Tanzania Mainland,injuries,31,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Mwanza,Tanzania Mainland,accidents,90,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Mwanza,Tanzania Mainland,fatal_accidents,72,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Mwanza,Tanzania Mainland,injury_accidents,15,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Mwanza,Tanzania Mainland,normal_accidents,3,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Mwanza,Tanzania Mainland,deaths,81,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Mwanza,Tanzania Mainland,injuries,98,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Njombe,Tanzania Mainland,accidents,60,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Njombe,Tanzania Mainland,fatal_accidents,50,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Njombe,Tanzania Mainland,injury_accidents,9,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Njombe,Tanzania Mainland,normal_accidents,1,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Njombe,Tanzania Mainland,deaths,53,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Njombe,Tanzania Mainland,injuries,51,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Pwani,Tanzania Mainland,accidents,62,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Pwani,Tanzania Mainland,fatal_accidents,44,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Pwani,Tanzania Mainland,injury_accidents,13,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Pwani,Tanzania Mainland,normal_accidents,5,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Pwani,Tanzania Mainland,deaths,54,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Pwani,Tanzania Mainland,injuries,64,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Rufiji,Tanzania Mainland,accidents,38,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Rufiji,Tanzania Mainland,fatal_accidents,31,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Rufiji,Tanzania Mainland,injury_accidents,7,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Rufiji,Tanzania Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Rufiji,Tanzania Mainland,deaths,42,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Rufiji,Tanzania Mainland,injuries,24,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Rukwa,Tanzania Mainland,accidents,21,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Rukwa,Tanzania Mainland,fatal_accidents,18,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Rukwa,Tanzania Mainland,injury_accidents,3,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Rukwa,Tanzania Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Rukwa,Tanzania Mainland,deaths,22,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Rukwa,Tanzania Mainland,injuries,9,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Ruvuma,Tanzania Mainland,accidents,48,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Ruvuma,Tanzania Mainland,fatal_accidents,28,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Ruvuma,Tanzania Mainland,injury_accidents,15,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Ruvuma,Tanzania Mainland,normal_accidents,5,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Ruvuma,Tanzania Mainland,deaths,31,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Ruvuma,Tanzania Mainland,injuries,66,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Shinyanga,Tanzania Mainland,accidents,72,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Shinyanga,Tanzania Mainland,fatal_accidents,32,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Shinyanga,Tanzania Mainland,injury_accidents,39,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Shinyanga,Tanzania Mainland,normal_accidents,1,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Shinyanga,Tanzania Mainland,deaths,38,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Shinyanga,Tanzania Mainland,injuries,94,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Simiyu,Tanzania Mainland,accidents,26,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Simiyu,Tanzania Mainland,fatal_accidents,20,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Simiyu,Tanzania Mainland,injury_accidents,6,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Simiyu,Tanzania Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Simiyu,Tanzania Mainland,deaths,21,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Simiyu,Tanzania Mainland,injuries,17,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Singida,Tanzania Mainland,accidents,46,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Singida,Tanzania Mainland,fatal_accidents,26,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Singida,Tanzania Mainland,injury_accidents,15,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Singida,Tanzania Mainland,normal_accidents,5,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Singida,Tanzania Mainland,deaths,32,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Singida,Tanzania Mainland,injuries,48,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Songwe,Tanzania Mainland,accidents,41,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Songwe,Tanzania Mainland,fatal_accidents,35,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Songwe,Tanzania Mainland,injury_accidents,5,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Songwe,Tanzania Mainland,normal_accidents,1,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Songwe,Tanzania Mainland,deaths,57,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Songwe,Tanzania Mainland,injuries,56,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Tabora,Tanzania Mainland,accidents,45,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Tabora,Tanzania Mainland,fatal_accidents,30,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Tabora,Tanzania Mainland,injury_accidents,12,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Tabora,Tanzania Mainland,normal_accidents,3,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Tabora,Tanzania Mainland,deaths,38,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Tabora,Tanzania Mainland,injuries,48,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Tanga,Tanzania Mainland,accidents,96,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Tanga,Tanzania Mainland,fatal_accidents,63,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Tanga,Tanzania Mainland,injury_accidents,23,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Tanga,Tanzania Mainland,normal_accidents,10,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Tanga,Tanzania Mainland,deaths,89,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Tanga,Tanzania Mainland,injuries,173,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Tarime - Rorya,Tanzania Mainland,accidents,28,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Tarime - Rorya,Tanzania Mainland,fatal_accidents,22,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Tarime - Rorya,Tanzania Mainland,injury_accidents,3,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Tarime - Rorya,Tanzania Mainland,normal_accidents,3,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Tarime - Rorya,Tanzania Mainland,deaths,33,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Tarime - Rorya,Tanzania Mainland,injuries,27,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Kaskazini Pemba,Zanzibar,accidents,21,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Kaskazini Pemba,Zanzibar,fatal_accidents,8,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Kaskazini Pemba,Zanzibar,injury_accidents,11,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Kaskazini Pemba,Zanzibar,normal_accidents,2,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Kaskazini Pemba,Zanzibar,deaths,9,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Kaskazini Pemba,Zanzibar,injuries,73,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Kaskazini Unguja,Zanzibar,accidents,26,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Kaskazini Unguja,Zanzibar,fatal_accidents,17,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Kaskazini Unguja,Zanzibar,injury_accidents,9,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Kaskazini Unguja,Zanzibar,normal_accidents,0,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Kaskazini Unguja,Zanzibar,deaths,20,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Kaskazini Unguja,Zanzibar,injuries,17,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Kusini Pemba,Zanzibar,accidents,13,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Kusini Pemba,Zanzibar,fatal_accidents,8,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Kusini Pemba,Zanzibar,injury_accidents,4,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Kusini Pemba,Zanzibar,normal_accidents,1,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Kusini Pemba,Zanzibar,deaths,8,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Kusini Pemba,Zanzibar,injuries,12,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Kusini Unguja,Zanzibar,accidents,36,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Kusini Unguja,Zanzibar,fatal_accidents,16,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Kusini Unguja,Zanzibar,injury_accidents,20,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Kusini Unguja,Zanzibar,normal_accidents,0,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Kusini Unguja,Zanzibar,deaths,25,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Kusini Unguja,Zanzibar,injuries,45,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Mjini Magharibi,Zanzibar,accidents,124,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Mjini Magharibi,Zanzibar,fatal_accidents,37,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Mjini Magharibi,Zanzibar,injury_accidents,64,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Mjini Magharibi,Zanzibar,normal_accidents,23,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Mjini Magharibi,Zanzibar,deaths,42,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2019,Mjini Magharibi,Zanzibar,injuries,143,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 28,61,text
+2020,Arusha,Tanzania Mainland,accidents,62,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Arusha,Tanzania Mainland,fatal_accidents,38,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Arusha,Tanzania Mainland,injury_accidents,23,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Arusha,Tanzania Mainland,normal_accidents,1,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Arusha,Tanzania Mainland,deaths,58,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Arusha,Tanzania Mainland,injuries,113,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Ilala,Tanzania Mainland,accidents,114,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Ilala,Tanzania Mainland,fatal_accidents,21,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Ilala,Tanzania Mainland,injury_accidents,82,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Ilala,Tanzania Mainland,normal_accidents,11,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Ilala,Tanzania Mainland,deaths,26,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Ilala,Tanzania Mainland,injuries,195,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Temeke,Tanzania Mainland,accidents,106,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Temeke,Tanzania Mainland,fatal_accidents,12,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Temeke,Tanzania Mainland,injury_accidents,60,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Temeke,Tanzania Mainland,normal_accidents,34,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Temeke,Tanzania Mainland,deaths,13,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Temeke,Tanzania Mainland,injuries,78,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Kinondoni,Tanzania Mainland,accidents,310,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Kinondoni,Tanzania Mainland,fatal_accidents,28,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Kinondoni,Tanzania Mainland,injury_accidents,127,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Kinondoni,Tanzania Mainland,normal_accidents,155,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Kinondoni,Tanzania Mainland,deaths,38,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Kinondoni,Tanzania Mainland,injuries,300,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Dodoma,Tanzania Mainland,accidents,16,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Dodoma,Tanzania Mainland,fatal_accidents,11,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Dodoma,Tanzania Mainland,injury_accidents,4,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Dodoma,Tanzania Mainland,normal_accidents,1,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Dodoma,Tanzania Mainland,deaths,24,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Dodoma,Tanzania Mainland,injuries,33,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Geita,Tanzania Mainland,accidents,71,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Geita,Tanzania Mainland,fatal_accidents,54,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Geita,Tanzania Mainland,injury_accidents,12,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Geita,Tanzania Mainland,normal_accidents,5,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Geita,Tanzania Mainland,deaths,63,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Geita,Tanzania Mainland,injuries,61,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Iringa,Tanzania Mainland,accidents,32,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Iringa,Tanzania Mainland,fatal_accidents,25,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Iringa,Tanzania Mainland,injury_accidents,4,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Iringa,Tanzania Mainland,normal_accidents,3,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Iringa,Tanzania Mainland,deaths,52,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Iringa,Tanzania Mainland,injuries,71,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Kagera,Tanzania Mainland,accidents,36,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Kagera,Tanzania Mainland,fatal_accidents,27,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Kagera,Tanzania Mainland,injury_accidents,8,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Kagera,Tanzania Mainland,normal_accidents,1,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Kagera,Tanzania Mainland,deaths,63,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Kagera,Tanzania Mainland,injuries,66,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Katavi,Tanzania Mainland,accidents,49,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Katavi,Tanzania Mainland,fatal_accidents,31,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Katavi,Tanzania Mainland,injury_accidents,16,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Katavi,Tanzania Mainland,normal_accidents,2,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Katavi,Tanzania Mainland,deaths,37,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Katavi,Tanzania Mainland,injuries,79,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Kigoma,Tanzania Mainland,accidents,34,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Kigoma,Tanzania Mainland,fatal_accidents,28,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Kigoma,Tanzania Mainland,injury_accidents,6,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Kigoma,Tanzania Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Kigoma,Tanzania Mainland,deaths,32,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Kigoma,Tanzania Mainland,injuries,36,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Kilimanjaro,Tanzania Mainland,accidents,81,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Kilimanjaro,Tanzania Mainland,fatal_accidents,58,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Kilimanjaro,Tanzania Mainland,injury_accidents,22,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Kilimanjaro,Tanzania Mainland,normal_accidents,1,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Kilimanjaro,Tanzania Mainland,deaths,65,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Kilimanjaro,Tanzania Mainland,injuries,71,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Lindi,Tanzania Mainland,accidents,65,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Lindi,Tanzania Mainland,fatal_accidents,48,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Lindi,Tanzania Mainland,injury_accidents,17,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Lindi,Tanzania Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Lindi,Tanzania Mainland,deaths,59,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Lindi,Tanzania Mainland,injuries,67,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Mara,Tanzania Mainland,accidents,52,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Mara,Tanzania Mainland,fatal_accidents,45,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Mara,Tanzania Mainland,injury_accidents,4,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Mara,Tanzania Mainland,normal_accidents,3,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Mara,Tanzania Mainland,deaths,47,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Mara,Tanzania Mainland,injuries,37,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Manyara,Tanzania Mainland,accidents,24,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Manyara,Tanzania Mainland,fatal_accidents,18,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Manyara,Tanzania Mainland,injury_accidents,4,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Manyara,Tanzania Mainland,normal_accidents,2,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Manyara,Tanzania Mainland,deaths,22,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Manyara,Tanzania Mainland,injuries,32,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Mbeya,Tanzania Mainland,accidents,49,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Mbeya,Tanzania Mainland,fatal_accidents,32,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Mbeya,Tanzania Mainland,injury_accidents,14,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Mbeya,Tanzania Mainland,normal_accidents,3,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Mbeya,Tanzania Mainland,deaths,41,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Mbeya,Tanzania Mainland,injuries,57,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Morogoro,Tanzania Mainland,accidents,50,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Morogoro,Tanzania Mainland,fatal_accidents,32,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Morogoro,Tanzania Mainland,injury_accidents,15,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Morogoro,Tanzania Mainland,normal_accidents,3,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Morogoro,Tanzania Mainland,deaths,51,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Morogoro,Tanzania Mainland,injuries,66,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Mtwara,Tanzania Mainland,accidents,43,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Mtwara,Tanzania Mainland,fatal_accidents,30,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Mtwara,Tanzania Mainland,injury_accidents,11,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Mtwara,Tanzania Mainland,normal_accidents,2,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Mtwara,Tanzania Mainland,deaths,40,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Mtwara,Tanzania Mainland,injuries,51,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Mwanza,Tanzania Mainland,accidents,63,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Mwanza,Tanzania Mainland,fatal_accidents,48,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Mwanza,Tanzania Mainland,injury_accidents,14,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Mwanza,Tanzania Mainland,normal_accidents,1,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Mwanza,Tanzania Mainland,deaths,66,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Mwanza,Tanzania Mainland,injuries,67,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Njombe,Tanzania Mainland,accidents,49,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Njombe,Tanzania Mainland,fatal_accidents,34,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Njombe,Tanzania Mainland,injury_accidents,15,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Njombe,Tanzania Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Njombe,Tanzania Mainland,deaths,41,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Njombe,Tanzania Mainland,injuries,70,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Pwani,Tanzania Mainland,accidents,58,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Pwani,Tanzania Mainland,fatal_accidents,41,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Pwani,Tanzania Mainland,injury_accidents,15,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Pwani,Tanzania Mainland,normal_accidents,2,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Pwani,Tanzania Mainland,deaths,57,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Pwani,Tanzania Mainland,injuries,66,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Rufiji,Tanzania Mainland,accidents,37,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Rufiji,Tanzania Mainland,fatal_accidents,26,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Rufiji,Tanzania Mainland,injury_accidents,10,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Rufiji,Tanzania Mainland,normal_accidents,1,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Rufiji,Tanzania Mainland,deaths,49,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Rufiji,Tanzania Mainland,injuries,67,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Rukwa,Tanzania Mainland,accidents,21,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Rukwa,Tanzania Mainland,fatal_accidents,17,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Rukwa,Tanzania Mainland,injury_accidents,4,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Rukwa,Tanzania Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Rukwa,Tanzania Mainland,deaths,23,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Rukwa,Tanzania Mainland,injuries,20,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Ruvuma,Tanzania Mainland,accidents,40,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Ruvuma,Tanzania Mainland,fatal_accidents,28,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Ruvuma,Tanzania Mainland,injury_accidents,10,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Ruvuma,Tanzania Mainland,normal_accidents,2,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Ruvuma,Tanzania Mainland,deaths,45,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Ruvuma,Tanzania Mainland,injuries,57,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Shinyanga,Tanzania Mainland,accidents,47,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Shinyanga,Tanzania Mainland,fatal_accidents,28,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Shinyanga,Tanzania Mainland,injury_accidents,19,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Shinyanga,Tanzania Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Shinyanga,Tanzania Mainland,deaths,39,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Shinyanga,Tanzania Mainland,injuries,54,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Simiyu,Tanzania Mainland,accidents,25,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Simiyu,Tanzania Mainland,fatal_accidents,20,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Simiyu,Tanzania Mainland,injury_accidents,5,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Simiyu,Tanzania Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Simiyu,Tanzania Mainland,deaths,21,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Simiyu,Tanzania Mainland,injuries,28,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Singida,Tanzania Mainland,accidents,45,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Singida,Tanzania Mainland,fatal_accidents,30,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Singida,Tanzania Mainland,injury_accidents,14,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Singida,Tanzania Mainland,normal_accidents,1,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Singida,Tanzania Mainland,deaths,57,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Singida,Tanzania Mainland,injuries,66,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Songwe,Tanzania Mainland,accidents,33,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Songwe,Tanzania Mainland,fatal_accidents,30,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Songwe,Tanzania Mainland,injury_accidents,3,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Songwe,Tanzania Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Songwe,Tanzania Mainland,deaths,35,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Songwe,Tanzania Mainland,injuries,84,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Tabora,Tanzania Mainland,accidents,39,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Tabora,Tanzania Mainland,fatal_accidents,25,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Tabora,Tanzania Mainland,injury_accidents,13,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Tabora,Tanzania Mainland,normal_accidents,1,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Tabora,Tanzania Mainland,deaths,28,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Tabora,Tanzania Mainland,injuries,30,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Tanga,Tanzania Mainland,accidents,38,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Tanga,Tanzania Mainland,fatal_accidents,33,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Tanga,Tanzania Mainland,injury_accidents,5,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Tanga,Tanzania Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Tanga,Tanzania Mainland,deaths,51,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Tanga,Tanzania Mainland,injuries,27,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Tarime - Rorya,Tanzania Mainland,accidents,25,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Tarime - Rorya,Tanzania Mainland,fatal_accidents,17,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Tarime - Rorya,Tanzania Mainland,injury_accidents,8,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Tarime - Rorya,Tanzania Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Tarime - Rorya,Tanzania Mainland,deaths,17,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Tarime - Rorya,Tanzania Mainland,injuries,21,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Kaskazini Pemba,Zanzibar,accidents,15,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Kaskazini Pemba,Zanzibar,fatal_accidents,10,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Kaskazini Pemba,Zanzibar,injury_accidents,5,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Kaskazini Pemba,Zanzibar,normal_accidents,0,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Kaskazini Pemba,Zanzibar,deaths,10,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Kaskazini Pemba,Zanzibar,injuries,38,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Kaskazini Unguja,Zanzibar,accidents,35,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Kaskazini Unguja,Zanzibar,fatal_accidents,20,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Kaskazini Unguja,Zanzibar,injury_accidents,13,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Kaskazini Unguja,Zanzibar,normal_accidents,2,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Kaskazini Unguja,Zanzibar,deaths,24,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Kaskazini Unguja,Zanzibar,injuries,51,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Kusini Pemba,Zanzibar,accidents,11,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Kusini Pemba,Zanzibar,fatal_accidents,5,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Kusini Pemba,Zanzibar,injury_accidents,5,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Kusini Pemba,Zanzibar,normal_accidents,1,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Kusini Pemba,Zanzibar,deaths,5,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Kusini Pemba,Zanzibar,injuries,16,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Kusini Unguja,Zanzibar,accidents,39,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Kusini Unguja,Zanzibar,fatal_accidents,22,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Kusini Unguja,Zanzibar,injury_accidents,15,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Kusini Unguja,Zanzibar,normal_accidents,2,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Kusini Unguja,Zanzibar,deaths,23,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Kusini Unguja,Zanzibar,injuries,78,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Mjini Magharibi,Zanzibar,accidents,119,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Mjini Magharibi,Zanzibar,fatal_accidents,59,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Mjini Magharibi,Zanzibar,injury_accidents,44,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Mjini Magharibi,Zanzibar,normal_accidents,16,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Mjini Magharibi,Zanzibar,deaths,62,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2020,Mjini Magharibi,Zanzibar,injuries,109,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.1,63,text
+2023,Arusha,Tanzania Mainland,accidents,88,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Arusha,Tanzania Mainland,fatal_accidents,53,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Arusha,Tanzania Mainland,injury_accidents,20,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Arusha,Tanzania Mainland,normal_accidents,15,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Arusha,Tanzania Mainland,deaths,67,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Arusha,Tanzania Mainland,injuries,106,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Ilala,Tanzania Mainland,accidents,49,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Ilala,Tanzania Mainland,fatal_accidents,17,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Ilala,Tanzania Mainland,injury_accidents,28,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Ilala,Tanzania Mainland,normal_accidents,4,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Ilala,Tanzania Mainland,deaths,22,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Ilala,Tanzania Mainland,injuries,106,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Temeke,Tanzania Mainland,accidents,45,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Temeke,Tanzania Mainland,fatal_accidents,27,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Temeke,Tanzania Mainland,injury_accidents,13,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Temeke,Tanzania Mainland,normal_accidents,5,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Temeke,Tanzania Mainland,deaths,35,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Temeke,Tanzania Mainland,injuries,54,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Kinondoni,Tanzania Mainland,accidents,127,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Kinondoni,Tanzania Mainland,fatal_accidents,46,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Kinondoni,Tanzania Mainland,injury_accidents,64,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Kinondoni,Tanzania Mainland,normal_accidents,17,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Kinondoni,Tanzania Mainland,deaths,59,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Kinondoni,Tanzania Mainland,injuries,196,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Dodoma,Tanzania Mainland,accidents,25,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Dodoma,Tanzania Mainland,fatal_accidents,22,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Dodoma,Tanzania Mainland,injury_accidents,0,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Dodoma,Tanzania Mainland,normal_accidents,3,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Dodoma,Tanzania Mainland,deaths,40,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Dodoma,Tanzania Mainland,injuries,121,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Geita,Tanzania Mainland,accidents,51,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Geita,Tanzania Mainland,fatal_accidents,33,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Geita,Tanzania Mainland,injury_accidents,11,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Geita,Tanzania Mainland,normal_accidents,7,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Geita,Tanzania Mainland,deaths,57,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Geita,Tanzania Mainland,injuries,95,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Iringa,Tanzania Mainland,accidents,43,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Iringa,Tanzania Mainland,fatal_accidents,26,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Iringa,Tanzania Mainland,injury_accidents,15,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Iringa,Tanzania Mainland,normal_accidents,2,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Iringa,Tanzania Mainland,deaths,38,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Iringa,Tanzania Mainland,injuries,67,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Kagera,Tanzania Mainland,accidents,56,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Kagera,Tanzania Mainland,fatal_accidents,41,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Kagera,Tanzania Mainland,injury_accidents,11,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Kagera,Tanzania Mainland,normal_accidents,4,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Kagera,Tanzania Mainland,deaths,64,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Kagera,Tanzania Mainland,injuries,64,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Katavi,Tanzania Mainland,accidents,32,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Katavi,Tanzania Mainland,fatal_accidents,25,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Katavi,Tanzania Mainland,injury_accidents,6,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Katavi,Tanzania Mainland,normal_accidents,1,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Katavi,Tanzania Mainland,deaths,39,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Katavi,Tanzania Mainland,injuries,65,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Kigoma,Tanzania Mainland,accidents,61,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Kigoma,Tanzania Mainland,fatal_accidents,40,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Kigoma,Tanzania Mainland,injury_accidents,19,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Kigoma,Tanzania Mainland,normal_accidents,2,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Kigoma,Tanzania Mainland,deaths,52,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Kigoma,Tanzania Mainland,injuries,78,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Kilimanjaro,Tanzania Mainland,accidents,57,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Kilimanjaro,Tanzania Mainland,fatal_accidents,33,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Kilimanjaro,Tanzania Mainland,injury_accidents,20,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Kilimanjaro,Tanzania Mainland,normal_accidents,4,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Kilimanjaro,Tanzania Mainland,deaths,60,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Kilimanjaro,Tanzania Mainland,injuries,106,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Lindi,Tanzania Mainland,accidents,48,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Lindi,Tanzania Mainland,fatal_accidents,35,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Lindi,Tanzania Mainland,injury_accidents,12,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Lindi,Tanzania Mainland,normal_accidents,1,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Lindi,Tanzania Mainland,deaths,63,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Lindi,Tanzania Mainland,injuries,110,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Mara,Tanzania Mainland,accidents,42,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Mara,Tanzania Mainland,fatal_accidents,30,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Mara,Tanzania Mainland,injury_accidents,7,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Mara,Tanzania Mainland,normal_accidents,5,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Mara,Tanzania Mainland,deaths,34,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Mara,Tanzania Mainland,injuries,90,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Manyara,Tanzania Mainland,accidents,74,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Manyara,Tanzania Mainland,fatal_accidents,50,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Manyara,Tanzania Mainland,injury_accidents,20,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Manyara,Tanzania Mainland,normal_accidents,4,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Manyara,Tanzania Mainland,deaths,59,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Manyara,Tanzania Mainland,injuries,59,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Mbeya,Tanzania Mainland,accidents,109,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Mbeya,Tanzania Mainland,fatal_accidents,64,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Mbeya,Tanzania Mainland,injury_accidents,29,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Mbeya,Tanzania Mainland,normal_accidents,16,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Mbeya,Tanzania Mainland,deaths,98,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Mbeya,Tanzania Mainland,injuries,167,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Morogoro,Tanzania Mainland,accidents,74,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Morogoro,Tanzania Mainland,fatal_accidents,50,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Morogoro,Tanzania Mainland,injury_accidents,21,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Morogoro,Tanzania Mainland,normal_accidents,3,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Morogoro,Tanzania Mainland,deaths,72,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Morogoro,Tanzania Mainland,injuries,129,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Mtwara,Tanzania Mainland,accidents,52,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Mtwara,Tanzania Mainland,fatal_accidents,28,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Mtwara,Tanzania Mainland,injury_accidents,21,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Mtwara,Tanzania Mainland,normal_accidents,3,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Mtwara,Tanzania Mainland,deaths,38,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Mtwara,Tanzania Mainland,injuries,105,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Mwanza,Tanzania Mainland,accidents,69,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Mwanza,Tanzania Mainland,fatal_accidents,55,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Mwanza,Tanzania Mainland,injury_accidents,7,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Mwanza,Tanzania Mainland,normal_accidents,7,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Mwanza,Tanzania Mainland,deaths,82,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Mwanza,Tanzania Mainland,injuries,66,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Njombe,Tanzania Mainland,accidents,54,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Njombe,Tanzania Mainland,fatal_accidents,43,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Njombe,Tanzania Mainland,injury_accidents,10,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Njombe,Tanzania Mainland,normal_accidents,1,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Njombe,Tanzania Mainland,deaths,64,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Njombe,Tanzania Mainland,injuries,121,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Pwani,Tanzania Mainland,accidents,53,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Pwani,Tanzania Mainland,fatal_accidents,37,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Pwani,Tanzania Mainland,injury_accidents,12,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Pwani,Tanzania Mainland,normal_accidents,4,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Pwani,Tanzania Mainland,deaths,73,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Pwani,Tanzania Mainland,injuries,75,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Rufiji,Tanzania Mainland,accidents,20,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Rufiji,Tanzania Mainland,fatal_accidents,17,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Rufiji,Tanzania Mainland,injury_accidents,2,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Rufiji,Tanzania Mainland,normal_accidents,1,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Rufiji,Tanzania Mainland,deaths,26,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Rufiji,Tanzania Mainland,injuries,21,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Rukwa,Tanzania Mainland,accidents,27,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Rukwa,Tanzania Mainland,fatal_accidents,20,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Rukwa,Tanzania Mainland,injury_accidents,5,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Rukwa,Tanzania Mainland,normal_accidents,2,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Rukwa,Tanzania Mainland,deaths,20,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Rukwa,Tanzania Mainland,injuries,25,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Ruvuma,Tanzania Mainland,accidents,35,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Ruvuma,Tanzania Mainland,fatal_accidents,20,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Ruvuma,Tanzania Mainland,injury_accidents,11,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Ruvuma,Tanzania Mainland,normal_accidents,4,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Ruvuma,Tanzania Mainland,deaths,45,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Ruvuma,Tanzania Mainland,injuries,80,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Shinyanga,Tanzania Mainland,accidents,50,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Shinyanga,Tanzania Mainland,fatal_accidents,42,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Shinyanga,Tanzania Mainland,injury_accidents,6,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Shinyanga,Tanzania Mainland,normal_accidents,2,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Shinyanga,Tanzania Mainland,deaths,52,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Shinyanga,Tanzania Mainland,injuries,40,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Simiyu,Tanzania Mainland,accidents,19,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Simiyu,Tanzania Mainland,fatal_accidents,17,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Simiyu,Tanzania Mainland,injury_accidents,2,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Simiyu,Tanzania Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Simiyu,Tanzania Mainland,deaths,17,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Simiyu,Tanzania Mainland,injuries,22,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Singida,Tanzania Mainland,accidents,40,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Singida,Tanzania Mainland,fatal_accidents,22,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Singida,Tanzania Mainland,injury_accidents,11,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Singida,Tanzania Mainland,normal_accidents,7,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Singida,Tanzania Mainland,deaths,47,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Singida,Tanzania Mainland,injuries,79,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Songwe,Tanzania Mainland,accidents,32,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Songwe,Tanzania Mainland,fatal_accidents,25,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Songwe,Tanzania Mainland,injury_accidents,4,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Songwe,Tanzania Mainland,normal_accidents,3,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Songwe,Tanzania Mainland,deaths,39,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Songwe,Tanzania Mainland,injuries,39,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Tabora,Tanzania Mainland,accidents,40,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Tabora,Tanzania Mainland,fatal_accidents,25,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Tabora,Tanzania Mainland,injury_accidents,14,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Tabora,Tanzania Mainland,normal_accidents,1,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Tabora,Tanzania Mainland,deaths,47,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Tabora,Tanzania Mainland,injuries,123,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Tanga,Tanzania Mainland,accidents,49,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Tanga,Tanzania Mainland,fatal_accidents,31,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Tanga,Tanzania Mainland,injury_accidents,13,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Tanga,Tanzania Mainland,normal_accidents,5,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Tanga,Tanzania Mainland,deaths,64,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Tanga,Tanzania Mainland,injuries,88,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Tarime - Rorya,Tanzania Mainland,accidents,20,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Tarime - Rorya,Tanzania Mainland,fatal_accidents,13,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Tarime - Rorya,Tanzania Mainland,injury_accidents,4,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Tarime - Rorya,Tanzania Mainland,normal_accidents,3,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Tarime - Rorya,Tanzania Mainland,deaths,14,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Tarime - Rorya,Tanzania Mainland,injuries,15,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Kaskazini Pemba,Zanzibar,accidents,30,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Kaskazini Pemba,Zanzibar,fatal_accidents,14,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Kaskazini Pemba,Zanzibar,injury_accidents,16,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Kaskazini Pemba,Zanzibar,normal_accidents,0,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Kaskazini Pemba,Zanzibar,deaths,12,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Kaskazini Pemba,Zanzibar,injuries,34,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Kaskazini Unguja,Zanzibar,accidents,38,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Kaskazini Unguja,Zanzibar,fatal_accidents,27,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Kaskazini Unguja,Zanzibar,injury_accidents,9,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Kaskazini Unguja,Zanzibar,normal_accidents,2,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Kaskazini Unguja,Zanzibar,deaths,27,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Kaskazini Unguja,Zanzibar,injuries,25,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Kusini Pemba,Zanzibar,accidents,21,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Kusini Pemba,Zanzibar,fatal_accidents,11,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Kusini Pemba,Zanzibar,injury_accidents,7,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Kusini Pemba,Zanzibar,normal_accidents,3,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Kusini Pemba,Zanzibar,deaths,28,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Kusini Pemba,Zanzibar,injuries,54,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Kusini Unguja,Zanzibar,accidents,44,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Kusini Unguja,Zanzibar,fatal_accidents,29,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Kusini Unguja,Zanzibar,injury_accidents,12,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Kusini Unguja,Zanzibar,normal_accidents,3,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Kusini Unguja,Zanzibar,deaths,37,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Kusini Unguja,Zanzibar,injuries,35,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Mjini Magharibi,Zanzibar,accidents,59,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Mjini Magharibi,Zanzibar,fatal_accidents,50,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Mjini Magharibi,Zanzibar,injury_accidents,9,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Mjini Magharibi,Zanzibar,normal_accidents,2,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Mjini Magharibi,Zanzibar,deaths,56,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2023,Mjini Magharibi,Zanzibar,injuries,56,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.4,47,manual (regional-2023.csv)
+2024,Arusha,Tanzania Mainland,accidents,50,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Arusha,Tanzania Mainland,fatal_accidents,30,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Arusha,Tanzania Mainland,injury_accidents,18,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Arusha,Tanzania Mainland,normal_accidents,2,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Arusha,Tanzania Mainland,deaths,76,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Arusha,Tanzania Mainland,injuries,130,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Ilala,Tanzania Mainland,accidents,47,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Ilala,Tanzania Mainland,fatal_accidents,20,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Ilala,Tanzania Mainland,injury_accidents,24,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Ilala,Tanzania Mainland,normal_accidents,3,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Ilala,Tanzania Mainland,deaths,22,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Ilala,Tanzania Mainland,injuries,36,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Temeke,Tanzania Mainland,accidents,66,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Temeke,Tanzania Mainland,fatal_accidents,40,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Temeke,Tanzania Mainland,injury_accidents,26,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Temeke,Tanzania Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Temeke,Tanzania Mainland,deaths,54,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Temeke,Tanzania Mainland,injuries,70,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Kinondoni,Tanzania Mainland,accidents,119,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Kinondoni,Tanzania Mainland,fatal_accidents,61,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Kinondoni,Tanzania Mainland,injury_accidents,44,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Kinondoni,Tanzania Mainland,normal_accidents,14,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Kinondoni,Tanzania Mainland,deaths,69,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Kinondoni,Tanzania Mainland,injuries,137,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Dodoma,Tanzania Mainland,accidents,74,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Dodoma,Tanzania Mainland,fatal_accidents,59,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Dodoma,Tanzania Mainland,injury_accidents,15,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Dodoma,Tanzania Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Dodoma,Tanzania Mainland,deaths,56,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Dodoma,Tanzania Mainland,injuries,108,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Geita,Tanzania Mainland,accidents,46,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Geita,Tanzania Mainland,fatal_accidents,30,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Geita,Tanzania Mainland,injury_accidents,14,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Geita,Tanzania Mainland,normal_accidents,2,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Geita,Tanzania Mainland,deaths,42,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Geita,Tanzania Mainland,injuries,48,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Iringa,Tanzania Mainland,accidents,45,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Iringa,Tanzania Mainland,fatal_accidents,24,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Iringa,Tanzania Mainland,injury_accidents,19,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Iringa,Tanzania Mainland,normal_accidents,2,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Iringa,Tanzania Mainland,deaths,33,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Iringa,Tanzania Mainland,injuries,84,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Kagera,Tanzania Mainland,accidents,45,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Kagera,Tanzania Mainland,fatal_accidents,39,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Kagera,Tanzania Mainland,injury_accidents,6,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Kagera,Tanzania Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Kagera,Tanzania Mainland,deaths,56,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Kagera,Tanzania Mainland,injuries,81,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Katavi,Tanzania Mainland,accidents,30,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Katavi,Tanzania Mainland,fatal_accidents,22,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Katavi,Tanzania Mainland,injury_accidents,7,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Katavi,Tanzania Mainland,normal_accidents,1,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Katavi,Tanzania Mainland,deaths,31,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Katavi,Tanzania Mainland,injuries,30,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Kigoma,Tanzania Mainland,accidents,67,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Kigoma,Tanzania Mainland,fatal_accidents,37,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Kigoma,Tanzania Mainland,injury_accidents,24,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Kigoma,Tanzania Mainland,normal_accidents,6,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Kigoma,Tanzania Mainland,deaths,49,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Kigoma,Tanzania Mainland,injuries,96,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Kilimanjaro,Tanzania Mainland,accidents,40,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Kilimanjaro,Tanzania Mainland,fatal_accidents,18,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Kilimanjaro,Tanzania Mainland,injury_accidents,22,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Kilimanjaro,Tanzania Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Kilimanjaro,Tanzania Mainland,deaths,51,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Kilimanjaro,Tanzania Mainland,injuries,114,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Lindi,Tanzania Mainland,accidents,96,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Lindi,Tanzania Mainland,fatal_accidents,62,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Lindi,Tanzania Mainland,injury_accidents,34,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Lindi,Tanzania Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Lindi,Tanzania Mainland,deaths,93,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Lindi,Tanzania Mainland,injuries,117,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Mara,Tanzania Mainland,accidents,24,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Mara,Tanzania Mainland,fatal_accidents,21,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Mara,Tanzania Mainland,injury_accidents,3,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Mara,Tanzania Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Mara,Tanzania Mainland,deaths,35,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Mara,Tanzania Mainland,injuries,70,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Manyara,Tanzania Mainland,accidents,68,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Manyara,Tanzania Mainland,fatal_accidents,46,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Manyara,Tanzania Mainland,injury_accidents,22,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Manyara,Tanzania Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Manyara,Tanzania Mainland,deaths,53,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Manyara,Tanzania Mainland,injuries,80,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Mbeya,Tanzania Mainland,accidents,78,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Mbeya,Tanzania Mainland,fatal_accidents,44,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Mbeya,Tanzania Mainland,injury_accidents,29,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Mbeya,Tanzania Mainland,normal_accidents,5,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Mbeya,Tanzania Mainland,deaths,100,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Mbeya,Tanzania Mainland,injuries,206,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Morogoro,Tanzania Mainland,accidents,69,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Morogoro,Tanzania Mainland,fatal_accidents,58,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Morogoro,Tanzania Mainland,injury_accidents,11,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Morogoro,Tanzania Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Morogoro,Tanzania Mainland,deaths,101,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Morogoro,Tanzania Mainland,injuries,95,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Mtwara,Tanzania Mainland,accidents,45,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Mtwara,Tanzania Mainland,fatal_accidents,26,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Mtwara,Tanzania Mainland,injury_accidents,19,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Mtwara,Tanzania Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Mtwara,Tanzania Mainland,deaths,32,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Mtwara,Tanzania Mainland,injuries,78,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Mwanza,Tanzania Mainland,accidents,69,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Mwanza,Tanzania Mainland,fatal_accidents,53,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Mwanza,Tanzania Mainland,injury_accidents,15,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Mwanza,Tanzania Mainland,normal_accidents,1,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Mwanza,Tanzania Mainland,deaths,71,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Mwanza,Tanzania Mainland,injuries,96,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Njombe,Tanzania Mainland,accidents,28,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Njombe,Tanzania Mainland,fatal_accidents,22,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Njombe,Tanzania Mainland,injury_accidents,5,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Njombe,Tanzania Mainland,normal_accidents,1,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Njombe,Tanzania Mainland,deaths,30,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Njombe,Tanzania Mainland,injuries,50,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Pwani,Tanzania Mainland,accidents,44,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Pwani,Tanzania Mainland,fatal_accidents,28,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Pwani,Tanzania Mainland,injury_accidents,15,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Pwani,Tanzania Mainland,normal_accidents,1,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Pwani,Tanzania Mainland,deaths,43,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Pwani,Tanzania Mainland,injuries,72,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Rufiji,Tanzania Mainland,accidents,49,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Rufiji,Tanzania Mainland,fatal_accidents,26,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Rufiji,Tanzania Mainland,injury_accidents,22,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Rufiji,Tanzania Mainland,normal_accidents,1,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Rufiji,Tanzania Mainland,deaths,38,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Rufiji,Tanzania Mainland,injuries,131,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Rukwa,Tanzania Mainland,accidents,31,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Rukwa,Tanzania Mainland,fatal_accidents,24,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Rukwa,Tanzania Mainland,injury_accidents,7,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Rukwa,Tanzania Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Rukwa,Tanzania Mainland,deaths,27,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Rukwa,Tanzania Mainland,injuries,39,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Ruvuma,Tanzania Mainland,accidents,33,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Ruvuma,Tanzania Mainland,fatal_accidents,21,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Ruvuma,Tanzania Mainland,injury_accidents,10,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Ruvuma,Tanzania Mainland,normal_accidents,2,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Ruvuma,Tanzania Mainland,deaths,42,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Ruvuma,Tanzania Mainland,injuries,62,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Shinyanga,Tanzania Mainland,accidents,35,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Shinyanga,Tanzania Mainland,fatal_accidents,20,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Shinyanga,Tanzania Mainland,injury_accidents,9,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Shinyanga,Tanzania Mainland,normal_accidents,6,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Shinyanga,Tanzania Mainland,deaths,35,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Shinyanga,Tanzania Mainland,injuries,49,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Simiyu,Tanzania Mainland,accidents,32,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Simiyu,Tanzania Mainland,fatal_accidents,28,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Simiyu,Tanzania Mainland,injury_accidents,4,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Simiyu,Tanzania Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Simiyu,Tanzania Mainland,deaths,35,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Simiyu,Tanzania Mainland,injuries,23,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Singida,Tanzania Mainland,accidents,55,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Singida,Tanzania Mainland,fatal_accidents,42,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Singida,Tanzania Mainland,injury_accidents,12,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Singida,Tanzania Mainland,normal_accidents,1,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Singida,Tanzania Mainland,deaths,66,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Singida,Tanzania Mainland,injuries,96,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Songwe,Tanzania Mainland,accidents,28,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Songwe,Tanzania Mainland,fatal_accidents,21,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Songwe,Tanzania Mainland,injury_accidents,5,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Songwe,Tanzania Mainland,normal_accidents,2,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Songwe,Tanzania Mainland,deaths,34,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Songwe,Tanzania Mainland,injuries,33,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Tabora,Tanzania Mainland,accidents,30,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Tabora,Tanzania Mainland,fatal_accidents,23,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Tabora,Tanzania Mainland,injury_accidents,5,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Tabora,Tanzania Mainland,normal_accidents,2,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Tabora,Tanzania Mainland,deaths,46,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Tabora,Tanzania Mainland,injuries,53,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Tanga,Tanzania Mainland,accidents,55,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Tanga,Tanzania Mainland,fatal_accidents,42,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Tanga,Tanzania Mainland,injury_accidents,11,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Tanga,Tanzania Mainland,normal_accidents,2,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Tanga,Tanzania Mainland,deaths,66,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Tanga,Tanzania Mainland,injuries,98,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Tarime - Rorya,Tanzania Mainland,accidents,22,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Tarime - Rorya,Tanzania Mainland,fatal_accidents,18,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Tarime - Rorya,Tanzania Mainland,injury_accidents,4,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Tarime - Rorya,Tanzania Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Tarime - Rorya,Tanzania Mainland,deaths,35,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Tarime - Rorya,Tanzania Mainland,injuries,69,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Kaskazini Pemba,Zanzibar,accidents,22,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Kaskazini Pemba,Zanzibar,fatal_accidents,16,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Kaskazini Pemba,Zanzibar,injury_accidents,6,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Kaskazini Pemba,Zanzibar,normal_accidents,0,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Kaskazini Pemba,Zanzibar,deaths,17,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Kaskazini Pemba,Zanzibar,injuries,32,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Kaskazini Unguja,Zanzibar,accidents,60,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Kaskazini Unguja,Zanzibar,fatal_accidents,41,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Kaskazini Unguja,Zanzibar,injury_accidents,19,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Kaskazini Unguja,Zanzibar,normal_accidents,0,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Kaskazini Unguja,Zanzibar,deaths,46,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Kaskazini Unguja,Zanzibar,injuries,107,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Kusini Pemba,Zanzibar,accidents,25,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Kusini Pemba,Zanzibar,fatal_accidents,19,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Kusini Pemba,Zanzibar,injury_accidents,5,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Kusini Pemba,Zanzibar,normal_accidents,1,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Kusini Pemba,Zanzibar,deaths,23,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Kusini Pemba,Zanzibar,injuries,25,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Kusini Unguja,Zanzibar,accidents,33,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Kusini Unguja,Zanzibar,fatal_accidents,25,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Kusini Unguja,Zanzibar,injury_accidents,8,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Kusini Unguja,Zanzibar,normal_accidents,0,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Kusini Unguja,Zanzibar,deaths,36,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Kusini Unguja,Zanzibar,injuries,52,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Mjini Magharibi,Zanzibar,accidents,75,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Mjini Magharibi,Zanzibar,fatal_accidents,64,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Mjini Magharibi,Zanzibar,injury_accidents,10,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Mjini Magharibi,Zanzibar,normal_accidents,1,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Mjini Magharibi,Zanzibar,deaths,72,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2024,Mjini Magharibi,Zanzibar,injuries,52,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.4,53,text
+2025,Arusha,Tanzania Mainland,accidents,33,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Arusha,Tanzania Mainland,fatal_accidents,25,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Arusha,Tanzania Mainland,injury_accidents,8,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Arusha,Tanzania Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Arusha,Tanzania Mainland,deaths,35,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Arusha,Tanzania Mainland,injuries,51,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Ilala,Tanzania Mainland,accidents,35,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Ilala,Tanzania Mainland,fatal_accidents,11,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Ilala,Tanzania Mainland,injury_accidents,24,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Ilala,Tanzania Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Ilala,Tanzania Mainland,deaths,12,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Ilala,Tanzania Mainland,injuries,62,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Temeke,Tanzania Mainland,accidents,52,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Temeke,Tanzania Mainland,fatal_accidents,26,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Temeke,Tanzania Mainland,injury_accidents,22,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Temeke,Tanzania Mainland,normal_accidents,4,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Temeke,Tanzania Mainland,deaths,33,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Temeke,Tanzania Mainland,injuries,62,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Kinondoni,Tanzania Mainland,accidents,146,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Kinondoni,Tanzania Mainland,fatal_accidents,84,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Kinondoni,Tanzania Mainland,injury_accidents,48,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Kinondoni,Tanzania Mainland,normal_accidents,14,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Kinondoni,Tanzania Mainland,deaths,102,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Kinondoni,Tanzania Mainland,injuries,164,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Dodoma,Tanzania Mainland,accidents,59,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Dodoma,Tanzania Mainland,fatal_accidents,59,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Dodoma,Tanzania Mainland,injury_accidents,0,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Dodoma,Tanzania Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Dodoma,Tanzania Mainland,deaths,53,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Dodoma,Tanzania Mainland,injuries,128,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Geita,Tanzania Mainland,accidents,25,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Geita,Tanzania Mainland,fatal_accidents,20,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Geita,Tanzania Mainland,injury_accidents,5,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Geita,Tanzania Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Geita,Tanzania Mainland,deaths,30,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Geita,Tanzania Mainland,injuries,35,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Iringa,Tanzania Mainland,accidents,38,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Iringa,Tanzania Mainland,fatal_accidents,17,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Iringa,Tanzania Mainland,injury_accidents,20,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Iringa,Tanzania Mainland,normal_accidents,1,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Iringa,Tanzania Mainland,deaths,32,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Iringa,Tanzania Mainland,injuries,84,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Kagera,Tanzania Mainland,accidents,33,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Kagera,Tanzania Mainland,fatal_accidents,23,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Kagera,Tanzania Mainland,injury_accidents,10,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Kagera,Tanzania Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Kagera,Tanzania Mainland,deaths,28,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Kagera,Tanzania Mainland,injuries,59,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Katavi,Tanzania Mainland,accidents,13,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Katavi,Tanzania Mainland,fatal_accidents,12,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Katavi,Tanzania Mainland,injury_accidents,1,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Katavi,Tanzania Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Katavi,Tanzania Mainland,deaths,13,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Katavi,Tanzania Mainland,injuries,9,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Kigoma,Tanzania Mainland,accidents,53,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Kigoma,Tanzania Mainland,fatal_accidents,30,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Kigoma,Tanzania Mainland,injury_accidents,21,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Kigoma,Tanzania Mainland,normal_accidents,2,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Kigoma,Tanzania Mainland,deaths,34,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Kigoma,Tanzania Mainland,injuries,94,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Kilimanjaro,Tanzania Mainland,accidents,42,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Kilimanjaro,Tanzania Mainland,fatal_accidents,16,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Kilimanjaro,Tanzania Mainland,injury_accidents,24,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Kilimanjaro,Tanzania Mainland,normal_accidents,2,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Kilimanjaro,Tanzania Mainland,deaths,77,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Kilimanjaro,Tanzania Mainland,injuries,245,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Lindi,Tanzania Mainland,accidents,39,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Lindi,Tanzania Mainland,fatal_accidents,32,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Lindi,Tanzania Mainland,injury_accidents,7,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Lindi,Tanzania Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Lindi,Tanzania Mainland,deaths,41,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Lindi,Tanzania Mainland,injuries,47,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Mara,Tanzania Mainland,accidents,20,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Mara,Tanzania Mainland,fatal_accidents,14,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Mara,Tanzania Mainland,injury_accidents,6,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Mara,Tanzania Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Mara,Tanzania Mainland,deaths,16,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Mara,Tanzania Mainland,injuries,31,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Manyara,Tanzania Mainland,accidents,22,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Manyara,Tanzania Mainland,fatal_accidents,13,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Manyara,Tanzania Mainland,injury_accidents,6,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Manyara,Tanzania Mainland,normal_accidents,3,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Manyara,Tanzania Mainland,deaths,18,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Manyara,Tanzania Mainland,injuries,23,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Mbeya,Tanzania Mainland,accidents,31,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Mbeya,Tanzania Mainland,fatal_accidents,22,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Mbeya,Tanzania Mainland,injury_accidents,7,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Mbeya,Tanzania Mainland,normal_accidents,2,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Mbeya,Tanzania Mainland,deaths,56,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Mbeya,Tanzania Mainland,injuries,78,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Morogoro,Tanzania Mainland,accidents,43,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Morogoro,Tanzania Mainland,fatal_accidents,35,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Morogoro,Tanzania Mainland,injury_accidents,8,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Morogoro,Tanzania Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Morogoro,Tanzania Mainland,deaths,70,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Morogoro,Tanzania Mainland,injuries,137,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Mtwara,Tanzania Mainland,accidents,28,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Mtwara,Tanzania Mainland,fatal_accidents,16,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Mtwara,Tanzania Mainland,injury_accidents,11,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Mtwara,Tanzania Mainland,normal_accidents,1,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Mtwara,Tanzania Mainland,deaths,20,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Mtwara,Tanzania Mainland,injuries,30,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Mwanza,Tanzania Mainland,accidents,31,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Mwanza,Tanzania Mainland,fatal_accidents,21,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Mwanza,Tanzania Mainland,injury_accidents,7,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Mwanza,Tanzania Mainland,normal_accidents,3,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Mwanza,Tanzania Mainland,deaths,34,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Mwanza,Tanzania Mainland,injuries,29,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Njombe,Tanzania Mainland,accidents,15,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Njombe,Tanzania Mainland,fatal_accidents,8,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Njombe,Tanzania Mainland,injury_accidents,2,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Njombe,Tanzania Mainland,normal_accidents,5,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Njombe,Tanzania Mainland,deaths,12,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Njombe,Tanzania Mainland,injuries,10,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Pwani,Tanzania Mainland,accidents,45,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Pwani,Tanzania Mainland,fatal_accidents,21,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Pwani,Tanzania Mainland,injury_accidents,23,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Pwani,Tanzania Mainland,normal_accidents,1,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Pwani,Tanzania Mainland,deaths,28,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Pwani,Tanzania Mainland,injuries,71,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Rufiji,Tanzania Mainland,accidents,38,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Rufiji,Tanzania Mainland,fatal_accidents,20,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Rufiji,Tanzania Mainland,injury_accidents,18,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Rufiji,Tanzania Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Rufiji,Tanzania Mainland,deaths,26,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Rufiji,Tanzania Mainland,injuries,124,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Rukwa,Tanzania Mainland,accidents,11,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Rukwa,Tanzania Mainland,fatal_accidents,7,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Rukwa,Tanzania Mainland,injury_accidents,2,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Rukwa,Tanzania Mainland,normal_accidents,2,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Rukwa,Tanzania Mainland,deaths,14,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Rukwa,Tanzania Mainland,injuries,23,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Ruvuma,Tanzania Mainland,accidents,31,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Ruvuma,Tanzania Mainland,fatal_accidents,20,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Ruvuma,Tanzania Mainland,injury_accidents,9,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Ruvuma,Tanzania Mainland,normal_accidents,2,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Ruvuma,Tanzania Mainland,deaths,31,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Ruvuma,Tanzania Mainland,injuries,37,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Shinyanga,Tanzania Mainland,accidents,9,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Shinyanga,Tanzania Mainland,fatal_accidents,7,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Shinyanga,Tanzania Mainland,injury_accidents,2,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Shinyanga,Tanzania Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Shinyanga,Tanzania Mainland,deaths,12,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Shinyanga,Tanzania Mainland,injuries,13,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Simiyu,Tanzania Mainland,accidents,47,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Simiyu,Tanzania Mainland,fatal_accidents,38,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Simiyu,Tanzania Mainland,injury_accidents,6,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Simiyu,Tanzania Mainland,normal_accidents,3,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Simiyu,Tanzania Mainland,deaths,44,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Simiyu,Tanzania Mainland,injuries,43,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Singida,Tanzania Mainland,accidents,59,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Singida,Tanzania Mainland,fatal_accidents,38,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Singida,Tanzania Mainland,injury_accidents,18,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Singida,Tanzania Mainland,normal_accidents,3,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Singida,Tanzania Mainland,deaths,45,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Singida,Tanzania Mainland,injuries,113,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Songwe,Tanzania Mainland,accidents,22,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Songwe,Tanzania Mainland,fatal_accidents,21,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Songwe,Tanzania Mainland,injury_accidents,1,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Songwe,Tanzania Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Songwe,Tanzania Mainland,deaths,38,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Songwe,Tanzania Mainland,injuries,37,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Tabora,Tanzania Mainland,accidents,18,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Tabora,Tanzania Mainland,fatal_accidents,12,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Tabora,Tanzania Mainland,injury_accidents,6,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Tabora,Tanzania Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Tabora,Tanzania Mainland,deaths,20,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Tabora,Tanzania Mainland,injuries,59,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Tanga,Tanzania Mainland,accidents,29,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Tanga,Tanzania Mainland,fatal_accidents,24,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Tanga,Tanzania Mainland,injury_accidents,5,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Tanga,Tanzania Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Tanga,Tanzania Mainland,deaths,41,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Tanga,Tanzania Mainland,injuries,83,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Tarime - Rorya,Tanzania Mainland,accidents,20,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Tarime - Rorya,Tanzania Mainland,fatal_accidents,15,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Tarime - Rorya,Tanzania Mainland,injury_accidents,5,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Tarime - Rorya,Tanzania Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Tarime - Rorya,Tanzania Mainland,deaths,27,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Tarime - Rorya,Tanzania Mainland,injuries,51,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Airports,Tanzania Mainland,accidents,0,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Airports,Tanzania Mainland,fatal_accidents,0,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Airports,Tanzania Mainland,injury_accidents,0,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Airports,Tanzania Mainland,normal_accidents,0,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Airports,Tanzania Mainland,deaths,0,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Airports,Tanzania Mainland,injuries,4,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Kaskazini Pemba,Zanzibar,accidents,24,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Kaskazini Pemba,Zanzibar,fatal_accidents,16,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Kaskazini Pemba,Zanzibar,injury_accidents,8,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Kaskazini Pemba,Zanzibar,normal_accidents,0,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Kaskazini Pemba,Zanzibar,deaths,20,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Kaskazini Pemba,Zanzibar,injuries,47,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Kaskazini Unguja,Zanzibar,accidents,73,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Kaskazini Unguja,Zanzibar,fatal_accidents,42,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Kaskazini Unguja,Zanzibar,injury_accidents,31,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Kaskazini Unguja,Zanzibar,normal_accidents,0,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Kaskazini Unguja,Zanzibar,deaths,47,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Kaskazini Unguja,Zanzibar,injuries,101,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Kusini Pemba,Zanzibar,accidents,28,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Kusini Pemba,Zanzibar,fatal_accidents,27,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Kusini Pemba,Zanzibar,injury_accidents,1,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Kusini Pemba,Zanzibar,normal_accidents,0,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Kusini Pemba,Zanzibar,deaths,31,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Kusini Pemba,Zanzibar,injuries,23,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Kusini Unguja,Zanzibar,accidents,55,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Kusini Unguja,Zanzibar,fatal_accidents,46,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Kusini Unguja,Zanzibar,injury_accidents,7,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Kusini Unguja,Zanzibar,normal_accidents,2,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Kusini Unguja,Zanzibar,deaths,51,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Kusini Unguja,Zanzibar,injuries,52,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Mjini Magharibi,Zanzibar,accidents,80,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Mjini Magharibi,Zanzibar,fatal_accidents,73,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Mjini Magharibi,Zanzibar,injury_accidents,5,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Mjini Magharibi,Zanzibar,normal_accidents,2,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Mjini Magharibi,Zanzibar,deaths,84,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
+2025,Mjini Magharibi,Zanzibar,injuries,36,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.4,57,text
