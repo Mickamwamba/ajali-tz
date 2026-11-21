@@ -22,3 +22,7 @@ docs/                Scope, plan, schemas, methodology notes
 ```
 uv sync
 ```
+
+## Licence
+
+Code: MIT (`LICENSE`). Compiled data: CC BY 4.0, with third-party sources keeping their own terms (`data/LICENSE.md`).
