@@ -28,7 +28,7 @@ Done when: one CSV of national and regional deaths, injuries and crashes by year
 Done when: 90% of fields are correct in a hand check of 50 random records.
 - [x] 2a. Check which outlets can be collected (`pipeline/news/SOURCES.md`): Citizen + Mwananchi by RSS, Daily News + HabariLeo + Chanzo by WordPress search; IPP blocked; Millard Ayo down; GDELT rate-limited
 - [x] 2a+. Collector (`pipeline/news/collect.py`): keyword pre-filter, retries, dedup by URL → `data/news/candidates.jsonl` (local, not committed). 12-month backfill of the 3 WordPress sites: 166 candidates
-- [ ] 2b. Filter: a cheap AI call answers "is this a specific road crash in Tanzania?"
+- [x] 2b. Filter (`pipeline/news/filter.py`, Claude Haiku 5.5): 166 backfill candidates → 35 relevant, 131 rejected; hand review found no wrong accepts and no clear misses. Cost $0.13 per 1,000 articles
 - [ ] 2c. Extract: AI returns the crash record as JSON (English and Swahili)
 - [ ] 2d. Geocode: match place names against a region/district gazetteer
 - [ ] 2e. Deduplicate: same date ±2 days, same region, same vehicle types
