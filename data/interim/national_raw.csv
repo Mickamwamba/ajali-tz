@@ -1,0 +1,245 @@
+year,area,metric,value,source,source_doc,source_table,source_page
+2016,Tanzania,accidents,10297,police_nbs,nbs-statistical-abstract-2022.pdf,Table 16.2,180
+2016,Tanzania,fatal_accidents,2840,police_nbs,nbs-statistical-abstract-2022.pdf,Table 16.2,180
+2016,Tanzania,deaths,3381,police_nbs,nbs-statistical-abstract-2022.pdf,Table 16.2,180
+2016,Tanzania,injuries,9549,police_nbs,nbs-statistical-abstract-2022.pdf,Table 16.2,180
+2017,Tanzania,accidents,6022,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 29,59
+2017,Tanzania,accidents,6022,police_nbs,nbs-statistical-abstract-2022.pdf,Table 16.2,180
+2017,Tanzania,fatal_accidents,2254,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 29,59
+2017,Tanzania,fatal_accidents,2254,police_nbs,nbs-statistical-abstract-2022.pdf,Table 16.2,180
+2017,Tanzania,injury_accidents,2348,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 29,59
+2017,Tanzania,normal_accidents,1420,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 29,59
+2017,Tanzania,deaths,2705,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 29,59
+2017,Tanzania,deaths,2705,police_nbs,nbs-statistical-abstract-2022.pdf,Table 16.2,180
+2017,Tanzania,injuries,6169,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 29,59
+2017,Tanzania,injuries,6169,police_nbs,nbs-statistical-abstract-2022.pdf,Table 16.2,180
+2017,Tanzania Mainland,accidents,5578,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 30,60
+2017,Tanzania Mainland,fatal_accidents,2146,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 30,60
+2017,Tanzania Mainland,injury_accidents,2086,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 30,60
+2017,Tanzania Mainland,normal_accidents,1346,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 30,60
+2017,Tanzania Mainland,deaths,2581,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 30,60
+2017,Tanzania Mainland,injuries,5489,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 30,60
+2017,Zanzibar,accidents,444,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 31,60
+2017,Zanzibar,fatal_accidents,108,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 31,60
+2017,Zanzibar,injury_accidents,264,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 31,60
+2017,Zanzibar,normal_accidents,74,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 31,60
+2017,Zanzibar,deaths,124,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 31,60
+2017,Zanzibar,injuries,542,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 31,60
+2018,Tanzania,accidents,3988,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 29,59
+2018,Tanzania,accidents,3988,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 29,62
+2018,Tanzania,accidents,3988,police_nbs,nbs-statistical-abstract-2022.pdf,Table 16.2,180
+2018,Tanzania,fatal_accidents,1449,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 29,59
+2018,Tanzania,fatal_accidents,1449,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 29,62
+2018,Tanzania,fatal_accidents,1449,police_nbs,nbs-statistical-abstract-2022.pdf,Table 16.2,180
+2018,Tanzania,injury_accidents,1541,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 29,59
+2018,Tanzania,injury_accidents,1541,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 29,62
+2018,Tanzania,normal_accidents,996,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 29,59
+2018,Tanzania,normal_accidents,996,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 29,62
+2018,Tanzania,deaths,1912,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 29,59
+2018,Tanzania,deaths,1912,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 29,62
+2018,Tanzania,deaths,1912,police_nbs,nbs-statistical-abstract-2022.pdf,Table 16.2,180
+2018,Tanzania,injuries,4194,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 29,59
+2018,Tanzania,injuries,4194,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 29,62
+2018,Tanzania,injuries,4194,police_nbs,nbs-statistical-abstract-2022.pdf,Table 16.2,180
+2018,Tanzania Mainland,accidents,3732,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 30,60
+2018,Tanzania Mainland,accidents,3732,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 30,63
+2018,Tanzania Mainland,fatal_accidents,1340,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 30,60
+2018,Tanzania Mainland,fatal_accidents,1340,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 30,63
+2018,Tanzania Mainland,injury_accidents,1421,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 30,60
+2018,Tanzania Mainland,injury_accidents,1421,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 30,63
+2018,Tanzania Mainland,normal_accidents,971,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 30,60
+2018,Tanzania Mainland,normal_accidents,971,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 30,63
+2018,Tanzania Mainland,deaths,1788,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 30,60
+2018,Tanzania Mainland,deaths,1788,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 30,63
+2018,Tanzania Mainland,injuries,3746,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 30,60
+2018,Tanzania Mainland,injuries,3746,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 30,63
+2018,Zanzibar,accidents,256,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 31,60
+2018,Zanzibar,accidents,256,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 31,64
+2018,Zanzibar,fatal_accidents,109,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 31,60
+2018,Zanzibar,fatal_accidents,109,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 31,64
+2018,Zanzibar,injury_accidents,120,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 31,60
+2018,Zanzibar,injury_accidents,120,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 31,64
+2018,Zanzibar,normal_accidents,25,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 31,60
+2018,Zanzibar,normal_accidents,25,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 31,64
+2018,Zanzibar,deaths,124,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 31,60
+2018,Zanzibar,deaths,124,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 31,64
+2018,Zanzibar,injuries,448,police_nbs,nbs-crime-traffic-2018.pdf,Jedwali 31,60
+2018,Zanzibar,injuries,448,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 31,64
+2019,Tanzania,accidents,2924,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 29,62
+2019,Tanzania,accidents,2924,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.2,64
+2019,Tanzania,accidents,2924,police_nbs,nbs-statistical-abstract-2022.pdf,Table 16.2,180
+2019,Tanzania,fatal_accidents,1208,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 29,62
+2019,Tanzania,fatal_accidents,1208,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.2,64
+2019,Tanzania,fatal_accidents,1208,police_nbs,nbs-statistical-abstract-2022.pdf,Table 16.2,180
+2019,Tanzania,injury_accidents,1026,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 29,62
+2019,Tanzania,injury_accidents,1026,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.2,64
+2019,Tanzania,normal_accidents,690,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 29,62
+2019,Tanzania,normal_accidents,690,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.2,64
+2019,Tanzania,deaths,1536,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 29,62
+2019,Tanzania,deaths,1536,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.2,64
+2019,Tanzania,deaths,1536,police_nbs,nbs-statistical-abstract-2022.pdf,Table 16.2,180
+2019,Tanzania,injuries,3123,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 29,62
+2019,Tanzania,injuries,3123,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.2,64
+2019,Tanzania,injuries,3123,police_nbs,nbs-statistical-abstract-2022.pdf,Table 16.2,180
+2019,Tanzania Mainland,accidents,2704,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 30,63
+2019,Tanzania Mainland,accidents,2704,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.3,65
+2019,Tanzania Mainland,fatal_accidents,1122,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 30,63
+2019,Tanzania Mainland,fatal_accidents,1122,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.3,65
+2019,Tanzania Mainland,injury_accidents,918,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 30,63
+2019,Tanzania Mainland,injury_accidents,918,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.3,65
+2019,Tanzania Mainland,normal_accidents,664,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 30,63
+2019,Tanzania Mainland,normal_accidents,664,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.3,65
+2019,Tanzania Mainland,deaths,1432,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 30,63
+2019,Tanzania Mainland,deaths,1432,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.3,65
+2019,Tanzania Mainland,injuries,2833,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 30,63
+2019,Tanzania Mainland,injuries,2833,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.3,65
+2019,Zanzibar,accidents,220,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 31,64
+2019,Zanzibar,accidents,220,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.4,65
+2019,Zanzibar,fatal_accidents,86,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 31,64
+2019,Zanzibar,fatal_accidents,86,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.4,65
+2019,Zanzibar,injury_accidents,108,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 31,64
+2019,Zanzibar,injury_accidents,108,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.4,65
+2019,Zanzibar,normal_accidents,26,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 31,64
+2019,Zanzibar,normal_accidents,26,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.4,65
+2019,Zanzibar,deaths,104,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 31,64
+2019,Zanzibar,deaths,104,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.4,65
+2019,Zanzibar,injuries,290,police_nbs,nbs-crime-traffic-2019.pdf,Jedwali 31,64
+2019,Zanzibar,injuries,290,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.4,65
+2020,Tanzania,accidents,1933,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.2,64
+2020,Tanzania,accidents,1933,police_nbs,nbs-statistical-abstract-2022.pdf,Table 16.2,180
+2020,Tanzania,fatal_accidents,1031,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.2,64
+2020,Tanzania,fatal_accidents,1031,police_nbs,nbs-statistical-abstract-2022.pdf,Table 16.2,180
+2020,Tanzania,injury_accidents,646,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.2,64
+2020,Tanzania,normal_accidents,256,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.2,64
+2020,Tanzania,deaths,1384,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.2,64
+2020,Tanzania,deaths,1384,police_nbs,nbs-statistical-abstract-2022.pdf,Table 16.2,180
+2020,Tanzania,injuries,2362,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.2,64
+2020,Tanzania,injuries,2362,police_nbs,nbs-statistical-abstract-2022.pdf,Table 16.2,180
+2020,Tanzania Mainland,accidents,1714,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.3,65
+2020,Tanzania Mainland,fatal_accidents,915,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.3,65
+2020,Tanzania Mainland,injury_accidents,564,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.3,65
+2020,Tanzania Mainland,normal_accidents,235,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.3,65
+2020,Tanzania Mainland,deaths,1260,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.3,65
+2020,Tanzania Mainland,injuries,2070,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.3,65
+2020,Zanzibar,accidents,219,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.4,65
+2020,Zanzibar,fatal_accidents,116,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.4,65
+2020,Zanzibar,injury_accidents,82,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.4,65
+2020,Zanzibar,normal_accidents,21,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.4,65
+2020,Zanzibar,deaths,124,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.4,65
+2020,Zanzibar,injuries,292,police_nbs,nbs-crime-traffic-2020.pdf,Jedwali 3.4,65
+2021,Tanzania,accidents,1864,police_nbs,nbs-statistical-abstract-2022.pdf,Table 16.2,180
+2021,Tanzania,fatal_accidents,1038,police_nbs,nbs-statistical-abstract-2022.pdf,Table 16.2,180
+2021,Tanzania,deaths,1368,police_nbs,nbs-statistical-abstract-2022.pdf,Table 16.2,180
+2021,Tanzania,injuries,2452,police_nbs,nbs-statistical-abstract-2022.pdf,Table 16.2,180
+2022,Tanzania,accidents,1720,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.1,44
+2022,Tanzania,accidents,1720,police_nbs,nbs-statistical-abstract-2022.pdf,Table 16.2,180
+2022,Tanzania,fatal_accidents,1064,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.1,44
+2022,Tanzania,fatal_accidents,1064,police_nbs,nbs-statistical-abstract-2022.pdf,Table 16.2,180
+2022,Tanzania,injury_accidents,470,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.1,44
+2022,Tanzania,normal_accidents,186,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.1,44
+2022,Tanzania,deaths,1545,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.1,44
+2022,Tanzania,deaths,1545,police_nbs,nbs-statistical-abstract-2022.pdf,Table 16.2,180
+2022,Tanzania,injuries,2278,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.1,44
+2022,Tanzania,injuries,2278,police_nbs,nbs-statistical-abstract-2022.pdf,Table 16.2,180
+2022,Tanzania Mainland,accidents,1554,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.2,44
+2022,Tanzania Mainland,fatal_accidents,944,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.2,44
+2022,Tanzania Mainland,injury_accidents,426,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.2,44
+2022,Tanzania Mainland,normal_accidents,184,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.2,44
+2022,Tanzania Mainland,deaths,1408,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.2,44
+2022,Tanzania Mainland,injuries,2103,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.2,44
+2022,Zanzibar,accidents,166,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.3,45
+2022,Zanzibar,fatal_accidents,120,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.3,45
+2022,Zanzibar,injury_accidents,44,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.3,45
+2022,Zanzibar,normal_accidents,2,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.3,45
+2022,Zanzibar,deaths,137,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.3,45
+2022,Zanzibar,injuries,175,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.3,45
+2023,Tanzania,accidents,1733,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.1,44
+2023,Tanzania,accidents,1733,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.1,50
+2023,Tanzania,fatal_accidents,1118,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.1,44
+2023,Tanzania,fatal_accidents,1118,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.1,50
+2023,Tanzania,injury_accidents,471,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.1,44
+2023,Tanzania,injury_accidents,471,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.1,50
+2023,Tanzania,normal_accidents,146,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.1,44
+2023,Tanzania,normal_accidents,146,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.1,50
+2023,Tanzania,deaths,1647,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.1,44
+2023,Tanzania,deaths,1647,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.1,50
+2023,Tanzania,injuries,2716,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.1,44
+2023,Tanzania,injuries,2716,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.1,50
+2023,Tanzania Mainland,accidents,1541,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.2,44
+2023,Tanzania Mainland,accidents,1541,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.2,50
+2023,Tanzania Mainland,fatal_accidents,987,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.2,44
+2023,Tanzania Mainland,fatal_accidents,987,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.2,50
+2023,Tanzania Mainland,injury_accidents,418,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.2,44
+2023,Tanzania Mainland,injury_accidents,418,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.2,50
+2023,Tanzania Mainland,normal_accidents,136,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.2,44
+2023,Tanzania Mainland,normal_accidents,136,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.2,50
+2023,Tanzania Mainland,deaths,1487,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.2,44
+2023,Tanzania Mainland,deaths,1487,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.2,50
+2023,Tanzania Mainland,injuries,2512,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.2,44
+2023,Tanzania Mainland,injuries,2512,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.2,50
+2023,Zanzibar,accidents,192,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.3,45
+2023,Zanzibar,accidents,192,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.3,51
+2023,Zanzibar,fatal_accidents,131,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.3,45
+2023,Zanzibar,fatal_accidents,131,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.3,51
+2023,Zanzibar,injury_accidents,53,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.3,45
+2023,Zanzibar,injury_accidents,53,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.3,51
+2023,Zanzibar,normal_accidents,10,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.3,45
+2023,Zanzibar,normal_accidents,10,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.3,51
+2023,Zanzibar,deaths,160,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.3,45
+2023,Zanzibar,deaths,160,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.3,51
+2023,Zanzibar,injuries,204,police_nbs,nbs-crime-traffic-2023.pdf,Table 3.3,45
+2023,Zanzibar,injuries,204,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.3,51
+2024,Tanzania,accidents,1735,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.1,50
+2024,Tanzania,accidents,1735,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.1,54
+2024,Tanzania,fatal_accidents,1170,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.1,50
+2024,Tanzania,fatal_accidents,1170,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.1,54
+2024,Tanzania,injury_accidents,509,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.1,50
+2024,Tanzania,injury_accidents,509,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.1,54
+2024,Tanzania,normal_accidents,56,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.1,50
+2024,Tanzania,normal_accidents,56,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.1,54
+2024,Tanzania,deaths,1715,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.1,50
+2024,Tanzania,deaths,1715,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.1,54
+2024,Tanzania,injuries,2719,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.1,50
+2024,Tanzania,injuries,2719,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.1,54
+2024,Tanzania Mainland,accidents,1520,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.2,50
+2024,Tanzania Mainland,accidents,1520,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.2,55
+2024,Tanzania Mainland,fatal_accidents,1005,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.2,50
+2024,Tanzania Mainland,fatal_accidents,1005,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.2,55
+2024,Tanzania Mainland,injury_accidents,461,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.2,50
+2024,Tanzania Mainland,injury_accidents,461,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.2,55
+2024,Tanzania Mainland,normal_accidents,54,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.2,50
+2024,Tanzania Mainland,normal_accidents,54,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.2,55
+2024,Tanzania Mainland,deaths,1521,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.2,50
+2024,Tanzania Mainland,deaths,1521,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.2,55
+2024,Tanzania Mainland,injuries,2451,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.2,50
+2024,Tanzania Mainland,injuries,2451,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.2,55
+2024,Zanzibar,accidents,215,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.3,51
+2024,Zanzibar,accidents,215,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.3,55
+2024,Zanzibar,fatal_accidents,165,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.3,51
+2024,Zanzibar,fatal_accidents,165,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.3,55
+2024,Zanzibar,injury_accidents,48,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.3,51
+2024,Zanzibar,injury_accidents,48,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.3,55
+2024,Zanzibar,normal_accidents,2,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.3,51
+2024,Zanzibar,normal_accidents,2,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.3,55
+2024,Zanzibar,deaths,194,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.3,51
+2024,Zanzibar,deaths,194,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.3,55
+2024,Zanzibar,injuries,268,police_nbs,nbs-crime-traffic-2024.pdf,Table 3.3,51
+2024,Zanzibar,injuries,268,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.3,55
+2025,Tanzania,accidents,1347,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.1,54
+2025,Tanzania,fatal_accidents,911,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.1,54
+2025,Tanzania,injury_accidents,384,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.1,54
+2025,Tanzania,normal_accidents,52,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.1,54
+2025,Tanzania,deaths,1275,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.1,54
+2025,Tanzania,injuries,2295,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.1,54
+2025,Tanzania Mainland,accidents,1087,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.2,55
+2025,Tanzania Mainland,fatal_accidents,707,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.2,55
+2025,Tanzania Mainland,injury_accidents,332,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.2,55
+2025,Tanzania Mainland,normal_accidents,48,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.2,55
+2025,Tanzania Mainland,deaths,1042,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.2,55
+2025,Tanzania Mainland,injuries,2031,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.2,55
+2025,Zanzibar,accidents,260,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.3,55
+2025,Zanzibar,fatal_accidents,204,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.3,55
+2025,Zanzibar,injury_accidents,52,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.3,55
+2025,Zanzibar,normal_accidents,4,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.3,55
+2025,Zanzibar,deaths,233,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.3,55
+2025,Zanzibar,injuries,264,police_nbs,nbs-crime-traffic-2025.pdf,Table 3.3,55

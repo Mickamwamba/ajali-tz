@@ -21,7 +21,10 @@ Base URL: `https://www.nbs.go.tz/uploads/statistics/documents/`
 - **2021 and 2022 annual police reports are not on the NBS site.** National totals for both years come
   from Statistical Abstract 2022, Table 16.2 (source: Tanzania Police Force). Regional figures:
   2022 probably appears as the comparison year in the 2023 report; **2021 regional figures are missing**.
-- The Statistical Abstract figures are labelled Tanzania Police Force, but check whether they include Zanzibar.
+- The Statistical Abstract figures **include Zanzibar**: for 2018–2020 and 2022 they match the reports'
+  Tanzania (Mainland + Zanzibar) totals exactly.
+- Small inconsistencies printed in the reports themselves: Zanzibar accident types don't add up to the
+  printed total in 2018 (254 vs 256) and 2023 (194 vs 192), which carries into the Tanzania totals.
 - A news summary of the NBS 2022 economic survey gives 1,732 accidents in 2022 and 1,876 in 2021, which
   differs slightly from Table 16.2 (1,720 and 1,864). Prefer Table 16.2 and note the difference.
 
