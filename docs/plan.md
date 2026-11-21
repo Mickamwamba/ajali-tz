@@ -47,7 +47,7 @@ Done when: the overview page loads in under 3 seconds on 3G.
 - [x] 3e. About the data page (`site/src/about.md`): three sources and what each misses, how official figures were prepared, known report problems, news method + accuracy + privacy, 3 CSV downloads, suggested citation, build date
 - [x] 3f. Share buttons (`site/src/components/share.js`) on all 4 charts: PNG with title, source line and site name, in the reader's theme; phone share sheet or download
 - [x] 3g. GitHub Pages deploy (`.github/workflows/site.yml`): builds on site/data changes and after each successful news pipeline run → https://mickamwamba.github.io/ajali-tz/
-- [ ] 3h. Speed check: overview under 3 seconds on 3G
+- [~] 3h. Speed check: skipped by decision (2026-11-21). Known: each page loads ~600 KB of charting code; revisit if readers on slow connections report problems
 
 ## Phase 4 — Soft launch (weeks 6–7)
 - [ ] 3–5 journalists and NGOs test it; fix what confuses them
