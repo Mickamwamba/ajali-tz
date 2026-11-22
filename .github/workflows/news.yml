@@ -1,6 +1,8 @@
 # Step 2g: collect and process news reports of road crashes every 3 hours.
 # collect -> filter (AI) -> extract (AI) -> geocode -> dedupe -> publish, then commit the results.
 # A run that fetches zero articles fails, and GitHub emails the repository owner (scope: "alert on zero articles").
+# The last step also fails if any one source has not worked for 24 hours (e.g. an outlet moved its feed);
+# it runs after the results are saved, so one broken outlet never blocks the others.
 # Needs the repository secret ANTHROPIC_API_KEY.
 name: News pipeline
 
@@ -61,3 +63,6 @@ jobs:
             git pull --rebase
             git push
           fi
+
+      - name: Check every source worked in the last 24 hours
+        run: uv run python pipeline/news/collect.py --check-health

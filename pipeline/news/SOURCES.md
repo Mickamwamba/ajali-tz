@@ -6,7 +6,7 @@ robots.txt allows every feed and API path listed as usable.
 | Outlet | Language | Method | What it gives | Window | Use |
 | --- | --- | --- | --- | --- | --- |
 | The Citizen | English | RSS `https://www.thecitizen.co.tz/rss.xml` | Latest 40 articles, all sections | ~28 hours | ✅ Collect every 3 hours |
-| Mwananchi | Swahili | RSS `https://www.mwananchi.co.tz/rss.xml` | Latest 25 articles | ~11 hours | ✅ Collect every 3 hours |
+| Mwananchi | Swahili | News sitemap `https://www.mwananchi.co.tz/sitemap.xml` (its RSS feed returned 404 from 2026-11-22) | Latest 25 articles with title, date, image caption | ~10 hours | ✅ Collect every 3 hours |
 | Daily News | English | WordPress search API `https://dailynews.co.tz/wp-json/wp/v2/posts?search=…` | Every matching article, paged, with dates | Years | ✅ Daily search + backfill |
 | HabariLeo | Swahili | WordPress search API `https://habarileo.co.tz/wp-json/wp/v2/posts?search=…` | Every matching article | Years | ✅ Daily search + backfill |
 | The Chanzo | English | WordPress search API `https://thechanzo.com/wp-json/wp/v2/posts?search=…` | Every matching article | Years | ✅ Daily search + backfill |
@@ -31,3 +31,8 @@ robots.txt allows every feed and API path listed as usable.
 
 English sites: `accident`, `crash`, `collision`. Swahili sites: `ajali`.
 Search matches broadly (e.g. "accident" finds hospital emergency plans), which the AI filter handles.
+
+## Source health
+
+Every collection run records when each source last worked in `data/news/source_health.json`. The GitHub job's
+last step fails, and GitHub emails the repository owner, if any source has not worked for 24 hours.

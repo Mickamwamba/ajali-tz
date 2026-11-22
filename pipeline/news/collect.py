@@ -4,9 +4,12 @@ Fetches each source, keeps articles whose headline or summary matches a road-cra
 new ones to data/news/candidates.jsonl (a local work queue, not committed: it holds publishers' headlines
 and summaries). Already-seen URLs are skipped, so it is safe to run as often as you like.
 
+Each run also records, per source, when it last worked (data/news/source_health.json).
+
 Usage:
   uv run python pipeline/news/collect.py                  # normal run (WordPress sites: last 3 days)
   uv run python pipeline/news/collect.py --since-days 365 # backfill WordPress sites for a year
+  uv run python pipeline/news/collect.py --check-health   # exit 1 if a source has not worked for 24 hours
 """
 
 import argparse
@@ -25,13 +28,17 @@ import requests
 
 ROOT = Path(__file__).resolve().parents[2]
 QUEUE = ROOT / "data" / "news" / "candidates.jsonl"
+HEALTH = ROOT / "data" / "news" / "source_health.json"
+STALE_HOURS = 24
 UA = {"User-Agent": "ajali-tz-research/0.1 (road safety data project)"}
 TIMEOUT = 30
 PAUSE = 1.0  # seconds between requests to the same site
 
 SOURCES = [
     {"outlet": "The Citizen", "lang": "en", "kind": "rss", "url": "https://www.thecitizen.co.tz/rss.xml"},
-    {"outlet": "Mwananchi", "lang": "sw", "kind": "rss", "url": "https://www.mwananchi.co.tz/rss.xml"},
+    # Mwananchi's RSS feed (/rss.xml) started returning 404 on 2026-11-22; its news sitemap lists the
+    # latest ~25 articles with title, date and an image caption.
+    {"outlet": "Mwananchi", "lang": "sw", "kind": "sitemap", "url": "https://www.mwananchi.co.tz/sitemap.xml"},
     {"outlet": "Daily News", "lang": "en", "kind": "wp", "url": "https://dailynews.co.tz", "terms": ["accident", "crash", "collision"]},
     {"outlet": "HabariLeo", "lang": "sw", "kind": "wp", "url": "https://habarileo.co.tz", "terms": ["ajali"]},
     {"outlet": "The Chanzo", "lang": "en", "kind": "wp", "url": "https://thechanzo.com", "terms": ["accident", "crash", "collision"]},
@@ -96,6 +103,27 @@ def from_rss(src: dict) -> list[dict]:
     return out
 
 
+def from_sitemap(src: dict) -> list[dict]:
+    """A Google News sitemap: <url><loc/><news:news><news:publication_date/><news:title/></news:news>
+    <image:image><image:caption/></image:image></url>. The image caption stands in for a summary."""
+    r = fetch(src["url"])
+    r.raise_for_status()
+    out = []
+    for block in re.findall(r"<url>(.*?)</url>", r.text, re.S):
+        def tag(name: str) -> str:
+            m = re.search(rf"<{name}>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?</{name}>", block, re.S)
+            return m.group(1).strip() if m else ""
+        loc, title = tag("loc"), tag("news:title")
+        if not loc or not title:
+            continue
+        date = tag("news:publication_date") or tag("lastmod")
+        out.append({"url": loc, "title": clean(title, 300), "excerpt": clean(tag("image:caption")),
+                    "published_at": date.replace("Z", "+00:00") or None})
+    if not out:
+        raise ValueError("sitemap had no news entries")
+    return out
+
+
 def from_wordpress(src: dict, since: datetime) -> list[dict]:
     out = []
     for term in src["terms"]:
@@ -124,24 +152,52 @@ def load_seen() -> set[str]:
         return {json.loads(line)["id"] for line in f if line.strip()}
 
 
+def load_health() -> dict:
+    return json.loads(HEALTH.read_text()) if HEALTH.exists() else {}
+
+
+def check_health() -> int:
+    """Fail (so GitHub emails the owner) when any source has not worked for STALE_HOURS."""
+    health, now, stale = load_health(), datetime.now(timezone.utc), []
+    for src in SOURCES:
+        h = health.get(src["outlet"], {})
+        last_ok = datetime.fromisoformat(h["last_ok"]) if h.get("last_ok") else None
+        hours = (now - last_ok).total_seconds() / 3600 if last_ok else None
+        state = "never worked" if last_ok is None else f"last worked {hours:.0f} h ago"
+        print(f"{src['outlet']:12} {state}" + (f" | last error: {h.get('last_error')}" if h.get("last_error") else ""))
+        if last_ok is None or hours > STALE_HOURS:
+            stale.append(src["outlet"])
+    if stale:
+        print(f"ALERT: not working for over {STALE_HOURS} hours: {', '.join(stale)}. Its website may have changed.")
+        return 1
+    return 0
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--since-days", type=int, default=3, help="how far back to search the WordPress sites")
+    ap.add_argument("--check-health", action="store_true", help="only check that every source worked recently")
     args = ap.parse_args()
+    if args.check_health:
+        return check_health()
     since = datetime.now(timezone.utc) - timedelta(days=args.since_days)
     now = datetime.now(timezone.utc).isoformat(timespec="seconds")
 
     QUEUE.parent.mkdir(parents=True, exist_ok=True)
     seen = load_seen()
+    health = load_health()
     new_rows, failures, fetched_total = [], 0, 0
     print(f"{'source':12} {'fetched':>7} {'matched':>7} {'new':>5}")
     for src in SOURCES:
         try:
-            items = from_rss(src) if src["kind"] == "rss" else from_wordpress(src, since)
+            items = {"rss": lambda: from_rss(src), "sitemap": lambda: from_sitemap(src),
+                     "wp": lambda: from_wordpress(src, since)}[src["kind"]]()
         except (requests.RequestException, ValueError) as e:
             print(f"{src['outlet']:12} FAILED: {type(e).__name__}: {str(e)[:100]}")
             failures += 1
+            health.setdefault(src["outlet"], {}).update(last_error=f"{now}: {type(e).__name__}: {str(e)[:120]}")
             continue
+        health[src["outlet"]] = {"last_ok": now, "method": src["kind"], "url": src["url"], "items": len(items)}
         matched = new = 0
         fetched_total += len(items)
         batch_ids = set()
@@ -165,6 +221,7 @@ def main() -> int:
     with QUEUE.open("a") as f:
         for row in new_rows:
             f.write(json.dumps(row, ensure_ascii=False) + "\n")
+    HEALTH.write_text(json.dumps(health, indent=1, sort_keys=True))
     print(f"\n{len(new_rows)} new candidates -> {QUEUE.relative_to(ROOT)} ({len(seen)} total)")
     if failures:
         print(f"{failures} source(s) failed")
