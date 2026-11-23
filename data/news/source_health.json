@@ -1,31 +1,31 @@
 {
  "Daily News": {
   "items": 1,
-  "last_ok": "2026-11-23T01:41:58+00:00",
+  "last_ok": "2026-11-23T12:35:12+00:00",
   "method": "wp",
   "url": "https://dailynews.co.tz"
  },
  "HabariLeo": {
   "items": 1,
-  "last_ok": "2026-11-23T01:41:58+00:00",
+  "last_ok": "2026-11-23T12:35:12+00:00",
   "method": "wp",
   "url": "https://habarileo.co.tz"
  },
  "Mwananchi": {
   "items": 25,
-  "last_ok": "2026-11-23T01:41:58+00:00",
+  "last_ok": "2026-11-23T12:35:12+00:00",
   "method": "sitemap",
   "url": "https://www.mwananchi.co.tz/sitemap.xml"
  },
  "The Chanzo": {
-  "items": 0,
-  "last_ok": "2026-11-23T01:41:58+00:00",
+  "items": 1,
+  "last_ok": "2026-11-23T12:35:12+00:00",
   "method": "wp",
   "url": "https://thechanzo.com"
  },
  "The Citizen": {
   "items": 40,
-  "last_ok": "2026-11-23T01:41:58+00:00",
+  "last_ok": "2026-11-23T12:35:12+00:00",
   "method": "rss",
   "url": "https://www.thecitizen.co.tz/rss.xml"
  }
