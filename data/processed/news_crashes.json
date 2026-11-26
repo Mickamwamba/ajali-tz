@@ -121,6 +121,52 @@
   "review_status": "auto-approved"
  },
  {
+  "crash_id": "dd2c60a7350e",
+  "crash_date": "2026-10-08",
+  "region": "Morogoro",
+  "district": "Kilosa",
+  "place": "Miti Bora, Magole Village, Morogoro–Dodoma Highway",
+  "lat": -6.9574,
+  "lon": 36.9203,
+  "location_level": "district",
+  "vehicles": [
+   "other",
+   "lorry",
+   "lorry"
+  ],
+  "deaths": 4,
+  "injuries": 7,
+  "victim_types": [
+   "driver",
+   "passenger"
+  ],
+  "reported_cause": "not_reported",
+  "cause_detail": null,
+  "n_sources": 3,
+  "sources": [
+   {
+    "url": "https://dailynews.co.tz/samia-mourns-32-road-accident-victims-in-morogoro/",
+    "outlet": "Daily News",
+    "title": "Samia mourns 32 road accident victims in Morogoro",
+    "published_at": "2026-10-09T15:06:21+00:00"
+   },
+   {
+    "url": "https://thechanzo.com/2026/10/10/mourning-in-morogoro-32-killed-in-two-crashes-as-families-wait-to-bury-the-dead/",
+    "outlet": "The Chanzo",
+    "title": "Mourning in Morogoro: 32 Killed in Two Crashes as Families Wait to Bury the Dead",
+    "published_at": "2026-10-10T07:43:19+00:00"
+   },
+   {
+    "url": "https://dailynews.co.tz/igp-mourns-officers-warns-reckless-drivers/",
+    "outlet": "Daily News",
+    "title": "IGP mourns officers, warns reckless drivers",
+    "published_at": "2026-10-12T06:16:16+00:00"
+   }
+  ],
+  "confidence": 0.85,
+  "review_status": "approved"
+ },
+ {
   "crash_id": "e8dc9993d6f9",
   "crash_date": "2026-10-08",
   "region": "Morogoro",
@@ -369,6 +415,45 @@
   "review_status": "auto-approved"
  },
  {
+  "crash_id": "aff2a8ab0b8c",
+  "crash_date": "2026-08-02",
+  "region": "Dodoma",
+  "district": "Bahi",
+  "place": "Ibihwa Village, Bahi District",
+  "lat": -6.1666,
+  "lon": 35.3666,
+  "location_level": "district",
+  "vehicles": [
+   "bus",
+   "bus"
+  ],
+  "deaths": 9,
+  "injuries": 66,
+  "victim_types": [
+   "driver",
+   "passenger"
+  ],
+  "reported_cause": "careless_overtaking",
+  "cause_detail": "Reckless overtaking caused head-on collision with oncoming bus",
+  "n_sources": 2,
+  "sources": [
+   {
+    "url": "https://dailynews.co.tz/police-arrest-bus-driver-over-dodoma-deadly-crash/",
+    "outlet": "Daily News",
+    "title": "Police arrest bus driver over Dodoma deadly crash",
+    "published_at": "2026-08-04T05:37:45+00:00"
+   },
+   {
+    "url": "https://thechanzo.com/2026/09/21/twelve-killed-in-singida-crash-as-fatal-collisions-renew-calls-for-safer-roads/",
+    "outlet": "The Chanzo",
+    "title": "Twelve Killed in Singida Crash as Fatal Collisions Renew Calls for Safer Roads",
+    "published_at": "2026-09-21T17:39:57+00:00"
+   }
+  ],
+  "confidence": 0.9,
+  "review_status": "approved"
+ },
+ {
   "crash_id": "dfd1a6738b6d",
   "crash_date": "2026-06-02",
   "region": "Singida",
@@ -468,6 +553,39 @@
   ],
   "confidence": 0.8,
   "review_status": "auto-approved"
+ },
+ {
+  "crash_id": "88c50e6efc3c",
+  "crash_date": "2026-05-30",
+  "region": null,
+  "district": null,
+  "place": "Kimanzichana",
+  "lat": null,
+  "lon": null,
+  "location_level": "none",
+  "vehicles": [
+   "bus",
+   "minibus"
+  ],
+  "deaths": 6,
+  "injuries": 4,
+  "victim_types": [
+   "driver",
+   "passenger"
+  ],
+  "reported_cause": "not_reported",
+  "cause_detail": "Cause not reported in article",
+  "n_sources": 1,
+  "sources": [
+   {
+    "url": "https://thechanzo.com/2026/09/21/twelve-killed-in-singida-crash-as-fatal-collisions-renew-calls-for-safer-roads/",
+    "outlet": "The Chanzo",
+    "title": "Twelve Killed in Singida Crash as Fatal Collisions Renew Calls for Safer Roads",
+    "published_at": "2026-09-21T17:39:57+00:00"
+   }
+  ],
+  "confidence": 0.8,
+  "review_status": "approved"
  },
  {
   "crash_id": "833922a56037",
@@ -598,6 +716,36 @@
   "review_status": "auto-approved"
  },
  {
+  "crash_id": "7a81049a647d",
+  "crash_date": "2026-04-22",
+  "region": "Tanga",
+  "district": "Korogwe",
+  "place": null,
+  "lat": -4.9311,
+  "lon": 38.1516,
+  "location_level": "district",
+  "vehicles": [
+   "bus",
+   "lorry"
+  ],
+  "deaths": 2,
+  "injuries": 7,
+  "victim_types": [],
+  "reported_cause": "not_reported",
+  "cause_detail": null,
+  "n_sources": 1,
+  "sources": [
+   {
+    "url": "https://thechanzo.com/2026/06/02/outcry-as-paediatrician-loses-leg-in-crash-that-injured-six-doctors/",
+    "outlet": "The Chanzo",
+    "title": "Outcry as Paediatrician Loses Leg in Crash That Injured Six Doctors",
+    "published_at": "2026-06-02T03:58:00+00:00"
+   }
+  ],
+  "confidence": 0.7,
+  "review_status": "approved"
+ },
+ {
   "crash_id": "dc12035f15a3",
   "crash_date": "2026-04-14",
   "region": "Tabora",
@@ -724,6 +872,68 @@
   ],
   "confidence": 0.9,
   "review_status": "auto-approved"
+ },
+ {
+  "crash_id": "ec63988911a4",
+  "crash_date": "2026-02-08",
+  "region": null,
+  "district": null,
+  "place": null,
+  "lat": null,
+  "lon": null,
+  "location_level": "none",
+  "vehicles": [
+   "other"
+  ],
+  "deaths": 1,
+  "injuries": null,
+  "victim_types": [
+   "passenger"
+  ],
+  "reported_cause": "not_reported",
+  "cause_detail": null,
+  "n_sources": 1,
+  "sources": [
+   {
+    "url": "https://thechanzo.com/2026/06/02/outcry-as-paediatrician-loses-leg-in-crash-that-injured-six-doctors/",
+    "outlet": "The Chanzo",
+    "title": "Outcry as Paediatrician Loses Leg in Crash That Injured Six Doctors",
+    "published_at": "2026-06-02T03:58:00+00:00"
+   }
+  ],
+  "confidence": 0.5,
+  "review_status": "approved"
+ },
+ {
+  "crash_id": "7a34d68421ac",
+  "crash_date": "2026-02-07",
+  "region": "Lindi",
+  "district": "Kilwa",
+  "place": null,
+  "lat": -9.0888,
+  "lon": 38.9482,
+  "location_level": "district",
+  "vehicles": [
+   "bus"
+  ],
+  "deaths": 2,
+  "injuries": null,
+  "victim_types": [
+   "passenger"
+  ],
+  "reported_cause": "not_reported",
+  "cause_detail": null,
+  "n_sources": 1,
+  "sources": [
+   {
+    "url": "https://thechanzo.com/2026/06/02/outcry-as-paediatrician-loses-leg-in-crash-that-injured-six-doctors/",
+    "outlet": "The Chanzo",
+    "title": "Outcry as Paediatrician Loses Leg in Crash That Injured Six Doctors",
+    "published_at": "2026-06-02T03:58:00+00:00"
+   }
+  ],
+  "confidence": 0.6,
+  "review_status": "approved"
  },
  {
   "crash_id": "4b5fdaff40ca",
