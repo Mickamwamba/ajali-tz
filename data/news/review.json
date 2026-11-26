@@ -48,12 +48,15 @@
   "note": "article states 2 dead 7 injured, Korogwe"
  },
  "88c50e6efc3c": {
-  "at": "2026-11-26T17:24:23+00:00",
+  "at": "2026-11-26T17:26:22+00:00",
   "decision": "approved",
+  "edits": {
+   "district": "Mkuranga",
+   "region": "Pwani"
+  },
   "member_keys": [
    "87cdf76ea088b2d4#4"
-  ],
-  "note": "approved as is, no region set"
+  ]
  },
  "aff2a8ab0b8c": {
   "at": "2026-11-26T17:24:23+00:00",

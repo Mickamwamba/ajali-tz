@@ -557,12 +557,12 @@
  {
   "crash_id": "88c50e6efc3c",
   "crash_date": "2026-05-30",
-  "region": null,
-  "district": null,
+  "region": "Pwani",
+  "district": "Mkuranga",
   "place": "Kimanzichana",
-  "lat": null,
-  "lon": null,
-  "location_level": "none",
+  "lat": -7.2458,
+  "lon": 39.1583,
+  "location_level": "district",
   "vehicles": [
    "bus",
    "minibus"
