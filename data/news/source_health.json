@@ -1,31 +1,33 @@
 {
  "Daily News": {
   "items": 2,
+  "last_error": "2026-11-27T12:15:41+00:00: JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
   "last_ok": "2026-11-27T01:44:06+00:00",
   "method": "wp",
   "url": "https://dailynews.co.tz"
  },
  "HabariLeo": {
   "items": 2,
+  "last_error": "2026-11-27T12:15:41+00:00: JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
   "last_ok": "2026-11-27T01:44:06+00:00",
   "method": "wp",
   "url": "https://habarileo.co.tz"
  },
  "Mwananchi": {
   "items": 25,
-  "last_ok": "2026-11-27T01:44:06+00:00",
+  "last_ok": "2026-11-27T12:15:41+00:00",
   "method": "sitemap",
   "url": "https://www.mwananchi.co.tz/sitemap.xml"
  },
  "The Chanzo": {
   "items": 0,
-  "last_ok": "2026-11-27T01:44:06+00:00",
+  "last_ok": "2026-11-27T12:15:41+00:00",
   "method": "wp",
   "url": "https://thechanzo.com"
  },
  "The Citizen": {
   "items": 40,
-  "last_ok": "2026-11-27T01:44:06+00:00",
+  "last_ok": "2026-11-27T12:15:41+00:00",
   "method": "rss",
   "url": "https://www.thecitizen.co.tz/rss.xml"
  }
